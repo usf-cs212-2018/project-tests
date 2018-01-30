@@ -1,0 +1,7758 @@
+{
+	"a": {
+		"html/numpy/user/quickstart.html": [
+			125,
+			138,
+			186,
+			199,
+			221,
+			239,
+			259,
+			266,
+			351,
+			365,
+			530,
+			534,
+			536,
+			538,
+			540,
+			544,
+			546,
+			549,
+			580,
+			611,
+			614,
+			616,
+			627,
+			641,
+			649,
+			653,
+			827,
+			962,
+			1029,
+			1035,
+			1124,
+			1134,
+			1143,
+			1151,
+			1153,
+			1186,
+			1192,
+			1197,
+			1205,
+			1227,
+			1230,
+			1239,
+			1240,
+			1243,
+			1246,
+			1299,
+			1304,
+			1319,
+			1364,
+			1368,
+			1370,
+			1372,
+			1374,
+			1388,
+			1568,
+			1571,
+			1573,
+			1574,
+			1576,
+			1579,
+			1590,
+			1592,
+			1594,
+			1599,
+			1618,
+			1740,
+			1749,
+			1773,
+			1869,
+			1880,
+			1886,
+			1888,
+			1901,
+			1907,
+			1909,
+			1939,
+			1941,
+			2033,
+			2045,
+			2047,
+			2049,
+			2052,
+			2058,
+			2067,
+			2090,
+			2096,
+			2108,
+			2113,
+			2126,
+			2145,
+			2151,
+			2157,
+			2163,
+			2171,
+			2178,
+			2340,
+			2346,
+			2350,
+			2352,
+			2359,
+			2361,
+			2404,
+			2413,
+			2439,
+			2443,
+			2451,
+			2452,
+			2470,
+			2471,
+			2492,
+			2495,
+			2502,
+			2519,
+			2530,
+			2534,
+			2539,
+			2542,
+			2549,
+			2557,
+			2563,
+			2566,
+			2570,
+			2576,
+			2581,
+			2591,
+			2595,
+			2606,
+			2614,
+			2624,
+			2626,
+			2637,
+			2642,
+			2649,
+			2652,
+			2660,
+			2790,
+			2822,
+			2853,
+			2857,
+			2959,
+			2973,
+			2978,
+			2987,
+			2992,
+			3004,
+			3007,
+			3018,
+			3032,
+			3036,
+			3053,
+			3086,
+			3090,
+			3101,
+			3110,
+			3121,
+			3124,
+			3128,
+			3139,
+			3142,
+			3155,
+			3159,
+			3189,
+			3195,
+			3218,
+			3223,
+			3318,
+			3323,
+			3326,
+			3328,
+			3329,
+			3350,
+			3353,
+			3354,
+			3379,
+			3382,
+			3383,
+			3406,
+			3411,
+			3412,
+			3483,
+			3488,
+			3492,
+			3495,
+			3513,
+			3530,
+			3535,
+			3539,
+			3679,
+			3688,
+			3711,
+			3716,
+			3721,
+			3726,
+			3729,
+			3764,
+			3774,
+			3788,
+			3821,
+			3834,
+			3838,
+			3852,
+			3874,
+			3916,
+			3993,
+			3997,
+			3998,
+			4004,
+			4037,
+			4090,
+			4119,
+			4122,
+			4128,
+			4130,
+			4138,
+			4142,
+			4249,
+			4267,
+			4312,
+			4330,
+			4391
+		]
+	},
+	"accepts": {
+		"html/numpy/user/quickstart.html": [
+			844
+		]
+	},
+	"access": {
+		"html/numpy/user/quickstart.html": [
+			515
+		]
+	},
+	"according": {
+		"html/numpy/user/quickstart.html": [
+			4060
+		]
+	},
+	"act": {
+		"html/numpy/user/quickstart.html": [
+			1216,
+			2860
+		]
+	},
+	"actual": {
+		"html/numpy/user/quickstart.html": [
+			498
+		]
+	},
+	"add": {
+		"html/numpy/user/quickstart.html": [
+			1265,
+			1497,
+			3915
+		]
+	},
+	"added": {
+		"html/numpy/user/quickstart.html": [
+			2583
+		]
+	},
+	"addition": {
+		"html/numpy/user/quickstart.html": [
+			2931
+		]
+	},
+	"additionally": {
+		"html/numpy/user/quickstart.html": [
+			438
+		]
+	},
+	"advantage": {
+		"html/numpy/user/quickstart.html": [
+			3921
+		]
+	},
+	"after": {
+		"html/numpy/user/quickstart.html": [
+			1938,
+			2334,
+			2362,
+			2896
+		]
+	},
+	"again": {
+		"html/numpy/user/quickstart.html": [
+			1951
+		]
+	},
+	"algebra": {
+		"html/numpy/user/quickstart.html": [
+			93,
+			2772,
+			3967,
+			3973
+		]
+	},
+	"alias": {
+		"html/numpy/user/quickstart.html": [
+			282
+		]
+	},
+	"all": {
+		"html/numpy/user/quickstart.html": [
+			57,
+			192,
+			1350,
+			1503,
+			1837,
+			2426,
+			2737,
+			2811,
+			2835,
+			2905,
+			3303,
+			3532,
+			3819,
+			3825
+		]
+	},
+	"allow": {
+		"html/numpy/user/quickstart.html": [
+			2247,
+			2276
+		]
+	},
+	"allows": {
+		"html/numpy/user/quickstart.html": [
+			1720,
+			2160,
+			2211,
+			2381,
+			2784
+		]
+	},
+	"along": {
+		"html/numpy/user/quickstart.html": [
+			1407,
+			1441,
+			1506,
+			1877,
+			2087,
+			2199,
+			2205,
+			2222,
+			2243,
+			2287,
+			2314,
+			2374,
+			2385,
+			2856,
+			2874,
+			2889
+		]
+	},
+	"also": {
+		"html/numpy/user/quickstart.html": [
+			156,
+			278,
+			689,
+			801,
+			930,
+			995,
+			1502,
+			1719,
+			1851,
+			2006,
+			2071,
+			2292,
+			2587,
+			3066,
+			3312,
+			3879,
+			4234,
+			4265
+		]
+	},
+	"an": {
+		"html/numpy/user/quickstart.html": [
+			18,
+			38,
+			227,
+			315,
+			416,
+			469,
+			519,
+			524,
+			577,
+			647,
+			711,
+			740,
+			747,
+			756,
+			766,
+			890,
+			956,
+			1009,
+			1061,
+			1221,
+			1405,
+			1412,
+			1473,
+			1476,
+			1703,
+			1818,
+			1834,
+			1864,
+			1866,
+			1893,
+			2010,
+			2213,
+			2278,
+			2312,
+			2499,
+			2573,
+			2969,
+			3027,
+			3175,
+			3557,
+			3578,
+			3947,
+			4104,
+			4246
+		]
+	},
+	"analogous": {
+		"html/numpy/user/quickstart.html": [
+			829
+		]
+	},
+	"and": {
+		"html/numpy/user/quickstart.html": [
+			30,
+			52,
+			65,
+			74,
+			98,
+			306,
+			370,
+			449,
+			675,
+			761,
+			773,
+			1023,
+			1078,
+			1094,
+			1129,
+			1215,
+			1456,
+			1549,
+			1558,
+			1564,
+			1662,
+			1766,
+			2003,
+			2209,
+			2233,
+			2263,
+			2269,
+			2365,
+			2378,
+			2391,
+			2395,
+			2407,
+			2453,
+			2604,
+			2620,
+			2655,
+			2667,
+			2918,
+			2936,
+			2950,
+			3114,
+			3136,
+			3144,
+			3172,
+			3452,
+			3775,
+			3836,
+			3907,
+			4085,
+			4094,
+			4157,
+			4184,
+			4258,
+			4319,
+			4354
+		]
+	},
+	"another": {
+		"html/numpy/user/quickstart.html": [
+			1207,
+			1987,
+			3227
+		]
+	},
+	"any": {
+		"html/numpy/user/quickstart.html": [
+			1504,
+			2738
+		]
+	},
+	"anything": {
+		"html/numpy/user/quickstart.html": [
+			2647
+		]
+	},
+	"application": {
+		"html/numpy/user/quickstart.html": [
+			2897
+		]
+	},
+	"applied": {
+		"html/numpy/user/quickstart.html": [
+			4244
+		]
+	},
+	"apply": {
+		"html/numpy/user/quickstart.html": [
+			1122,
+			1380,
+			1404,
+			1505
+		]
+	},
+	"approach": {
+		"html/numpy/user/quickstart.html": [
+			3439
+		]
+	},
+	"arange": {
+		"html/numpy/user/quickstart.html": [
+			532,
+			839,
+			842,
+			849,
+			941,
+			1031,
+			1038,
+			1046,
+			1085,
+			1088,
+			1139,
+			1416,
+			1482,
+			1570,
+			2441,
+			2681,
+			2961,
+			3088,
+			3254,
+			3325,
+			3352,
+			3381,
+			3485,
+			3690,
+			4121,
+			4202,
+			4206
+		]
+	},
+	"are": {
+		"html/numpy/user/quickstart.html": [
+			207,
+			318,
+			452,
+			566,
+			713,
+			994,
+			1015,
+			1356,
+			1461,
+			1615,
+			1671,
+			1681,
+			2064,
+			2235,
+			2265,
+			2420,
+			2455,
+			3427,
+			4159
+		]
+	},
+	"argmax": {
+		"html/numpy/user/quickstart.html": [
+			1508,
+			2742,
+			3265
+		]
+	},
+	"argmin": {
+		"html/numpy/user/quickstart.html": [
+			1509,
+			2743
+		]
+	},
+	"argsort": {
+		"html/numpy/user/quickstart.html": [
+			1510,
+			2744
+		]
+	},
+	"argument": {
+		"html/numpy/user/quickstart.html": [
+			648,
+			891,
+			1976,
+			2012,
+			2031,
+			2280,
+			3948
+		]
+	},
+	"arguments": {
+		"html/numpy/user/quickstart.html": [
+			637,
+			846,
+			855,
+			2215,
+			2261
+		]
+	},
+	"arithmetic": {
+		"html/numpy/user/quickstart.html": [
+			1118
+		]
+	},
+	"array": {
+		"html/numpy/user/quickstart.html": [
+			20,
+			39,
+			46,
+			95,
+			183,
+			228,
+			248,
+			271,
+			283,
+			287,
+			298,
+			299,
+			328,
+			348,
+			360,
+			402,
+			426,
+			466,
+			470,
+			502,
+			520,
+			535,
+			555,
+			557,
+			563,
+			578,
+			588,
+			595,
+			613,
+			615,
+			622,
+			633,
+			651,
+			655,
+			657,
+			680,
+			682,
+			687,
+			698,
+			702,
+			712,
+			748,
+			757,
+			767,
+			788,
+			793,
+			804,
+			813,
+			840,
+			847,
+			912,
+			931,
+			957,
+			1033,
+			1041,
+			1049,
+			1062,
+			1077,
+			1101,
+			1126,
+			1136,
+			1141,
+			1146,
+			1148,
+			1152,
+			1154,
+			1188,
+			1191,
+			1196,
+			1202,
+			1210,
+			1223,
+			1241,
+			1245,
+			1290,
+			1322,
+			1333,
+			1355,
+			1369,
+			1383,
+			1413,
+			1419,
+			1427,
+			1435,
+			1444,
+			1474,
+			1477,
+			1484,
+			1488,
+			1492,
+			1495,
+			1500,
+			1572,
+			1575,
+			1591,
+			1595,
+			1637,
+			1648,
+			1655,
+			1667,
+			1692,
+			1751,
+			1772,
+			1775,
+			1788,
+			1793,
+			1825,
+			1842,
+			1865,
+			1867,
+			1887,
+			1894,
+			1905,
+			1906,
+			1911,
+			1919,
+			1944,
+			1953,
+			1980,
+			1988,
+			2043,
+			2046,
+			2050,
+			2069,
+			2097,
+			2105,
+			2110,
+			2115,
+			2128,
+			2150,
+			2153,
+			2156,
+			2167,
+			2175,
+			2188,
+			2255,
+			2302,
+			2313,
+			2347,
+			2354,
+			2355,
+			2356,
+			2369,
+			2370,
+			2371,
+			2379,
+			2406,
+			2433,
+			2508,
+			2521,
+			2571,
+			2574,
+			2607,
+			2619,
+			2628,
+			2653,
+			2679,
+			2682,
+			2713,
+			2869,
+			2881,
+			2895,
+			2968,
+			2970,
+			2983,
+			2986,
+			2989,
+			2999,
+			3003,
+			3009,
+			3040,
+			3048,
+			3063,
+			3091,
+			3094,
+			3104,
+			3120,
+			3123,
+			3130,
+			3162,
+			3176,
+			3179,
+			3192,
+			3226,
+			3260,
+			3262,
+			3275,
+			3298,
+			3301,
+			3327,
+			3330,
+			3355,
+			3384,
+			3449,
+			3482,
+			3498,
+			3516,
+			3521,
+			3540,
+			3676,
+			3682,
+			3694,
+			3703,
+			3715,
+			3720,
+			3725,
+			3734,
+			3743,
+			3766,
+			3840,
+			3843,
+			3846,
+			3856,
+			3858,
+			3860,
+			3872,
+			3919,
+			3949,
+			3979,
+			3995,
+			4000,
+			4005,
+			4016,
+			4019,
+			4026,
+			4033,
+			4039,
+			4044,
+			4047,
+			4105,
+			4131,
+			4140,
+			4247,
+			4257
+		]
+	},
+	"arrays": {
+		"html/numpy/user/quickstart.html": [
+			23,
+			43,
+			79,
+			85,
+			305,
+			571,
+			665,
+			674,
+			728,
+			739,
+			834,
+			952,
+			1014,
+			1121,
+			1173,
+			1281,
+			1553,
+			1606,
+			1779,
+			1797,
+			1962,
+			2017,
+			2080,
+			2082,
+			2122,
+			2137,
+			2149,
+			2190,
+			2239,
+			2259,
+			2326,
+			2397,
+			2813,
+			2833,
+			2837,
+			2851,
+			2906,
+			2942,
+			2947,
+			2951,
+			2956,
+			3075,
+			3233,
+			3316,
+			3416,
+			3420,
+			3422,
+			3473,
+			3965
+		]
+	},
+	"as": {
+		"html/numpy/user/quickstart.html": [
+			292,
+			340,
+			528,
+			609,
+			646,
+			889,
+			1018,
+			1021,
+			1025,
+			1214,
+			1302,
+			1345,
+			1358,
+			1384,
+			1453,
+			1478,
+			1702,
+			1707,
+			1711,
+			1727,
+			1733,
+			1736,
+			1784,
+			1791,
+			1956,
+			2056,
+			2123,
+			2260,
+			2477,
+			2861,
+			2938,
+			2997,
+			3183,
+			3222,
+			3317,
+			3371,
+			3479,
+			3565,
+			3570,
+			3803,
+			3883,
+			3911,
+			3991,
+			4274,
+			4304,
+			4309
+		]
+	},
+	"assign": {
+		"html/numpy/user/quickstart.html": [
+			3321
+		]
+	},
+	"assignment": {
+		"html/numpy/user/quickstart.html": [
+			3340
+		]
+	},
+	"assignments": {
+		"html/numpy/user/quickstart.html": [
+			2428,
+			3529
+		]
+	},
+	"assumed": {
+		"html/numpy/user/quickstart.html": [
+			2884
+		]
+	},
+	"astype": {
+		"html/numpy/user/quickstart.html": [
+			2704
+		]
+	},
+	"at": {
+		"html/numpy/user/quickstart.html": [
+			56,
+			140,
+			693,
+			921,
+			2425,
+			2525,
+			2979,
+			3544
+		]
+	},
+	"atleast": {
+		"html/numpy/user/quickstart.html": [
+			2705,
+			2707,
+			2709
+		]
+	},
+	"attribute": {
+		"html/numpy/user/quickstart.html": [
+			511,
+			1831
+		]
+	},
+	"attributes": {
+		"html/numpy/user/quickstart.html": [
+			313
+		]
+	},
+	"automatic": {
+		"html/numpy/user/quickstart.html": [
+			100,
+			4097
+		]
+	},
+	"automatically": {
+		"html/numpy/user/quickstart.html": [
+			1070,
+			1251,
+			2065,
+			4118,
+			4294
+		]
+	},
+	"average": {
+		"html/numpy/user/quickstart.html": [
+			1511
+		]
+	},
+	"avoid": {
+		"html/numpy/user/quickstart.html": [
+			3643,
+			3945
+		]
+	},
+	"ax": {
+		"html/numpy/user/quickstart.html": [
+			3847,
+			3855,
+			3861,
+			3868
+		]
+	},
+	"axes": {
+		"html/numpy/user/quickstart.html": [
+			209,
+			213,
+			324,
+			1677,
+			1717,
+			1756,
+			2089,
+			2202,
+			2208
+		]
+	},
+	"axis": {
+		"html/numpy/user/quickstart.html": [
+			235,
+			237,
+			257,
+			975,
+			1400,
+			1410,
+			1422,
+			1430,
+			1438,
+			1507,
+			1612,
+			1805,
+			1879,
+			2221,
+			2245,
+			2286,
+			2317,
+			2377,
+			2387,
+			3266,
+			3308,
+			3753
+		]
+	},
+	"b": {
+		"html/numpy/user/quickstart.html": [
+			553,
+			556,
+			559,
+			620,
+			623,
+			678,
+			681,
+			1036,
+			1043,
+			1137,
+			1140,
+			1144,
+			1147,
+			1189,
+			1193,
+			1199,
+			1206,
+			1235,
+			1242,
+			1244,
+			1247,
+			1248,
+			1310,
+			1314,
+			1320,
+			1414,
+			1418,
+			1420,
+			1428,
+			1436,
+			1480,
+			1483,
+			1487,
+			1491,
+			1498,
+			1630,
+			1636,
+			1638,
+			1639,
+			1647,
+			1649,
+			1656,
+			1666,
+			1685,
+			1691,
+			1698,
+			1728,
+			1809,
+			1846,
+			2098,
+			2104,
+			2109,
+			2114,
+			2146,
+			2154,
+			2173,
+			2180,
+			2442,
+			2449,
+			2454,
+			2464,
+			3487,
+			3489,
+			3490,
+			3514,
+			3531,
+			3692,
+			3701,
+			3712,
+			3717,
+			3722,
+			3727,
+			3728,
+			3762,
+			3776,
+			3822,
+			3835,
+			3841,
+			3853,
+			3875,
+			3917
+		]
+	},
+	"base": {
+		"html/numpy/user/quickstart.html": [
+			2537,
+			2640
+		]
+	},
+	"basic": {
+		"html/numpy/user/quickstart.html": [
+			24,
+			69,
+			1116,
+			2764,
+			2770,
+			2780,
+			3971
+		]
+	},
+	"basics": {
+		"html/numpy/user/quickstart.html": [
+			17,
+			114,
+			174
+		]
+	},
+	"be": {
+		"html/numpy/user/quickstart.html": [
+			375,
+			690,
+			802,
+			1067,
+			1178,
+			1555,
+			1896,
+			1998,
+			2007,
+			2084,
+			2588,
+			2824,
+			2886,
+			2912,
+			2944,
+			3181,
+			3408,
+			3525,
+			3796,
+			3975,
+			4116,
+			4196,
+			4231
+		]
+	},
+	"because": {
+		"html/numpy/user/quickstart.html": [
+			231,
+			512,
+			3177,
+			3403
+		]
+	},
+	"become": {
+		"html/numpy/user/quickstart.html": [
+			3538
+		]
+	},
+	"before": {
+		"html/numpy/user/quickstart.html": [
+			118,
+			2941
+		]
+	},
+	"beginners": {
+		"html/numpy/user/quickstart.html": [
+			2418
+		]
+	},
+	"behavior": {
+		"html/numpy/user/quickstart.html": [
+			1300,
+			2183,
+			2274,
+			3024
+		]
+	},
+	"behaviour": {
+		"html/numpy/user/quickstart.html": [
+			1093
+		]
+	},
+	"behind": {
+		"html/numpy/user/quickstart.html": [
+			3346,
+			4222
+		]
+	},
+	"below": {
+		"html/numpy/user/quickstart.html": [
+			246,
+			1053
+		]
+	},
+	"better": {
+		"html/numpy/user/quickstart.html": [
+			881
+		]
+	},
+	"between": {
+		"html/numpy/user/quickstart.html": [
+			2602
+		]
+	},
+	"beware": {
+		"html/numpy/user/quickstart.html": [
+			4263
+		]
+	},
+	"bidimensional": {
+		"html/numpy/user/quickstart.html": [
+			2988
+		]
+	},
+	"bidimensionals": {
+		"html/numpy/user/quickstart.html": [
+			1020
+		]
+	},
+	"bincount": {
+		"html/numpy/user/quickstart.html": [
+			1512
+		]
+	},
+	"bins": {
+		"html/numpy/user/quickstart.html": [
+			4262,
+			4334,
+			4338,
+			4359,
+			4363,
+			4372,
+			4373
+		]
+	},
+	"bit": {
+		"html/numpy/user/quickstart.html": [
+			126
+		]
+	},
+	"black": {
+		"html/numpy/user/quickstart.html": [
+			3041
+		]
+	},
+	"blue": {
+		"html/numpy/user/quickstart.html": [
+			3044
+		]
+	},
+	"bool": {
+		"html/numpy/user/quickstart.html": [
+			1160,
+			3512
+		]
+	},
+	"boolean": {
+		"html/numpy/user/quickstart.html": [
+			84,
+			3415,
+			3436,
+			3467,
+			3472,
+			3493,
+			3553,
+			3681,
+			3742
+		]
+	},
+	"booleans": {
+		"html/numpy/user/quickstart.html": [
+			2953,
+			3664
+		]
+	},
+	"bottom": {
+		"html/numpy/user/quickstart.html": [
+			991,
+			1000
+		]
+	},
+	"brackets": {
+		"html/numpy/user/quickstart.html": [
+			1696
+		]
+	},
+	"broadcast": {
+		"html/numpy/user/quickstart.html": [
+			2894
+		]
+	},
+	"broadcasting": {
+		"html/numpy/user/quickstart.html": [
+			70,
+			2781,
+			2783,
+			2807,
+			2848,
+			2900,
+			2915,
+			3940
+		]
+	},
+	"buffer": {
+		"html/numpy/user/quickstart.html": [
+			495
+		]
+	},
+	"build": {
+		"html/numpy/user/quickstart.html": [
+			4270,
+			4311
+		]
+	},
+	"but": {
+		"html/numpy/user/quickstart.html": [
+			716,
+			968,
+			1977,
+			2275,
+			3360
+		]
+	},
+	"bx": {
+		"html/numpy/user/quickstart.html": [
+			3848,
+			3857,
+			3863,
+			3869
+		]
+	},
+	"by": {
+		"html/numpy/user/quickstart.html": [
+			198,
+			280,
+			781,
+			1008,
+			1376,
+			1397,
+			1621,
+			1706,
+			1872,
+			1983,
+			2240,
+			2319,
+			2330,
+			2548,
+			2934,
+			2946,
+			3025,
+			3169
+		]
+	},
+	"bytes": {
+		"html/numpy/user/quickstart.html": [
+			460
+		]
+	},
+	"c": {
+		"html/numpy/user/quickstart.html": [
+			696,
+			701,
+			1044,
+			1051,
+			1142,
+			1145,
+			1318,
+			1321,
+			1323,
+			1330,
+			1493,
+			1499,
+			1770,
+			1780,
+			1782,
+			1785,
+			1787,
+			1789,
+			1792,
+			1925,
+			1957,
+			2234,
+			2264,
+			2298,
+			2529,
+			2532,
+			2536,
+			2540,
+			2551,
+			2555,
+			2565,
+			3596,
+			3601,
+			3617,
+			3823,
+			3837,
+			3844,
+			3854,
+			3876,
+			3918
+		]
+	},
+	"calculated": {
+		"html/numpy/user/quickstart.html": [
+			2066
+		]
+	},
+	"call": {
+		"html/numpy/user/quickstart.html": [
+			1259,
+			3204
+		]
+	},
+	"called": {
+		"html/numpy/user/quickstart.html": [
+			208,
+			274,
+			1462,
+			4272
+		]
+	},
+	"calling": {
+		"html/numpy/user/quickstart.html": [
+			632
+		]
+	},
+	"calls": {
+		"html/numpy/user/quickstart.html": [
+			2481
+		]
+	},
+	"can": {
+		"html/numpy/user/quickstart.html": [
+			428,
+			575,
+			688,
+			800,
+			1103,
+			1177,
+			1403,
+			1554,
+			1607,
+			1827,
+			1895,
+			2005,
+			2083,
+			2310,
+			2510,
+			2911,
+			2943,
+			3065,
+			3133,
+			3165,
+			3311,
+			3463,
+			3524,
+			3542,
+			3795,
+			4107,
+			4230
+		]
+	},
+	"cannot": {
+		"html/numpy/user/quickstart.html": [
+			1262
+		]
+	},
+	"cases": {
+		"html/numpy/user/quickstart.html": [
+			2231,
+			2422
+		]
+	},
+	"cast": {
+		"html/numpy/user/quickstart.html": [
+			1263
+		]
+	},
+	"casting": {
+		"html/numpy/user/quickstart.html": [
+			1274
+		]
+	},
+	"categories": {
+		"html/numpy/user/quickstart.html": [
+			2672
+		]
+	},
+	"ceil": {
+		"html/numpy/user/quickstart.html": [
+			1513
+		]
+	},
+	"central": {
+		"html/numpy/user/quickstart.html": [
+			1073
+		]
+	},
+	"change": {
+		"html/numpy/user/quickstart.html": [
+			1104,
+			2562,
+			4100
+		]
+	},
+	"changed": {
+		"html/numpy/user/quickstart.html": [
+			1897
+		]
+	},
+	"changes": {
+		"html/numpy/user/quickstart.html": [
+			1932,
+			2023,
+			2466,
+			2569
+		]
+	},
+	"changing": {
+		"html/numpy/user/quickstart.html": [
+			34,
+			1860
+		]
+	},
+	"choose": {
+		"html/numpy/user/quickstart.html": [
+			2751,
+			3444
+		]
+	},
+	"clarity": {
+		"html/numpy/user/quickstart.html": [
+			2585
+		]
+	},
+	"class": {
+		"html/numpy/user/quickstart.html": [
+			272,
+			297,
+			1363
+		]
+	},
+	"clip": {
+		"html/numpy/user/quickstart.html": [
+			1514
+		]
+	},
+	"code": {
+		"html/numpy/user/quickstart.html": [
+			3655,
+			4346
+		]
+	},
+	"coincide": {
+		"html/numpy/user/quickstart.html": [
+			3745
+		]
+	},
+	"colons": {
+		"html/numpy/user/quickstart.html": [
+			1735
+		]
+	},
+	"color": {
+		"html/numpy/user/quickstart.html": [
+			3033,
+			3054,
+			3061
+		]
+	},
+	"column": {
+		"html/numpy/user/quickstart.html": [
+			1426,
+			1645,
+			1658,
+			2118,
+			2143,
+			2169,
+			2295,
+			2368,
+			2715,
+			4072,
+			4180
+		]
+	},
+	"columns": {
+		"html/numpy/user/quickstart.html": [
+			372,
+			2124,
+			2165,
+			2333,
+			3724,
+			3786
+		]
+	},
+	"combine": {
+		"html/numpy/user/quickstart.html": [
+			3799
+		]
+	},
+	"commands": {
+		"html/numpy/user/quickstart.html": [
+			1900
+		]
+	},
+	"commas": {
+		"html/numpy/user/quickstart.html": [
+			1622
+		]
+	},
+	"common": {
+		"html/numpy/user/quickstart.html": [
+			3228
+		]
+	},
+	"community": {
+		"html/numpy/user/quickstart.html": [
+			4401
+		]
+	},
+	"compared": {
+		"html/numpy/user/quickstart.html": [
+			3927
+		]
+	},
+	"complete": {
+		"html/numpy/user/quickstart.html": [
+			1683,
+			1741,
+			2615
+		]
+	},
+	"complex": {
+		"html/numpy/user/quickstart.html": [
+			482,
+			700,
+			1340,
+			2230
+		]
+	},
+	"compress": {
+		"html/numpy/user/quickstart.html": [
+			2752
+		]
+	},
+	"compute": {
+		"html/numpy/user/quickstart.html": [
+			3818,
+			4349
+		]
+	},
+	"computer": {
+		"html/numpy/user/quickstart.html": [
+			163
+		]
+	},
+	"computing": {
+		"html/numpy/user/quickstart.html": [
+			1346
+		]
+	},
+	"concatenate": {
+		"html/numpy/user/quickstart.html": [
+			2210,
+			2290,
+			2297,
+			2717
+		]
+	},
+	"concatenation": {
+		"html/numpy/user/quickstart.html": [
+			2225
+		]
+	},
+	"confusion": {
+		"html/numpy/user/quickstart.html": [
+			2416
+		]
+	},
+	"conj": {
+		"html/numpy/user/quickstart.html": [
+			1515,
+			3621
+		]
+	},
+	"considered": {
+		"html/numpy/user/quickstart.html": [
+			1682
+		]
+	},
+	"consists": {
+		"html/numpy/user/quickstart.html": [
+			630
+		]
+	},
+	"construct": {
+		"html/numpy/user/quickstart.html": [
+			3370,
+			4137
+		]
+	},
+	"containing": {
+		"html/numpy/user/quickstart.html": [
+			496
+		]
+	},
+	"contains": {
+		"html/numpy/user/quickstart.html": [
+			3337
+		]
+	},
+	"content": {
+		"html/numpy/user/quickstart.html": [
+			732,
+			770
+		]
+	},
+	"contents": {
+		"html/numpy/user/quickstart.html": [
+			12
+		]
+	},
+	"conversions": {
+		"html/numpy/user/quickstart.html": [
+			2702
+		]
+	},
+	"converted": {
+		"html/numpy/user/quickstart.html": [
+			1252
+		]
+	},
+	"converting": {
+		"html/numpy/user/quickstart.html": [
+			3026
+		]
+	},
+	"coordinates": {
+		"html/numpy/user/quickstart.html": [
+			219
+		]
+	},
+	"copied": {
+		"html/numpy/user/quickstart.html": [
+			1999,
+			2402
+		]
+	},
+	"copies": {
+		"html/numpy/user/quickstart.html": [
+			51,
+			2390
+		]
+	},
+	"copy": {
+		"html/numpy/user/quickstart.html": [
+			55,
+			61,
+			63,
+			1974,
+			2424,
+			2431,
+			2484,
+			2506,
+			2609,
+			2611,
+			2616,
+			2625,
+			2683
+		]
+	},
+	"copyright": {
+		"html/numpy/user/quickstart.html": [
+			4398
+		]
+	},
+	"corners": {
+		"html/numpy/user/quickstart.html": [
+			1082
+		]
+	},
+	"corrcoef": {
+		"html/numpy/user/quickstart.html": [
+			1516
+		]
+	},
+	"corresponding": {
+		"html/numpy/user/quickstart.html": [
+			3281,
+			4078
+		]
+	},
+	"corresponds": {
+		"html/numpy/user/quickstart.html": [
+			1291,
+			3051
+		]
+	},
+	"cos": {
+		"html/numpy/user/quickstart.html": [
+			1455
+		]
+	},
+	"could": {
+		"html/numpy/user/quickstart.html": [
+			2586,
+			3878
+		]
+	},
+	"cov": {
+		"html/numpy/user/quickstart.html": [
+			1517,
+			2766
+		]
+	},
+	"create": {
+		"html/numpy/user/quickstart.html": [
+			429,
+			570,
+			576,
+			727,
+			821,
+			1226
+		]
+	},
+	"created": {
+		"html/numpy/user/quickstart.html": [
+			787,
+			1128,
+			1990,
+			2448,
+			2634,
+			4406
+		]
+	},
+	"creates": {
+		"html/numpy/user/quickstart.html": [
+			746,
+			755,
+			765,
+			1961,
+			2518
+		]
+	},
+	"creating": {
+		"html/numpy/user/quickstart.html": [
+			2238,
+			3946
+		]
+	},
+	"creation": {
+		"html/numpy/user/quickstart.html": [
+			21,
+			564,
+			694,
+			2680
+		]
+	},
+	"cross": {
+		"html/numpy/user/quickstart.html": [
+			1518,
+			2773
+		]
+	},
+	"cumprod": {
+		"html/numpy/user/quickstart.html": [
+			1519,
+			2753
+		]
+	},
+	"cumsum": {
+		"html/numpy/user/quickstart.html": [
+			1437,
+			1520,
+			2754
+		]
+	},
+	"cumulative": {
+		"html/numpy/user/quickstart.html": [
+			1439
+		]
+	},
+	"cx": {
+		"html/numpy/user/quickstart.html": [
+			3849,
+			3859,
+			3865,
+			3870
+		]
+	},
+	"d": {
+		"html/numpy/user/quickstart.html": [
+			224,
+			1032,
+			1040,
+			1048,
+			1327,
+			1332,
+			1337,
+			1774,
+			1778,
+			2121,
+			2127,
+			2136,
+			2148,
+			2164,
+			2623,
+			2635,
+			2639,
+			2643,
+			2651,
+			2706,
+			2708,
+			2710,
+			3515,
+			3680,
+			3741,
+			4139
+		]
+	},
+	"data": {
+		"html/numpy/user/quickstart.html": [
+			493,
+			2399,
+			2438,
+			2514,
+			2528,
+			2546,
+			2568,
+			2622,
+			2632,
+			3250,
+			3261,
+			3264,
+			3285,
+			3287,
+			3290,
+			3292,
+			3294,
+			3299,
+			3304,
+			3306,
+			4301
+		]
+	},
+	"deal": {
+		"html/numpy/user/quickstart.html": [
+			2788
+		]
+	},
+	"deduced": {
+		"html/numpy/user/quickstart.html": [
+			597,
+			4117
+		]
+	},
+	"deep": {
+		"html/numpy/user/quickstart.html": [
+			62,
+			2608
+		]
+	},
+	"def": {
+		"html/numpy/user/quickstart.html": [
+			1623,
+			2485,
+			3572,
+			3885
+		]
+	},
+	"default": {
+		"html/numpy/user/quickstart.html": [
+			782,
+			1377,
+			2273
+		]
+	},
+	"dependent": {
+		"html/numpy/user/quickstart.html": [
+			3243,
+			3257
+		]
+	},
+	"depending": {
+		"html/numpy/user/quickstart.html": [
+			4186
+		]
+	},
+	"depends": {
+		"html/numpy/user/quickstart.html": [
+			774
+		]
+	},
+	"describing": {
+		"html/numpy/user/quickstart.html": [
+			418
+		]
+	},
+	"details": {
+		"html/numpy/user/quickstart.html": [
+			1057,
+			2910
+		]
+	},
+	"deviates": {
+		"html/numpy/user/quickstart.html": [
+			4316
+		]
+	},
+	"diagonal": {
+		"html/numpy/user/quickstart.html": [
+			2718
+		]
+	},
+	"dictionary": {
+		"html/numpy/user/quickstart.html": [
+			4397
+		]
+	},
+	"diff": {
+		"html/numpy/user/quickstart.html": [
+			1521
+		]
+	},
+	"difference": {
+		"html/numpy/user/quickstart.html": [
+			2601,
+			4286
+		]
+	},
+	"different": {
+		"html/numpy/user/quickstart.html": [
+			42,
+			1283,
+			2079,
+			2088,
+			2187,
+			2507,
+			3441,
+			3800
+		]
+	},
+	"differs": {
+		"html/numpy/user/quickstart.html": [
+			4278
+		]
+	},
+	"dim": {
+		"html/numpy/user/quickstart.html": [
+			3099,
+			3109,
+			3699,
+			3709
+		]
+	},
+	"dimension": {
+		"html/numpy/user/quickstart.html": [
+			256,
+			264,
+			363,
+			2053,
+			2859,
+			2876,
+			2891,
+			3016,
+			3073,
+			3080,
+			3187,
+			3217,
+			3673,
+			3751,
+			4189
+		]
+	},
+	"dimensional": {
+		"html/numpy/user/quickstart.html": [
+			253,
+			304,
+			664,
+			673,
+			1013,
+			1552
+		]
+	},
+	"dimensions": {
+		"html/numpy/user/quickstart.html": [
+			206,
+			325,
+			336,
+			345,
+			391,
+			2063,
+			2196,
+			2821,
+			2843,
+			4102,
+			4229
+		]
+	},
+	"disable": {
+		"html/numpy/user/quickstart.html": [
+			1091
+		]
+	},
+	"displays": {
+		"html/numpy/user/quickstart.html": [
+			959
+		]
+	},
+	"div": {
+		"html/numpy/user/quickstart.html": [
+			3626,
+			3636
+		]
+	},
+	"diverge": {
+		"html/numpy/user/quickstart.html": [
+			3618,
+			3628,
+			3642
+		]
+	},
+	"diverging": {
+		"html/numpy/user/quickstart.html": [
+			3625,
+			3633,
+			3644
+		]
+	},
+	"division": {
+		"html/numpy/user/quickstart.html": [
+			2337
+		]
+	},
+	"divtime": {
+		"html/numpy/user/quickstart.html": [
+			3602,
+			3629,
+			3635,
+			3648
+		]
+	},
+	"do": {
+		"html/numpy/user/quickstart.html": [
+			2796,
+			2814,
+			3146,
+			3167,
+			3375,
+			3733,
+			4135,
+			4169
+		]
+	},
+	"doesn": {
+		"html/numpy/user/quickstart.html": [
+			2560,
+			2644
+		]
+	},
+	"don": {
+		"html/numpy/user/quickstart.html": [
+			3456
+		]
+	},
+	"done": {
+		"html/numpy/user/quickstart.html": [
+			1799,
+			3342,
+			4197
+		]
+	},
+	"dot": {
+		"html/numpy/user/quickstart.html": [
+			1182,
+			1198,
+			1204,
+			1522,
+			2774,
+			4021
+		]
+	},
+	"dots": {
+		"html/numpy/user/quickstart.html": [
+			1726,
+			1731
+		]
+	},
+	"dsplit": {
+		"html/numpy/user/quickstart.html": [
+			2719
+		]
+	},
+	"dstack": {
+		"html/numpy/user/quickstart.html": [
+			2720,
+			4182
+		]
+	},
+	"dtype": {
+		"html/numpy/user/quickstart.html": [
+			415,
+			432,
+			490,
+			541,
+			617,
+			618,
+			624,
+			625,
+			699,
+			784,
+			796,
+			799,
+			805,
+			1159,
+			1233,
+			1268,
+			1271,
+			1307,
+			1315,
+			1324,
+			1338,
+			1634,
+			3511,
+			3608
+		]
+	},
+	"due": {
+		"html/numpy/user/quickstart.html": [
+			868
+		]
+	},
+	"e": {
+		"html/numpy/user/quickstart.html": [
+			814,
+			815,
+			816,
+			817,
+			818,
+			819,
+			1753,
+			3127
+		]
+	},
+	"each": {
+		"html/numpy/user/quickstart.html": [
+			362,
+			462,
+			1002,
+			1425,
+			1433,
+			1442,
+			1640,
+			1657,
+			1821,
+			1878,
+			3049,
+			3079,
+			3272,
+			3672,
+			3809,
+			3830,
+			4058
+		]
+	},
+	"easy": {
+		"html/numpy/user/quickstart.html": [
+			4154
+		]
+	},
+	"eig": {
+		"html/numpy/user/quickstart.html": [
+			4042
+		]
+	},
+	"eigenvalue": {
+		"html/numpy/user/quickstart.html": [
+			4081
+		]
+	},
+	"eigenvalues": {
+		"html/numpy/user/quickstart.html": [
+			4057
+		]
+	},
+	"eigenvector": {
+		"html/numpy/user/quickstart.html": [
+			4077
+		]
+	},
+	"eigenvectors": {
+		"html/numpy/user/quickstart.html": [
+			4068
+		]
+	},
+	"either": {
+		"html/numpy/user/quickstart.html": [
+			2318
+		]
+	},
+	"element": {
+		"html/numpy/user/quickstart.html": [
+			463,
+			1588,
+			1822,
+			1844,
+			1849,
+			1937,
+			2882,
+			3396
+		]
+	},
+	"elements": {
+		"html/numpy/user/quickstart.html": [
+			189,
+			399,
+			411,
+			423,
+			472,
+			499,
+			517,
+			603,
+			709,
+			866,
+			895,
+			1352,
+			1839,
+			1876,
+			1916,
+			2976,
+			3520,
+			3533
+		]
+	},
+	"elementwise": {
+		"html/numpy/user/quickstart.html": [
+			1123,
+			1170,
+			1194,
+			1471
+		]
+	},
+	"empty": {
+		"html/numpy/user/quickstart.html": [
+			764,
+			808,
+			938,
+			939,
+			1010,
+			2684,
+			2685
+		]
+	},
+	"enough": {
+		"html/numpy/user/quickstart.html": [
+			3359
+		]
+	},
+	"ensures": {
+		"html/numpy/user/quickstart.html": [
+			2849
+		]
+	},
+	"entire": {
+		"html/numpy/user/quickstart.html": [
+			1100
+		]
+	},
+	"equal": {
+		"html/numpy/user/quickstart.html": [
+			405,
+			3118
+		]
+	},
+	"equally": {
+		"html/numpy/user/quickstart.html": [
+			2324,
+			4145
+		]
+	},
+	"equivalent": {
+		"html/numpy/user/quickstart.html": [
+			487,
+			1577,
+			1650,
+			1689,
+			1760,
+			2131,
+			3157,
+			3409
+		]
+	},
+	"error": {
+		"html/numpy/user/quickstart.html": [
+			629
+		]
+	},
+	"evaluate": {
+		"html/numpy/user/quickstart.html": [
+			919
+		]
+	},
+	"even": {
+		"html/numpy/user/quickstart.html": [
+			3385
+		]
+	},
+	"every": {
+		"html/numpy/user/quickstart.html": [
+			1586
+		]
+	},
+	"exactly": {
+		"html/numpy/user/quickstart.html": [
+			2799
+		]
+	},
+	"example": {
+		"html/numpy/user/quickstart.html": [
+			19,
+			217,
+			244,
+			468,
+			525,
+			573,
+			1654,
+			1745,
+			3021,
+			3547,
+			3761,
+			3813,
+			4199
+		]
+	},
+	"examples": {
+		"html/numpy/user/quickstart.html": [
+			150,
+			454
+		]
+	},
+	"exclusive": {
+		"html/numpy/user/quickstart.html": [
+			1584
+		]
+	},
+	"existing": {
+		"html/numpy/user/quickstart.html": [
+			1222
+		]
+	},
+	"exp": {
+		"html/numpy/user/quickstart.html": [
+			1329,
+			1457,
+			1486
+		]
+	},
+	"expect": {
+		"html/numpy/user/quickstart.html": [
+			3378
+		]
+	},
+	"expensive": {
+		"html/numpy/user/quickstart.html": [
+			741
+		]
+	},
+	"explicitly": {
+		"html/numpy/user/quickstart.html": [
+			691,
+			3443
+		]
+	},
+	"expression": {
+		"html/numpy/user/quickstart.html": [
+			1694
+		]
+	},
+	"eye": {
+		"html/numpy/user/quickstart.html": [
+			2687,
+			4008,
+			4012
+		]
+	},
+	"f": {
+		"html/numpy/user/quickstart.html": [
+			925,
+			1624,
+			1633,
+			2486,
+			2501
+		]
+	},
+	"facilities": {
+		"html/numpy/user/quickstart.html": [
+			523,
+			2925
+		]
+	},
+	"false": {
+		"html/numpy/user/quickstart.html": [
+			1157,
+			1158,
+			2535,
+			2554,
+			2638,
+			2650,
+			3499,
+			3500,
+			3501,
+			3502,
+			3503,
+			3695,
+			3705,
+			3707
+		]
+	},
+	"familiar": {
+		"html/numpy/user/quickstart.html": [
+			1449
+		]
+	},
+	"fancy": {
+		"html/numpy/user/quickstart.html": [
+			72,
+			2916
+		]
+	},
+	"fastest": {
+		"html/numpy/user/quickstart.html": [
+			1934,
+			2025
+		]
+	},
+	"fewer": {
+		"html/numpy/user/quickstart.html": [
+			1669
+		]
+	},
+	"file": {
+		"html/numpy/user/quickstart.html": [
+			3206
+		]
+	},
+	"fill": {
+		"html/numpy/user/quickstart.html": [
+			2757
+		]
+	},
+	"filled": {
+		"html/numpy/user/quickstart.html": [
+			1130
+		]
+	},
+	"finite": {
+		"html/numpy/user/quickstart.html": [
+			871
+		]
+	},
+	"first": {
+		"html/numpy/user/quickstart.html": [
+			255,
+			1804,
+			2207,
+			2804,
+			2963,
+			3015,
+			3098,
+			3186,
+			3698
+		]
+	},
+	"flags": {
+		"html/numpy/user/quickstart.html": [
+			2552
+		]
+	},
+	"flat": {
+		"html/numpy/user/quickstart.html": [
+			1830,
+			1847
+		]
+	},
+	"flatten": {
+		"html/numpy/user/quickstart.html": [
+			1903
+		]
+	},
+	"float": {
+		"html/numpy/user/quickstart.html": [
+			451,
+			475,
+			626,
+			790,
+			845,
+			1269,
+			1317,
+			1326
+		]
+	},
+	"floating": {
+		"html/numpy/user/quickstart.html": [
+			853,
+			872
+		]
+	},
+	"floor": {
+		"html/numpy/user/quickstart.html": [
+			1523,
+			1882,
+			2092,
+			2100,
+			2342
+		]
+	},
+	"folder": {
+		"html/numpy/user/quickstart.html": [
+			3986
+		]
+	},
+	"followed": {
+		"html/numpy/user/quickstart.html": [
+			1705
+		]
+	},
+	"following": {
+		"html/numpy/user/quickstart.html": [
+			971,
+			3020,
+			3546
+		]
+	},
+	"follows": {
+		"html/numpy/user/quickstart.html": [
+			3884
+		]
+	},
+	"for": {
+		"html/numpy/user/quickstart.html": [
+			171,
+			216,
+			364,
+			467,
+			572,
+			875,
+			1596,
+			1744,
+			1806,
+			1843,
+			2135,
+			2189,
+			2212,
+			2237,
+			2277,
+			2417,
+			2458,
+			2584,
+			2675,
+			2892,
+			3069,
+			3078,
+			3096,
+			3106,
+			3271,
+			3466,
+			3610,
+			3671,
+			3808,
+			3812,
+			3824,
+			3897,
+			3987,
+			4198,
+			4236
+		]
+	},
+	"force": {
+		"html/numpy/user/quickstart.html": [
+			1095
+		]
+	},
+	"fortran": {
+		"html/numpy/user/quickstart.html": [
+			2015
+		]
+	},
+	"found": {
+		"html/numpy/user/quickstart.html": [
+			2913
+		]
+	},
+	"fourth": {
+		"html/numpy/user/quickstart.html": [
+			2367
+		]
+	},
+	"fractal": {
+		"html/numpy/user/quickstart.html": [
+			3583
+		]
+	},
+	"frequent": {
+		"html/numpy/user/quickstart.html": [
+			628
+		]
+	},
+	"from": {
+		"html/numpy/user/quickstart.html": [
+			579,
+			598,
+			903,
+			910,
+			978,
+			988,
+			997,
+			1005,
+			1267,
+			1580,
+			1921,
+			2138,
+			3829,
+			4141,
+			4279
+		]
+	},
+	"fromfile": {
+		"html/numpy/user/quickstart.html": [
+			950,
+			2688
+		]
+	},
+	"fromfunction": {
+		"html/numpy/user/quickstart.html": [
+			949,
+			1632,
+			2689
+		]
+	},
+	"full": {
+		"html/numpy/user/quickstart.html": [
+			749,
+			758,
+			2677
+		]
+	},
+	"function": {
+		"html/numpy/user/quickstart.html": [
+			88,
+			589,
+			744,
+			753,
+			763,
+			828,
+			885,
+			920,
+			1183,
+			2028,
+			2117,
+			2480,
+			3791,
+			3794,
+			4243,
+			4268
+		]
+	},
+	"functionality": {
+		"html/numpy/user/quickstart.html": [
+			309
+		]
+	},
+	"functions": {
+		"html/numpy/user/quickstart.html": [
+			27,
+			64,
+			725,
+			1446,
+			1451,
+			1464,
+			1469,
+			2001,
+			2654,
+			2666,
+			2786,
+			4179,
+			4224
+		]
+	},
+	"further": {
+		"html/numpy/user/quickstart.html": [
+			105,
+			4379
+		]
+	},
+	"general": {
+		"html/numpy/user/quickstart.html": [
+			1295
+		]
+	},
+	"generally": {
+		"html/numpy/user/quickstart.html": [
+			858
+		]
+	},
+	"generate": {
+		"html/numpy/user/quickstart.html": [
+			3556
+		]
+	},
+	"generates": {
+		"html/numpy/user/quickstart.html": [
+			4299
+		]
+	},
+	"get": {
+		"html/numpy/user/quickstart.html": [
+			1055
+		]
+	},
+	"give": {
+		"html/numpy/user/quickstart.html": [
+			3067,
+			3678,
+			4089
+		]
+	},
+	"given": {
+		"html/numpy/user/quickstart.html": [
+			1616,
+			1871,
+			2055
+		]
+	},
+	"giving": {
+		"html/numpy/user/quickstart.html": [
+			2216,
+			2281
+		]
+	},
+	"green": {
+		"html/numpy/user/quickstart.html": [
+			3043
+		]
+	},
+	"growing": {
+		"html/numpy/user/quickstart.html": [
+			738
+		]
+	},
+	"guide": {
+		"html/numpy/user/quickstart.html": [
+			6
+		]
+	},
+	"h": {
+		"html/numpy/user/quickstart.html": [
+			3574,
+			3586,
+			3592
+		]
+	},
+	"had": {
+		"html/numpy/user/quickstart.html": [
+			2864
+		]
+	},
+	"handles": {
+		"html/numpy/user/quickstart.html": [
+			302
+		]
+	},
+	"happen": {
+		"html/numpy/user/quickstart.html": [
+			2227
+		]
+	},
+	"has": {
+		"html/numpy/user/quickstart.html": [
+			233,
+			238,
+			249,
+			258,
+			265,
+			476,
+			483,
+			1755,
+			1868,
+			4266
+		]
+	},
+	"have": {
+		"html/numpy/user/quickstart.html": [
+			157,
+			1608,
+			2162,
+			2798,
+			2816,
+			2838,
+			3082,
+			3117,
+			3475
+		]
+	},
+	"hence": {
+		"html/numpy/user/quickstart.html": [
+			721
+		]
+	},
+	"here": {
+		"html/numpy/user/quickstart.html": [
+			2658,
+			3977,
+			4087
+		]
+	},
+	"higher": {
+		"html/numpy/user/quickstart.html": [
+			3536
+		]
+	},
+	"hist": {
+		"html/numpy/user/quickstart.html": [
+			4273,
+			4290,
+			4336
+		]
+	},
+	"histogram": {
+		"html/numpy/user/quickstart.html": [
+			4242,
+			4254,
+			4293,
+			4297,
+			4332,
+			4351,
+			4361
+		]
+	},
+	"histograms": {
+		"html/numpy/user/quickstart.html": [
+			104,
+			4239,
+			4271
+		]
+	},
+	"homogeneous": {
+		"html/numpy/user/quickstart.html": [
+			181
+		]
+	},
+	"horizontal": {
+		"html/numpy/user/quickstart.html": [
+			2316
+		]
+	},
+	"how": {
+		"html/numpy/user/quickstart.html": [
+			3550,
+			4134
+		]
+	},
+	"however": {
+		"html/numpy/user/quickstart.html": [
+			1396,
+			1812,
+			3163,
+			3331
+		]
+	},
+	"hsplit": {
+		"html/numpy/user/quickstart.html": [
+			2308,
+			2349,
+			2358,
+			2721
+		]
+	},
+	"hstack": {
+		"html/numpy/user/quickstart.html": [
+			2112,
+			2197,
+			2270,
+			2293,
+			2722,
+			4183,
+			4216
+		]
+	},
+	"html": {
+		"html/numpy/user/quickstart.html": [
+			170
+		]
+	},
+	"http": {
+		"html/numpy/user/quickstart.html": [
+			166
+		]
+	},
+	"i": {
+		"html/numpy/user/quickstart.html": [
+			1597,
+			1601,
+			1699,
+			1704,
+			1729,
+			1752,
+			2966,
+			2974,
+			2982,
+			3092,
+			3111,
+			3113,
+			3122,
+			3126,
+			3135,
+			3153,
+			3160,
+			3171,
+			3193,
+			3224,
+			3611,
+			3638,
+			4014,
+			4074,
+			4083
+		]
+	},
+	"id": {
+		"html/numpy/user/quickstart.html": [
+			2489,
+			2491,
+			2493
+		]
+	},
+	"identifier": {
+		"html/numpy/user/quickstart.html": [
+			2497
+		]
+	},
+	"identity": {
+		"html/numpy/user/quickstart.html": [
+			2690,
+			3896
+		]
+	},
+	"idl": {
+		"html/numpy/user/quickstart.html": [
+			4394
+		]
+	},
+	"if": {
+		"html/numpy/user/quickstart.html": [
+			129,
+			144,
+			1060,
+			1746,
+			1813,
+			1942,
+			1978,
+			2051,
+			2810,
+			2862,
+			3363,
+			3814,
+			4155
+		]
+	},
+	"imag": {
+		"html/numpy/user/quickstart.html": [
+			2758
+		]
+	},
+	"image": {
+		"html/numpy/user/quickstart.html": [
+			3028,
+			3034,
+			3046,
+			3059,
+			3062,
+			3558,
+			3579
+		]
+	},
+	"implement": {
+		"html/numpy/user/quickstart.html": [
+			3880
+		]
+	},
+	"implemented": {
+		"html/numpy/user/quickstart.html": [
+			1357
+		]
+	},
+	"import": {
+		"html/numpy/user/quickstart.html": [
+			526,
+			607,
+			905,
+			2140,
+			3563,
+			3567,
+			3989,
+			4302,
+			4306
+		]
+	},
+	"important": {
+		"html/numpy/user/quickstart.html": [
+			312
+		]
+	},
+	"imshow": {
+		"html/numpy/user/quickstart.html": [
+			3650
+		]
+	},
+	"in": {
+		"html/numpy/user/quickstart.html": [
+			151,
+			204,
+			223,
+			242,
+			329,
+			361,
+			424,
+			459,
+			518,
+			604,
+			631,
+			961,
+			1162,
+			1171,
+			1217,
+			1353,
+			1458,
+			1598,
+			1617,
+			1642,
+			1659,
+			1697,
+			1808,
+			1823,
+			1845,
+			1917,
+			1964,
+			2018,
+			2057,
+			2229,
+			2271,
+			2671,
+			2789,
+			2914,
+			2930,
+			3055,
+			3138,
+			3209,
+			3216,
+			3389,
+			3447,
+			3528,
+			3612,
+			3758,
+			3773,
+			3899,
+			3942,
+			3969,
+			3984,
+			4149,
+			4173,
+			4190,
+			4225,
+			4275,
+			4282
+		]
+	},
+	"included": {
+		"html/numpy/user/quickstart.html": [
+			3976
+		]
+	},
+	"incremented": {
+		"html/numpy/user/quickstart.html": [
+			3399
+		]
+	},
+	"ind": {
+		"html/numpy/user/quickstart.html": [
+			3263,
+			3274,
+			3279,
+			3288,
+			3293,
+			3295
+		]
+	},
+	"index": {
+		"html/numpy/user/quickstart.html": [
+			7,
+			75,
+			1610,
+			1931,
+			2022,
+			2919,
+			3211,
+			3215,
+			3267,
+			3419,
+			3782
+		]
+	},
+	"indexed": {
+		"html/numpy/user/quickstart.html": [
+			197,
+			1556,
+			2945,
+			3002
+		]
+	},
+	"indexerror": {
+		"html/numpy/user/quickstart.html": [
+			3210
+		]
+	},
+	"indexes": {
+		"html/numpy/user/quickstart.html": [
+			3068
+		]
+	},
+	"indexing": {
+		"html/numpy/user/quickstart.html": [
+			28,
+			73,
+			77,
+			82,
+			89,
+			522,
+			1547,
+			1742,
+			1852,
+			1853,
+			2917,
+			2924,
+			2933,
+			2954,
+			3148,
+			3184,
+			3231,
+			3314,
+			3413,
+			3468,
+			3554,
+			3662,
+			3670,
+			3960
+		]
+	},
+	"indicating": {
+		"html/numpy/user/quickstart.html": [
+			355
+		]
+	},
+	"indices": {
+		"html/numpy/user/quickstart.html": [
+			81,
+			1614,
+			1670,
+			1680,
+			1857,
+			2958,
+			2972,
+			2991,
+			3011,
+			3077,
+			3095,
+			3105,
+			3336,
+			3393,
+			3425,
+			3432,
+			3437
+		]
+	},
+	"initial": {
+		"html/numpy/user/quickstart.html": [
+			730,
+			769
+		]
+	},
+	"inner": {
+		"html/numpy/user/quickstart.html": [
+			1524,
+			2755
+		]
+	},
+	"input": {
+		"html/numpy/user/quickstart.html": [
+			2812
+		]
+	},
+	"inputs": {
+		"html/numpy/user/quickstart.html": [
+			2794
+		]
+	},
+	"install": {
+		"html/numpy/user/quickstart.html": [
+			169
+		]
+	},
+	"installed": {
+		"html/numpy/user/quickstart.html": [
+			160
+		]
+	},
+	"installing": {
+		"html/numpy/user/quickstart.html": [
+			109
+		]
+	},
+	"instances": {
+		"html/numpy/user/quickstart.html": [
+			1709
+		]
+	},
+	"instead": {
+		"html/numpy/user/quickstart.html": [
+			835,
+			899
+		]
+	},
+	"instructed": {
+		"html/numpy/user/quickstart.html": [
+			2008
+		]
+	},
+	"instructions": {
+		"html/numpy/user/quickstart.html": [
+			172
+		]
+	},
+	"int": {
+		"html/numpy/user/quickstart.html": [
+			446,
+			448,
+			543,
+			619,
+			798,
+			806,
+			1234,
+			1272,
+			1309,
+			1635,
+			3609
+		]
+	},
+	"integer": {
+		"html/numpy/user/quickstart.html": [
+			1254,
+			3424,
+			3669
+		]
+	},
+	"integers": {
+		"html/numpy/user/quickstart.html": [
+			203,
+			354,
+			2935,
+			2949
+		]
+	},
+	"interpreted": {
+		"html/numpy/user/quickstart.html": [
+			3182
+		]
+	},
+	"into": {
+		"html/numpy/user/quickstart.html": [
+			47,
+			662,
+			671,
+			2125,
+			2303,
+			2353,
+			2403,
+			3031,
+			3174
+		]
+	},
+	"inv": {
+		"html/numpy/user/quickstart.html": [
+			1525,
+			4003
+		]
+	},
+	"is": {
+		"html/numpy/user/quickstart.html": [
+			179,
+			185,
+			214,
+			226,
+			252,
+			273,
+			277,
+			288,
+			337,
+			350,
+			384,
+			404,
+			486,
+			596,
+			719,
+			771,
+			789,
+			850,
+			857,
+			879,
+			976,
+			986,
+			1063,
+			1127,
+			1249,
+			1700,
+			1748,
+			1759,
+			1798,
+			1833,
+			1923,
+			1928,
+			1940,
+			1945,
+			1954,
+			2054,
+			2130,
+			2186,
+			2400,
+			2411,
+			2447,
+			2450,
+			2494,
+			2533,
+			2538,
+			2541,
+			2594,
+			2633,
+			2636,
+			2641,
+			2659,
+			2808,
+			2883,
+			3005,
+			3234,
+			3341,
+			3357,
+			3397,
+			3402,
+			3440,
+			3469,
+			3491,
+			3624,
+			3632,
+			3665,
+			3763,
+			3779,
+			3933,
+			4075,
+			4126,
+			4152,
+			4194,
+			4287
+		]
+	},
+	"it": {
+		"html/numpy/user/quickstart.html": [
+			184,
+			232,
+			251,
+			276,
+			485,
+			843,
+			856,
+			878,
+			960,
+			1386,
+			1754,
+			1994,
+			2129,
+			2579,
+			3372,
+			3910,
+			3935,
+			4357
+		]
+	},
+	"item": {
+		"html/numpy/user/quickstart.html": [
+			2724
+		]
+	},
+	"items": {
+		"html/numpy/user/quickstart.html": [
+			3446
+		]
+	},
+	"itemsize": {
+		"html/numpy/user/quickstart.html": [
+			456,
+			477,
+			484,
+			491,
+			545
+		]
+	},
+	"iterated": {
+		"html/numpy/user/quickstart.html": [
+			1559
+		]
+	},
+	"iterating": {
+		"html/numpy/user/quickstart.html": [
+			31,
+			1550,
+			1794
+		]
+	},
+	"iterator": {
+		"html/numpy/user/quickstart.html": [
+			1835
+		]
+	},
+	"its": {
+		"html/numpy/user/quickstart.html": [
+			443,
+			717,
+			1394,
+			1975,
+			2030,
+			2315,
+			2621,
+			4062
+		]
+	},
+	"itself": {
+		"html/numpy/user/quickstart.html": [
+			2044
+		]
+	},
+	"ix": {
+		"html/numpy/user/quickstart.html": [
+			87,
+			3790,
+			3793,
+			3851,
+			3892
+		]
+	},
+	"j": {
+		"html/numpy/user/quickstart.html": [
+			703,
+			704,
+			705,
+			706,
+			1331,
+			1334,
+			1335,
+			1336,
+			2984,
+			2993,
+			2998,
+			3102,
+			3112,
+			3115,
+			3125,
+			3129,
+			3137,
+			3154,
+			3161,
+			3173,
+			3194,
+			3225,
+			3593,
+			3595,
+			3599,
+			4017,
+			4022,
+			4023,
+			4043,
+			4045,
+			4046,
+			4048,
+			4049,
+			4050,
+			4051
+		]
+	},
+	"jan": {
+		"html/numpy/user/quickstart.html": [
+			4405
+		]
+	},
+	"kind": {
+		"html/numpy/user/quickstart.html": [
+			1277
+		]
+	},
+	"know": {
+		"html/numpy/user/quickstart.html": [
+			124
+		]
+	},
+	"known": {
+		"html/numpy/user/quickstart.html": [
+			279,
+			720,
+			1301
+		]
+	},
+	"l": {
+		"html/numpy/user/quickstart.html": [
+			3152,
+			3156
+		]
+	},
+	"labels": {
+		"html/numpy/user/quickstart.html": [
+			3030
+		]
+	},
+	"languages": {
+		"html/numpy/user/quickstart.html": [
+			1165
+		]
+	},
+	"large": {
+		"html/numpy/user/quickstart.html": [
+			1065
+		]
+	},
+	"largest": {
+		"html/numpy/user/quickstart.html": [
+			2872
+		]
+	},
+	"last": {
+		"html/numpy/user/quickstart.html": [
+			974,
+			985,
+			1260,
+			1687,
+			3205,
+			3348,
+			4402
+		]
+	},
+	"layout": {
+		"html/numpy/user/quickstart.html": [
+			972
+		]
+	},
+	"leaving": {
+		"html/numpy/user/quickstart.html": [
+			3345
+		]
+	},
+	"lecture": {
+		"html/numpy/user/quickstart.html": [
+			4389
+		]
+	},
+	"left": {
+		"html/numpy/user/quickstart.html": [
+			979
+		]
+	},
+	"leftmost": {
+		"html/numpy/user/quickstart.html": [
+			2021
+		]
+	},
+	"length": {
+		"html/numpy/user/quickstart.html": [
+			240,
+			260,
+			267,
+			379,
+			3738,
+			3748,
+			3768,
+			3778,
+			4067,
+			4165
+		]
+	},
+	"less": {
+		"html/numpy/user/quickstart.html": [
+			68,
+			308,
+			2779
+		]
+	},
+	"lexsort": {
+		"html/numpy/user/quickstart.html": [
+			1526
+		]
+	},
+	"library": {
+		"html/numpy/user/quickstart.html": [
+			296
+		]
+	},
+	"like": {
+		"html/numpy/user/quickstart.html": [
+			132,
+			934,
+			937,
+			940,
+			1562,
+			2686,
+			2697,
+			2701
+		]
+	},
+	"linalg": {
+		"html/numpy/user/quickstart.html": [
+			2776,
+			3982,
+			4002,
+			4035,
+			4041
+		]
+	},
+	"line": {
+		"html/numpy/user/quickstart.html": [
+			1011,
+			3208
+		]
+	},
+	"linear": {
+		"html/numpy/user/quickstart.html": [
+			92,
+			2771,
+			3966,
+			3972
+		]
+	},
+	"linspace": {
+		"html/numpy/user/quickstart.html": [
+			886,
+			908,
+			915,
+			942,
+			1312,
+			2691,
+			3247
+		]
+	},
+	"list": {
+		"html/numpy/user/quickstart.html": [
+			583,
+			643,
+			1389,
+			2661,
+			2678,
+			3143,
+			3151,
+			3334,
+			3391,
+			3430,
+			4091,
+			4143
+		]
+	},
+	"lists": {
+		"html/numpy/user/quickstart.html": [
+			837,
+			967,
+			1026,
+			1563
+		]
+	},
+	"literals": {
+		"html/numpy/user/quickstart.html": [
+			2252
+		]
+	},
+	"logic": {
+		"html/numpy/user/quickstart.html": [
+			4221
+		]
+	},
+	"logspace": {
+		"html/numpy/user/quickstart.html": [
+			2692
+		]
+	},
+	"look": {
+		"html/numpy/user/quickstart.html": [
+			139,
+			3543
+		]
+	},
+	"looks": {
+		"html/numpy/user/quickstart.html": [
+			2524
+		]
+	},
+	"lots": {
+		"html/numpy/user/quickstart.html": [
+			922
+		]
+	},
+	"m": {
+		"html/numpy/user/quickstart.html": [
+			371,
+			377,
+			4170,
+			4208,
+			4213
+		]
+	},
+	"made": {
+		"html/numpy/user/quickstart.html": [
+			1982
+		]
+	},
+	"main": {
+		"html/numpy/user/quickstart.html": [
+			177,
+			4285
+		]
+	},
+	"make": {
+		"html/numpy/user/quickstart.html": [
+			2429,
+			2482
+		]
+	},
+	"makes": {
+		"html/numpy/user/quickstart.html": [
+			2613,
+			3936
+		]
+	},
+	"mandelbrot": {
+		"html/numpy/user/quickstart.html": [
+			3561,
+			3573,
+			3582,
+			3651
+		]
+	},
+	"manipulating": {
+		"html/numpy/user/quickstart.html": [
+			2396
+		]
+	},
+	"manipulation": {
+		"html/numpy/user/quickstart.html": [
+			33,
+			1859
+		]
+	},
+	"manipulations": {
+		"html/numpy/user/quickstart.html": [
+			2712
+		]
+	},
+	"manual": {
+		"html/numpy/user/quickstart.html": [
+			3
+		]
+	},
+	"many": {
+		"html/numpy/user/quickstart.html": [
+			1163,
+			1341,
+			1708,
+			1734
+		]
+	},
+	"mat": {
+		"html/numpy/user/quickstart.html": [
+			2711
+		]
+	},
+	"match": {
+		"html/numpy/user/quickstart.html": [
+			2908
+		]
+	},
+	"mathematical": {
+		"html/numpy/user/quickstart.html": [
+			1450
+		]
+	},
+	"matlab": {
+		"html/numpy/user/quickstart.html": [
+			4150,
+			4237,
+			4276,
+			4392
+		]
+	},
+	"matplotlib": {
+		"html/numpy/user/quickstart.html": [
+			3568,
+			4264,
+			4307,
+			4340
+		]
+	},
+	"matrices": {
+		"html/numpy/user/quickstart.html": [
+			1022,
+			1028
+		]
+	},
+	"matrix": {
+		"html/numpy/user/quickstart.html": [
+			366,
+			1164,
+			1175,
+			1200,
+			1208,
+			4011,
+			4024,
+			4054
+		]
+	},
+	"max": {
+		"html/numpy/user/quickstart.html": [
+			1375,
+			1527,
+			2745,
+			3277,
+			3286,
+			3297,
+			3300,
+			3305,
+			3307
+		]
+	},
+	"maxima": {
+		"html/numpy/user/quickstart.html": [
+			3270,
+			3284
+		]
+	},
+	"maximum": {
+		"html/numpy/user/quickstart.html": [
+			1528,
+			3239
+		]
+	},
+	"maxit": {
+		"html/numpy/user/quickstart.html": [
+			3576,
+			3603,
+			3614,
+			3630
+		]
+	},
+	"may": {
+		"html/numpy/user/quickstart.html": [
+			811,
+			1995,
+			3373
+		]
+	},
+	"mean": {
+		"html/numpy/user/quickstart.html": [
+			1529,
+			2767,
+			4320
+		]
+	},
+	"meaningful": {
+		"html/numpy/user/quickstart.html": [
+			2791
+		]
+	},
+	"means": {
+		"html/numpy/user/quickstart.html": [
+			4124
+		]
+	},
+	"median": {
+		"html/numpy/user/quickstart.html": [
+			1530
+		]
+	},
+	"memory": {
+		"html/numpy/user/quickstart.html": [
+			136,
+			780
+		]
+	},
+	"method": {
+		"html/numpy/user/quickstart.html": [
+			1185,
+			2040,
+			2517,
+			2612
+		]
+	},
+	"methods": {
+		"html/numpy/user/quickstart.html": [
+			66,
+			1359,
+			2656,
+			2668
+		]
+	},
+	"mgrid": {
+		"html/numpy/user/quickstart.html": [
+			2693
+		]
+	},
+	"min": {
+		"html/numpy/user/quickstart.html": [
+			1373,
+			1429,
+			1431,
+			1531,
+			2746
+		]
+	},
+	"minimize": {
+		"html/numpy/user/quickstart.html": [
+			734
+		]
+	},
+	"minimum": {
+		"html/numpy/user/quickstart.html": [
+			1532
+		]
+	},
+	"missing": {
+		"html/numpy/user/quickstart.html": [
+			1679
+		]
+	},
+	"modified": {
+		"html/numpy/user/quickstart.html": [
+			2034
+		]
+	},
+	"modifies": {
+		"html/numpy/user/quickstart.html": [
+			2041
+		]
+	},
+	"modify": {
+		"html/numpy/user/quickstart.html": [
+			1220
+		]
+	},
+	"more": {
+		"html/numpy/user/quickstart.html": [
+			311,
+			1056,
+			1294,
+			2193,
+			2909,
+			2923,
+			3070,
+			3666,
+			3988,
+			4226
+		]
+	},
+	"most": {
+		"html/numpy/user/quickstart.html": [
+			1257,
+			3202,
+			3459
+		]
+	},
+	"mu": {
+		"html/numpy/user/quickstart.html": [
+			4321,
+			4327
+		]
+	},
+	"much": {
+		"html/numpy/user/quickstart.html": [
+			1561,
+			3646
+		]
+	},
+	"multidimensional": {
+		"html/numpy/user/quickstart.html": [
+			182,
+			1605,
+			1796,
+			3006
+		]
+	},
+	"multiple": {
+		"html/numpy/user/quickstart.html": [
+			635
+		]
+	},
+	"multiplicity": {
+		"html/numpy/user/quickstart.html": [
+			4063
+		]
+	},
+	"must": {
+		"html/numpy/user/quickstart.html": [
+			155,
+			2907,
+			3081,
+			3116,
+			3744
+		]
+	},
+	"mutable": {
+		"html/numpy/user/quickstart.html": [
+			2475
+		]
+	},
+	"n": {
+		"html/numpy/user/quickstart.html": [
+			368,
+			376,
+			3810,
+			4358,
+			4374
+		]
+	},
+	"name": {
+		"html/numpy/user/quickstart.html": [
+			542,
+			1316,
+			1325,
+			1339
+		]
+	},
+	"names": {
+		"html/numpy/user/quickstart.html": [
+			2457,
+			2669
+		]
+	},
+	"nan": {
+		"html/numpy/user/quickstart.html": [
+			1115,
+			1602,
+			1603,
+			1604
+		]
+	},
+	"natural": {
+		"html/numpy/user/quickstart.html": [
+			3460
+		]
+	},
+	"naturally": {
+		"html/numpy/user/quickstart.html": [
+			3131
+		]
+	},
+	"nd": {
+		"html/numpy/user/quickstart.html": [
+			1587,
+			3784
+		]
+	},
+	"ndarray": {
+		"html/numpy/user/quickstart.html": [
+			275,
+			316,
+			319,
+			342,
+			393,
+			414,
+			455,
+			489,
+			492,
+			552,
+			562,
+			1362,
+			2038,
+			2072,
+			2461,
+			2703,
+			2723,
+			2756
+		]
+	},
+	"ndenumerate": {
+		"html/numpy/user/quickstart.html": [
+			1856
+		]
+	},
+	"ndim": {
+		"html/numpy/user/quickstart.html": [
+			320,
+			392,
+			539
+		]
+	},
+	"necessity": {
+		"html/numpy/user/quickstart.html": [
+			736
+		]
+	},
+	"need": {
+		"html/numpy/user/quickstart.html": [
+			507,
+			1972,
+			1996,
+			4168
+		]
+	},
+	"needed": {
+		"html/numpy/user/quickstart.html": [
+			1712,
+			1737,
+			4127
+		]
+	},
+	"nested": {
+		"html/numpy/user/quickstart.html": [
+			966
+		]
+	},
+	"new": {
+		"html/numpy/user/quickstart.html": [
+			1125,
+			1228,
+			2405,
+			2445,
+			2520,
+			2627,
+			2631
+		]
+	},
+	"newaxis": {
+		"html/numpy/user/quickstart.html": [
+			1855,
+			2141,
+			2158,
+			2172,
+			2174,
+			2179,
+			2181,
+			2725
+		]
+	},
+	"next": {
+		"html/numpy/user/quickstart.html": [
+			8,
+			111,
+			1007
+		]
+	},
+	"no": {
+		"html/numpy/user/quickstart.html": [
+			54,
+			2423,
+			2430,
+			2444,
+			2483,
+			4368
+		]
+	},
+	"nonzero": {
+		"html/numpy/user/quickstart.html": [
+			1533,
+			2739
+		]
+	},
+	"normal": {
+		"html/numpy/user/quickstart.html": [
+			3930,
+			4315,
+			4326
+		]
+	},
+	"normalized": {
+		"html/numpy/user/quickstart.html": [
+			4065,
+			4331
+		]
+	},
+	"normally": {
+		"html/numpy/user/quickstart.html": [
+			503,
+			1924,
+			1960
+		]
+	},
+	"normed": {
+		"html/numpy/user/quickstart.html": [
+			4339,
+			4364
+		]
+	},
+	"not": {
+		"html/numpy/user/quickstart.html": [
+			289,
+			859,
+			1250,
+			1971,
+			2409,
+			2797,
+			2815,
+			3166,
+			3197,
+			3374
+		]
+	},
+	"note": {
+		"html/numpy/user/quickstart.html": [
+			284,
+			2228,
+			2599,
+			3639,
+			3735
+		]
+	},
+	"notes": {
+		"html/numpy/user/quickstart.html": [
+			4390
+		]
+	},
+	"now": {
+		"html/numpy/user/quickstart.html": [
+			3627,
+			3634,
+			3637
+		]
+	},
+	"np": {
+		"html/numpy/user/quickstart.html": [
+			529,
+			531,
+			554,
+			610,
+			612,
+			621,
+			650,
+			654,
+			679,
+			697,
+			791,
+			794,
+			797,
+			807,
+			838,
+			841,
+			907,
+			914,
+			926,
+			1030,
+			1037,
+			1045,
+			1084,
+			1087,
+			1111,
+			1135,
+			1138,
+			1149,
+			1187,
+			1190,
+			1203,
+			1231,
+			1236,
+			1305,
+			1308,
+			1311,
+			1328,
+			1365,
+			1415,
+			1481,
+			1485,
+			1489,
+			1494,
+			1496,
+			1569,
+			1631,
+			1771,
+			1881,
+			1883,
+			2091,
+			2093,
+			2099,
+			2101,
+			2106,
+			2111,
+			2142,
+			2152,
+			2155,
+			2168,
+			2176,
+			2253,
+			2341,
+			2343,
+			2348,
+			2357,
+			2440,
+			2960,
+			2967,
+			2985,
+			3039,
+			3047,
+			3087,
+			3093,
+			3103,
+			3191,
+			3246,
+			3251,
+			3253,
+			3302,
+			3324,
+			3351,
+			3380,
+			3484,
+			3566,
+			3590,
+			3604,
+			3620,
+			3689,
+			3693,
+			3702,
+			3839,
+			3842,
+			3845,
+			3850,
+			3891,
+			3914,
+			3992,
+			3994,
+			4001,
+			4007,
+			4018,
+			4020,
+			4027,
+			4032,
+			4034,
+			4040,
+			4120,
+			4201,
+			4205,
+			4209,
+			4215,
+			4305,
+			4324,
+			4360
+		]
+	},
+	"number": {
+		"html/numpy/user/quickstart.html": [
+			211,
+			322,
+			334,
+			389,
+			397,
+			864,
+			893,
+			1675,
+			1874,
+			2218,
+			2283,
+			2322,
+			2819,
+			2841,
+			3770,
+			3957
+		]
+	},
+	"numbers": {
+		"html/numpy/user/quickstart.html": [
+			191,
+			645,
+			824,
+			909,
+			1391,
+			2242,
+			2965
+		]
+	},
+	"numeric": {
+		"html/numpy/user/quickstart.html": [
+			636
+		]
+	},
+	"numpy": {
+		"html/numpy/user/quickstart.html": [
+			1,
+			4,
+			110,
+			113,
+			175,
+			205,
+			269,
+			286,
+			439,
+			445,
+			447,
+			450,
+			527,
+			551,
+			561,
+			608,
+			722,
+			825,
+			904,
+			943,
+			946,
+			958,
+			1069,
+			1096,
+			1172,
+			1447,
+			1459,
+			1467,
+			1718,
+			1959,
+			2139,
+			2665,
+			2921,
+			3564,
+			3985,
+			3990,
+			4174,
+			4235,
+			4241,
+			4283,
+			4296,
+			4303,
+			4353,
+			4366,
+			4384,
+			4395
+		]
+	},
+	"object": {
+		"html/numpy/user/quickstart.html": [
+			178,
+			317,
+			417,
+			2446,
+			2462,
+			2500,
+			2522,
+			2629
+		]
+	},
+	"objects": {
+		"html/numpy/user/quickstart.html": [
+			2434,
+			2476,
+			2509
+		]
+	},
+	"obtain": {
+		"html/numpy/user/quickstart.html": [
+			3805
+		]
+	},
+	"obtained": {
+		"html/numpy/user/quickstart.html": [
+			867
+		]
+	},
+	"occur": {
+		"html/numpy/user/quickstart.html": [
+			2339
+		]
+	},
+	"occurs": {
+		"html/numpy/user/quickstart.html": [
+			3387
+		]
+	},
+	"of": {
+		"html/numpy/user/quickstart.html": [
+			11,
+			37,
+			80,
+			127,
+			188,
+			193,
+			201,
+			212,
+			220,
+			229,
+			241,
+			261,
+			268,
+			314,
+			323,
+			326,
+			335,
+			346,
+			353,
+			358,
+			380,
+			390,
+			398,
+			400,
+			409,
+			412,
+			421,
+			442,
+			461,
+			464,
+			471,
+			473,
+			480,
+			500,
+			592,
+			601,
+			644,
+			660,
+			667,
+			669,
+			685,
+			710,
+			737,
+			750,
+			759,
+			778,
+			785,
+			823,
+			836,
+			865,
+			894,
+			900,
+			923,
+			1027,
+			1075,
+			1282,
+			1287,
+			1349,
+			1360,
+			1390,
+			1393,
+			1411,
+			1424,
+			1432,
+			1646,
+			1665,
+			1676,
+			1710,
+			1840,
+			1863,
+			1875,
+			1892,
+			1914,
+			1986,
+			2184,
+			2191,
+			2219,
+			2250,
+			2284,
+			2323,
+			2415,
+			2432,
+			2436,
+			2469,
+			2498,
+			2544,
+			2578,
+			2597,
+			2617,
+			2662,
+			2806,
+			2820,
+			2830,
+			2842,
+			2847,
+			2855,
+			2867,
+			2879,
+			2898,
+			2904,
+			2948,
+			2952,
+			2957,
+			2971,
+			2977,
+			2990,
+			3010,
+			3017,
+			3029,
+			3076,
+			3100,
+			3188,
+			3213,
+			3230,
+			3237,
+			3241,
+			3268,
+			3335,
+			3392,
+			3423,
+			3431,
+			3465,
+			3534,
+			3559,
+			3580,
+			3584,
+			3661,
+			3674,
+			3739,
+			3749,
+			3771,
+			3777,
+			3787,
+			3831,
+			3922,
+			3925,
+			3938,
+			3952,
+			3958,
+			4092,
+			4103,
+			4110,
+			4144,
+			4162,
+			4251,
+			4255,
+			4261,
+			4314
+		]
+	},
+	"offers": {
+		"html/numpy/user/quickstart.html": [
+			307,
+			723,
+			2922
+		]
+	},
+	"often": {
+		"html/numpy/user/quickstart.html": [
+			707,
+			2412
+		]
+	},
+	"ogrid": {
+		"html/numpy/user/quickstart.html": [
+			2694,
+			3591
+		]
+	},
+	"omit": {
+		"html/numpy/user/quickstart.html": [
+			4108
+		]
+	},
+	"on": {
+		"html/numpy/user/quickstart.html": [
+			161,
+			677,
+			775,
+			1058,
+			1120,
+			1472,
+			1820,
+			4187,
+			4404
+		]
+	},
+	"once": {
+		"html/numpy/user/quickstart.html": [
+			3400
+		]
+	},
+	"one": {
+		"html/numpy/user/quickstart.html": [
+			45,
+			234,
+			303,
+			427,
+			479,
+			1012,
+			1229,
+			1298,
+			1551,
+			1609,
+			1814,
+			1826,
+			2244,
+			2301,
+			2382,
+			3072,
+			3462,
+			4109,
+			4281
+		]
+	},
+	"ones": {
+		"html/numpy/user/quickstart.html": [
+			50,
+			754,
+			760,
+			795,
+			935,
+			936,
+			1232,
+			1306,
+			2306,
+			2695,
+			2696,
+			3454
+		]
+	},
+	"only": {
+		"html/numpy/user/quickstart.html": [
+			301,
+			1079,
+			2134,
+			3398,
+			4167,
+			4298
+		]
+	},
+	"operate": {
+		"html/numpy/user/quickstart.html": [
+			1470
+		]
+	},
+	"operates": {
+		"html/numpy/user/quickstart.html": [
+			1169
+		]
+	},
+	"operating": {
+		"html/numpy/user/quickstart.html": [
+			1279,
+			2394
+		]
+	},
+	"operation": {
+		"html/numpy/user/quickstart.html": [
+			742,
+			1406,
+			1819,
+			2060
+		]
+	},
+	"operations": {
+		"html/numpy/user/quickstart.html": [
+			25,
+			96,
+			1117,
+			1212,
+			1343,
+			1379,
+			2750,
+			3980
+		]
+	},
+	"operator": {
+		"html/numpy/user/quickstart.html": [
+			1168
+		]
+	},
+	"operators": {
+		"html/numpy/user/quickstart.html": [
+			1119
+		]
+	},
+	"optional": {
+		"html/numpy/user/quickstart.html": [
+			2011,
+			2214,
+			2279
+		]
+	},
+	"options": {
+		"html/numpy/user/quickstart.html": [
+			1107,
+			1993
+		]
+	},
+	"or": {
+		"html/numpy/user/quickstart.html": [
+			59,
+			388,
+			430,
+			584,
+			1184,
+			1296,
+			1786,
+			1989,
+			2329,
+			2435,
+			2504,
+			3752
+		]
+	},
+	"order": {
+		"html/numpy/user/quickstart.html": [
+			1913,
+			1966,
+			3943
+		]
+	},
+	"ordered": {
+		"html/numpy/user/quickstart.html": [
+			2670
+		]
+	},
+	"ordering": {
+		"html/numpy/user/quickstart.html": [
+			2741
+		]
+	},
+	"org": {
+		"html/numpy/user/quickstart.html": [
+			168
+		]
+	},
+	"original": {
+		"html/numpy/user/quickstart.html": [
+			3481
+		]
+	},
+	"originally": {
+		"html/numpy/user/quickstart.html": [
+			714
+		]
+	},
+	"other": {
+		"html/numpy/user/quickstart.html": [
+			1565,
+			1949,
+			2062
+		]
+	},
+	"out": {
+		"html/numpy/user/quickstart.html": [
+			3212,
+			3362
+		]
+	},
+	"outer": {
+		"html/numpy/user/quickstart.html": [
+			1534,
+			2775
+		]
+	},
+	"output": {
+		"html/numpy/user/quickstart.html": [
+			810,
+			1266,
+			1479,
+			3954
+		]
+	},
+	"over": {
+		"html/numpy/user/quickstart.html": [
+			1560,
+			1795,
+			1836
+		]
+	},
+	"overview": {
+		"html/numpy/user/quickstart.html": [
+			67,
+			2657
+		]
+	},
+	"own": {
+		"html/numpy/user/quickstart.html": [
+			444
+		]
+	},
+	"owndata": {
+		"html/numpy/user/quickstart.html": [
+			2553
+		]
+	},
+	"owned": {
+		"html/numpy/user/quickstart.html": [
+			2547
+		]
+	},
+	"pair": {
+		"html/numpy/user/quickstart.html": [
+			4250
+		]
+	},
+	"palette": {
+		"html/numpy/user/quickstart.html": [
+			3037,
+			3038,
+			3057,
+			3058
+		]
+	},
+	"parameter": {
+		"html/numpy/user/quickstart.html": [
+			1401
+		]
+	},
+	"parameters": {
+		"html/numpy/user/quickstart.html": [
+			4052
+		]
+	},
+	"part": {
+		"html/numpy/user/quickstart.html": [
+			1074
+		]
+	},
+	"particular": {
+		"html/numpy/user/quickstart.html": [
+			2858
+		]
+	},
+	"passes": {
+		"html/numpy/user/quickstart.html": [
+			2474
+		]
+	},
+	"pdf": {
+		"html/numpy/user/quickstart.html": [
+			3657,
+			4348,
+			4378
+		]
+	},
+	"per": {
+		"html/numpy/user/quickstart.html": [
+			1611
+		]
+	},
+	"perform": {
+		"html/numpy/user/quickstart.html": [
+			1817
+		]
+	},
+	"performed": {
+		"html/numpy/user/quickstart.html": [
+			1179
+		]
+	},
+	"pi": {
+		"html/numpy/user/quickstart.html": [
+			906,
+			916,
+			1313
+		]
+	},
+	"pick": {
+		"html/numpy/user/quickstart.html": [
+			3434
+		]
+	},
+	"pictured": {
+		"html/numpy/user/quickstart.html": [
+			245
+		]
+	},
+	"place": {
+		"html/numpy/user/quickstart.html": [
+			1218
+		]
+	},
+	"placeholder": {
+		"html/numpy/user/quickstart.html": [
+			731
+		]
+	},
+	"please": {
+		"html/numpy/user/quickstart.html": [
+			164
+		]
+	},
+	"plot": {
+		"html/numpy/user/quickstart.html": [
+			4329,
+			4342,
+			4356,
+			4369,
+			4371
+		]
+	},
+	"plots": {
+		"html/numpy/user/quickstart.html": [
+			4291
+		]
+	},
+	"plt": {
+		"html/numpy/user/quickstart.html": [
+			3571,
+			3649,
+			3652,
+			4310,
+			4335,
+			4343,
+			4370,
+			4375
+		]
+	},
+	"png": {
+		"html/numpy/user/quickstart.html": [
+			3656,
+			4347,
+			4377
+		]
+	},
+	"point": {
+		"html/numpy/user/quickstart.html": [
+			222,
+			854,
+			873
+		]
+	},
+	"points": {
+		"html/numpy/user/quickstart.html": [
+			924
+		]
+	},
+	"position": {
+		"html/numpy/user/quickstart.html": [
+			1583
+		]
+	},
+	"positions": {
+		"html/numpy/user/quickstart.html": [
+			2981
+		]
+	},
+	"positive": {
+		"html/numpy/user/quickstart.html": [
+			202
+		]
+	},
+	"possible": {
+		"html/numpy/user/quickstart.html": [
+			860
+		]
+	},
+	"precise": {
+		"html/numpy/user/quickstart.html": [
+			1297
+		]
+	},
+	"precision": {
+		"html/numpy/user/quickstart.html": [
+			874
+		]
+	},
+	"predict": {
+		"html/numpy/user/quickstart.html": [
+			862
+		]
+	},
+	"prepended": {
+		"html/numpy/user/quickstart.html": [
+			2826
+		]
+	},
+	"prerequisites": {
+		"html/numpy/user/quickstart.html": [
+			15,
+			117
+		]
+	},
+	"previous": {
+		"html/numpy/user/quickstart.html": [
+			9,
+			107,
+			1653,
+			3760
+		]
+	},
+	"print": {
+		"html/numpy/user/quickstart.html": [
+			955,
+			1034,
+			1042,
+			1050,
+			1083,
+			1086,
+			1098,
+			1600,
+			1810,
+			1848,
+			2488,
+			3996
+		]
+	},
+	"printed": {
+		"html/numpy/user/quickstart.html": [
+			977,
+			987,
+			996,
+			1017,
+			1068
+		]
+	},
+	"printing": {
+		"html/numpy/user/quickstart.html": [
+			22,
+			951,
+			1106
+		]
+	},
+	"printoptions": {
+		"html/numpy/user/quickstart.html": [
+			1110,
+			1113
+		]
+	},
+	"prints": {
+		"html/numpy/user/quickstart.html": [
+			1080
+		]
+	},
+	"prod": {
+		"html/numpy/user/quickstart.html": [
+			1535,
+			2759
+		]
+	},
+	"produce": {
+		"html/numpy/user/quickstart.html": [
+			1739
+		]
+	},
+	"producing": {
+		"html/numpy/user/quickstart.html": [
+			1475
+		]
+	},
+	"product": {
+		"html/numpy/user/quickstart.html": [
+			408,
+			1167,
+			1176,
+			1195,
+			1201,
+			1209,
+			4025
+		]
+	},
+	"progress": {
+		"html/numpy/user/quickstart.html": [
+			3970
+		]
+	},
+	"property": {
+		"html/numpy/user/quickstart.html": [
+			3523
+		]
+	},
+	"provided": {
+		"html/numpy/user/quickstart.html": [
+			1672
+		]
+	},
+	"provides": {
+		"html/numpy/user/quickstart.html": [
+			440,
+			826,
+			1448
+		]
+	},
+	"providing": {
+		"html/numpy/user/quickstart.html": [
+			640,
+			3428
+		]
+	},
+	"ptp": {
+		"html/numpy/user/quickstart.html": [
+			2747
+		]
+	},
+	"put": {
+		"html/numpy/user/quickstart.html": [
+			2760,
+			3134
+		]
+	},
+	"putmask": {
+		"html/numpy/user/quickstart.html": [
+			2761
+		]
+	},
+	"putting": {
+		"html/numpy/user/quickstart.html": [
+			3170
+		]
+	},
+	"py": {
+		"html/numpy/user/quickstart.html": [
+			3983
+		]
+	},
+	"pylab": {
+		"html/numpy/user/quickstart.html": [
+			4289
+		]
+	},
+	"pyplot": {
+		"html/numpy/user/quickstart.html": [
+			3569,
+			4308
+		]
+	},
+	"python": {
+		"html/numpy/user/quickstart.html": [
+			128,
+			142,
+			295,
+			331,
+			436,
+			582,
+			1566,
+			2473,
+			2928,
+			3368,
+			3404,
+			4382
+		]
+	},
+	"questions": {
+		"html/numpy/user/quickstart.html": [
+			2736
+		]
+	},
+	"quickstart": {
+		"html/numpy/user/quickstart.html": [
+			13,
+			115
+		]
+	},
+	"quite": {
+		"html/numpy/user/quickstart.html": [
+			4153
+		]
+	},
+	"r": {
+		"html/numpy/user/quickstart.html": [
+			2232,
+			2254,
+			2262,
+			2299,
+			2698,
+			3894,
+			3901,
+			3903,
+			3906,
+			4393
+		]
+	},
+	"rand": {
+		"html/numpy/user/quickstart.html": [
+			945
+		]
+	},
+	"randn": {
+		"html/numpy/user/quickstart.html": [
+			948
+		]
+	},
+	"random": {
+		"html/numpy/user/quickstart.html": [
+			772,
+			944,
+			947,
+			1237,
+			1238,
+			1366,
+			1367,
+			1884,
+			1885,
+			2094,
+			2095,
+			2102,
+			2103,
+			2344,
+			2345,
+			4325
+		]
+	},
+	"range": {
+		"html/numpy/user/quickstart.html": [
+			831,
+			2251,
+			3214,
+			3613
+		]
+	},
+	"rank": {
+		"html/numpy/user/quickstart.html": [
+			215,
+			230,
+			250,
+			341,
+			387,
+			1750,
+			3765,
+			3785
+		]
+	},
+	"rather": {
+		"html/numpy/user/quickstart.html": [
+			638,
+			1224
+		]
+	},
+	"ravel": {
+		"html/numpy/user/quickstart.html": [
+			1902,
+			1922,
+			1968,
+			2002,
+			2076,
+			2726
+		]
+	},
+	"re": {
+		"html/numpy/user/quickstart.html": [
+			1536
+		]
+	},
+	"reading": {
+		"html/numpy/user/quickstart.html": [
+			106,
+			119,
+			4380
+		]
+	},
+	"real": {
+		"html/numpy/user/quickstart.html": [
+			2762
+		]
+	},
+	"reason": {
+		"html/numpy/user/quickstart.html": [
+			877
+		]
+	},
+	"reasonable": {
+		"html/numpy/user/quickstart.html": [
+			3358
+		]
+	},
+	"receives": {
+		"html/numpy/user/quickstart.html": [
+			888
+		]
+	},
+	"recent": {
+		"html/numpy/user/quickstart.html": [
+			1258,
+			3203
+		]
+	},
+	"red": {
+		"html/numpy/user/quickstart.html": [
+			3042
+		]
+	},
+	"reduce": {
+		"html/numpy/user/quickstart.html": [
+			3882,
+			3887,
+			3913,
+			3926,
+			3932
+		]
+	},
+	"reference": {
+		"html/numpy/user/quickstart.html": [
+			1854,
+			4385
+		]
+	},
+	"references": {
+		"html/numpy/user/quickstart.html": [
+			2478
+		]
+	},
+	"referred": {
+		"html/numpy/user/quickstart.html": [
+			338
+		]
+	},
+	"refers": {
+		"html/numpy/user/quickstart.html": [
+			3012
+		]
+	},
+	"refresh": {
+		"html/numpy/user/quickstart.html": [
+			134
+		]
+	},
+	"regardless": {
+		"html/numpy/user/quickstart.html": [
+			1392
+		]
+	},
+	"regular": {
+		"html/numpy/user/quickstart.html": [
+			581,
+			2927
+		]
+	},
+	"remaining": {
+		"html/numpy/user/quickstart.html": [
+			1716
+		]
+	},
+	"repeat": {
+		"html/numpy/user/quickstart.html": [
+			2727
+		]
+	},
+	"repeated": {
+		"html/numpy/user/quickstart.html": [
+			4059
+		]
+	},
+	"repeatedly": {
+		"html/numpy/user/quickstart.html": [
+			2825
+		]
+	},
+	"repetitions": {
+		"html/numpy/user/quickstart.html": [
+			3338
+		]
+	},
+	"represent": {
+		"html/numpy/user/quickstart.html": [
+			1714,
+			1732
+		]
+	},
+	"represents": {
+		"html/numpy/user/quickstart.html": [
+			4013
+		]
+	},
+	"requires": {
+		"html/numpy/user/quickstart.html": [
+			3405
+		]
+	},
+	"reshape": {
+		"html/numpy/user/quickstart.html": [
+			533,
+			1039,
+			1047,
+			1059,
+			1089,
+			1417,
+			2004,
+			2027,
+			2068,
+			2074,
+			2728,
+			3089,
+			3255,
+			3486,
+			3691
+		]
+	},
+	"reshaped": {
+		"html/numpy/user/quickstart.html": [
+			1946
+		]
+	},
+	"reshaping": {
+		"html/numpy/user/quickstart.html": [
+			101,
+			2059,
+			4098
+		]
+	},
+	"resize": {
+		"html/numpy/user/quickstart.html": [
+			2039,
+			2048,
+			2075,
+			2729
+		]
+	},
+	"respect": {
+		"html/numpy/user/quickstart.html": [
+			1801
+		]
+	},
+	"rest": {
+		"html/numpy/user/quickstart.html": [
+			993
+		]
+	},
+	"result": {
+		"html/numpy/user/quickstart.html": [
+			1133,
+			3807,
+			3867,
+			3871,
+			3873
+		]
+	},
+	"resulting": {
+		"html/numpy/user/quickstart.html": [
+			594,
+			1289,
+			1920
+		]
+	},
+	"return": {
+		"html/numpy/user/quickstart.html": [
+			1627,
+			2328,
+			3647,
+			3905
+		]
+	},
+	"returns": {
+		"html/numpy/user/quickstart.html": [
+			833,
+			2029,
+			2575,
+			3577,
+			4055,
+			4248
+		]
+	},
+	"reversed": {
+		"html/numpy/user/quickstart.html": [
+			1593
+		]
+	},
+	"right": {
+		"html/numpy/user/quickstart.html": [
+			656,
+			981
+		]
+	},
+	"rightmost": {
+		"html/numpy/user/quickstart.html": [
+			1930
+		]
+	},
+	"round": {
+		"html/numpy/user/quickstart.html": [
+			1537
+		]
+	},
+	"routines": {
+		"html/numpy/user/quickstart.html": [
+			2674
+		]
+	},
+	"row": {
+		"html/numpy/user/quickstart.html": [
+			1434,
+			1443,
+			1641,
+			1664,
+			1688,
+			1807,
+			1811,
+			4147
+		]
+	},
+	"rows": {
+		"html/numpy/user/quickstart.html": [
+			369,
+			1019,
+			3714,
+			3772
+		]
+	},
+	"rule": {
+		"html/numpy/user/quickstart.html": [
+			1275,
+			2805,
+			2846
+		]
+	},
+	"rules": {
+		"html/numpy/user/quickstart.html": [
+			71,
+			2782,
+			2901,
+			3941
+		]
+	},
+	"s": {
+		"html/numpy/user/quickstart.html": [
+			176,
+			270,
+			433,
+			2558,
+			2567,
+			2580,
+			2590,
+			2592,
+			2593,
+			2598,
+			2603,
+			2605,
+			3190,
+			3196,
+			3220,
+			3369,
+			3496
+		]
+	},
+	"same": {
+		"html/numpy/user/quickstart.html": [
+			195,
+			291,
+			1276,
+			1783,
+			1790,
+			2460,
+			2513,
+			2527,
+			2801,
+			2818,
+			2840,
+			2888,
+			2995,
+			3084,
+			3221,
+			3477,
+			3718,
+			4164
+		]
+	},
+	"saw": {
+		"html/numpy/user/quickstart.html": [
+			2940
+		]
+	},
+	"say": {
+		"html/numpy/user/quickstart.html": [
+			3141
+		]
+	},
+	"scale": {
+		"html/numpy/user/quickstart.html": [
+			3249
+		]
+	},
+	"scipy": {
+		"html/numpy/user/quickstart.html": [
+			167,
+			4386,
+			4388,
+			4396,
+			4400
+		]
+	},
+	"search": {
+		"html/numpy/user/quickstart.html": [
+			3236
+		]
+	},
+	"searchsorted": {
+		"html/numpy/user/quickstart.html": [
+			2748
+		]
+	},
+	"second": {
+		"html/numpy/user/quickstart.html": [
+			263,
+			983,
+			1644,
+			1661,
+			2201,
+			2845,
+			3108,
+			3659,
+			3708
+		]
+	},
+	"see": {
+		"html/numpy/user/quickstart.html": [
+			165,
+			929,
+			1052,
+			1501,
+			1850,
+			2070,
+			2291,
+			2673,
+			3549,
+			3963,
+			3981,
+			4233
+		]
+	},
+	"selected": {
+		"html/numpy/user/quickstart.html": [
+			3519
+		]
+	},
+	"selecting": {
+		"html/numpy/user/quickstart.html": [
+			3683,
+			3713,
+			3723
+		]
+	},
+	"selection": {
+		"html/numpy/user/quickstart.html": [
+			3700,
+			3710
+		]
+	},
+	"separated": {
+		"html/numpy/user/quickstart.html": [
+			1004,
+			1620
+		]
+	},
+	"sequence": {
+		"html/numpy/user/quickstart.html": [
+			3140
+		]
+	},
+	"sequences": {
+		"html/numpy/user/quickstart.html": [
+			606,
+			659,
+			661,
+			666,
+			668,
+			670,
+			822,
+			1567,
+			2929
+		]
+	},
+	"series": {
+		"html/numpy/user/quickstart.html": [
+			3244,
+			3258,
+			3273
+		]
+	},
+	"set": {
+		"html/numpy/user/quickstart.html": [
+			1109,
+			1112,
+			1585,
+			3562
+		]
+	},
+	"several": {
+		"html/numpy/user/quickstart.html": [
+			48,
+			567,
+			724,
+			2081,
+			2304,
+			3343
+		]
+	},
+	"shallow": {
+		"html/numpy/user/quickstart.html": [
+			60,
+			2505
+		]
+	},
+	"shape": {
+		"html/numpy/user/quickstart.html": [
+			32,
+			36,
+			343,
+			373,
+			382,
+			413,
+			537,
+			1395,
+			1781,
+			1858,
+			1862,
+			1870,
+			1889,
+			1891,
+			1908,
+			1950,
+			2035,
+			2073,
+			2465,
+			2468,
+			2472,
+			2556,
+			2559,
+			2564,
+			2802,
+			2873,
+			2996,
+			3085,
+			3119,
+			3291,
+			3478,
+			3497,
+			3607,
+			3862,
+			3864,
+			3866,
+			4123,
+			4129
+		]
+	},
+	"shaped": {
+		"html/numpy/user/quickstart.html": [
+			2325
+		]
+	},
+	"shapes": {
+		"html/numpy/user/quickstart.html": [
+			2829
+		]
+	},
+	"share": {
+		"html/numpy/user/quickstart.html": [
+			2511,
+			2646
+		]
+	},
+	"short": {
+		"html/numpy/user/quickstart.html": [
+			4093
+		]
+	},
+	"should": {
+		"html/numpy/user/quickstart.html": [
+			123,
+			2226,
+			2338
+		]
+	},
+	"show": {
+		"html/numpy/user/quickstart.html": [
+			3653,
+			4344,
+			4376
+		]
+	},
+	"shows": {
+		"html/numpy/user/quickstart.html": [
+			3022
+		]
+	},
+	"sigma": {
+		"html/numpy/user/quickstart.html": [
+			4322,
+			4328
+		]
+	},
+	"similar": {
+		"html/numpy/user/quickstart.html": [
+			963,
+			2266,
+			3667
+		]
+	},
+	"simple": {
+		"html/numpy/user/quickstart.html": [
+			94,
+			2427,
+			3978
+		]
+	},
+	"sin": {
+		"html/numpy/user/quickstart.html": [
+			927,
+			1150,
+			1454,
+			3252
+		]
+	},
+	"single": {
+		"html/numpy/user/quickstart.html": [
+			642,
+			3008
+		]
+	},
+	"size": {
+		"html/numpy/user/quickstart.html": [
+			357,
+			394,
+			458,
+			547,
+			718,
+			2854,
+			2866,
+			3585,
+			3951
+		]
+	},
+	"sized": {
+		"html/numpy/user/quickstart.html": [
+			4146
+		]
+	},
+	"sizes": {
+		"html/numpy/user/quickstart.html": [
+			2903,
+			4112
+		]
+	},
+	"skips": {
+		"html/numpy/user/quickstart.html": [
+			1071
+		]
+	},
+	"slice": {
+		"html/numpy/user/quickstart.html": [
+			1003,
+			3757
+		]
+	},
+	"sliced": {
+		"html/numpy/user/quickstart.html": [
+			1557
+		]
+	},
+	"slices": {
+		"html/numpy/user/quickstart.html": [
+			1684,
+			1985,
+			2937,
+			3685
+		]
+	},
+	"slicing": {
+		"html/numpy/user/quickstart.html": [
+			29,
+			1548,
+			2572
+		]
+	},
+	"smaller": {
+		"html/numpy/user/quickstart.html": [
+			49,
+			2305,
+			2832
+		]
+	},
+	"so": {
+		"html/numpy/user/quickstart.html": [
+			676,
+			1935,
+			1967,
+			2479,
+			3802
+		]
+	},
+	"software": {
+		"html/numpy/user/quickstart.html": [
+			159
+		]
+	},
+	"solve": {
+		"html/numpy/user/quickstart.html": [
+			4036
+		]
+	},
+	"some": {
+		"html/numpy/user/quickstart.html": [
+			158,
+			453,
+			1211,
+			1948,
+			2663
+		]
+	},
+	"sometimes": {
+		"html/numpy/user/quickstart.html": [
+			2401,
+			2408
+		]
+	},
+	"sort": {
+		"html/numpy/user/quickstart.html": [
+			1538,
+			2749
+		]
+	},
+	"source": {
+		"html/numpy/user/quickstart.html": [
+			2414,
+			3654,
+			4345
+		]
+	},
+	"space": {
+		"html/numpy/user/quickstart.html": [
+			225
+		]
+	},
+	"spaces": {
+		"html/numpy/user/quickstart.html": [
+			2582
+		]
+	},
+	"specified": {
+		"html/numpy/user/quickstart.html": [
+			692,
+			803,
+			1409
+		]
+	},
+	"specify": {
+		"html/numpy/user/quickstart.html": [
+			431,
+			2384
+		]
+	},
+	"specifying": {
+		"html/numpy/user/quickstart.html": [
+			1398,
+			2320,
+			2331
+		]
+	},
+	"sphinx": {
+		"html/numpy/user/quickstart.html": [
+			4408
+		]
+	},
+	"split": {
+		"html/numpy/user/quickstart.html": [
+			2311,
+			2351,
+			2360,
+			2380,
+			2389,
+			2714
+		]
+	},
+	"splits": {
+		"html/numpy/user/quickstart.html": [
+			2373
+		]
+	},
+	"splitting": {
+		"html/numpy/user/quickstart.html": [
+			44,
+			2300
+		]
+	},
+	"sqrt": {
+		"html/numpy/user/quickstart.html": [
+			1490
+		]
+	},
+	"square": {
+		"html/numpy/user/quickstart.html": [
+			2964,
+			4053
+		]
+	},
+	"squeeze": {
+		"html/numpy/user/quickstart.html": [
+			2730
+		]
+	},
+	"stack": {
+		"html/numpy/user/quickstart.html": [
+			2119,
+			2144,
+			2170,
+			2296,
+			2716,
+			4181
+		]
+	},
+	"stacked": {
+		"html/numpy/user/quickstart.html": [
+			1777,
+			2085
+		]
+	},
+	"stacking": {
+		"html/numpy/user/quickstart.html": [
+			40,
+			103,
+			2077,
+			2241,
+			4133,
+			4193
+		]
+	},
+	"stacks": {
+		"html/numpy/user/quickstart.html": [
+			2120,
+			2198,
+			2204
+		]
+	},
+	"standard": {
+		"html/numpy/user/quickstart.html": [
+			294,
+			435
+		]
+	},
+	"start": {
+		"html/numpy/user/quickstart.html": [
+			1581
+		]
+	},
+	"state": {
+		"html/numpy/user/quickstart.html": [
+			777
+		]
+	},
+	"statistics": {
+		"html/numpy/user/quickstart.html": [
+			2765
+		]
+	},
+	"std": {
+		"html/numpy/user/quickstart.html": [
+			1539,
+			2768
+		]
+	},
+	"stdin": {
+		"html/numpy/user/quickstart.html": [
+			3207
+		]
+	},
+	"step": {
+		"html/numpy/user/quickstart.html": [
+			902
+		]
+	},
+	"stored": {
+		"html/numpy/user/quickstart.html": [
+			1963
+		]
+	},
+	"strange": {
+		"html/numpy/user/quickstart.html": [
+			4232
+		]
+	},
+	"strings": {
+		"html/numpy/user/quickstart.html": [
+			91,
+			3962
+		]
+	},
+	"structured": {
+		"html/numpy/user/quickstart.html": [
+			3964
+		]
+	},
+	"style": {
+		"html/numpy/user/quickstart.html": [
+			1926,
+			1958,
+			2016
+		]
+	},
+	"such": {
+		"html/numpy/user/quickstart.html": [
+			1213,
+			1344,
+			1452,
+			4069
+		]
+	},
+	"suitable": {
+		"html/numpy/user/quickstart.html": [
+			3780
+		]
+	},
+	"sum": {
+		"html/numpy/user/quickstart.html": [
+			1348,
+			1371,
+			1421,
+			1423,
+			1440,
+			1540,
+			2763
+		]
+	},
+	"svd": {
+		"html/numpy/user/quickstart.html": [
+			2777
+		]
+	},
+	"swapaxes": {
+		"html/numpy/user/quickstart.html": [
+			2731
+		]
+	},
+	"t": {
+		"html/numpy/user/quickstart.html": [
+			506,
+			1910,
+			2561,
+			2645,
+			3457
+		]
+	},
+	"table": {
+		"html/numpy/user/quickstart.html": [
+			10,
+			187
+		]
+	},
+	"take": {
+		"html/numpy/user/quickstart.html": [
+			137,
+			2732
+		]
+	},
+	"taken": {
+		"html/numpy/user/quickstart.html": [
+			3828
+		]
+	},
+	"taking": {
+		"html/numpy/user/quickstart.html": [
+			1984
+		]
+	},
+	"target": {
+		"html/numpy/user/quickstart.html": [
+			3319
+		]
+	},
+	"th": {
+		"html/numpy/user/quickstart.html": [
+			3395
+		]
+	},
+	"than": {
+		"html/numpy/user/quickstart.html": [
+			639,
+			1225,
+			1673,
+			2194,
+			2926,
+			3071,
+			3537,
+			4227
+		]
+	},
+	"that": {
+		"html/numpy/user/quickstart.html": [
+			236,
+			285,
+			832,
+			887,
+			896,
+			1927,
+			2523,
+			2795,
+			2809,
+			2850,
+			2875,
+			2890,
+			3474,
+			3736,
+			3934,
+			4070,
+			4277,
+			4288
+		]
+	},
+	"the": {
+		"html/numpy/user/quickstart.html": [
+			16,
+			35,
+			86,
+			141,
+			149,
+			173,
+			180,
+			194,
+			210,
+			218,
+			243,
+			247,
+			254,
+			262,
+			281,
+			290,
+			293,
+			310,
+			321,
+			327,
+			330,
+			333,
+			344,
+			347,
+			356,
+			359,
+			378,
+			381,
+			386,
+			395,
+			401,
+			407,
+			410,
+			419,
+			422,
+			425,
+			457,
+			465,
+			494,
+			497,
+			501,
+			516,
+			587,
+			590,
+			593,
+			599,
+			602,
+			605,
+			683,
+			686,
+			708,
+			735,
+			743,
+			752,
+			762,
+			776,
+			779,
+			783,
+			786,
+			863,
+			870,
+			884,
+			892,
+			901,
+			970,
+			973,
+			982,
+			992,
+			1006,
+			1072,
+			1076,
+			1081,
+			1099,
+			1105,
+			1132,
+			1166,
+			1174,
+			1181,
+			1285,
+			1288,
+			1293,
+			1347,
+			1351,
+			1354,
+			1361,
+			1382,
+			1399,
+			1408,
+			1643,
+			1652,
+			1660,
+			1674,
+			1678,
+			1686,
+			1693,
+			1715,
+			1730,
+			1803,
+			1824,
+			1829,
+			1838,
+			1841,
+			1861,
+			1873,
+			1890,
+			1904,
+			1912,
+			1915,
+			1918,
+			1929,
+			1933,
+			1936,
+			1943,
+			1952,
+			1979,
+			2000,
+			2020,
+			2024,
+			2026,
+			2037,
+			2042,
+			2061,
+			2116,
+			2182,
+			2217,
+			2220,
+			2224,
+			2248,
+			2282,
+			2285,
+			2321,
+			2332,
+			2336,
+			2363,
+			2366,
+			2375,
+			2459,
+			2467,
+			2512,
+			2515,
+			2526,
+			2545,
+			2600,
+			2610,
+			2618,
+			2676,
+			2800,
+			2803,
+			2817,
+			2828,
+			2831,
+			2836,
+			2839,
+			2844,
+			2865,
+			2868,
+			2871,
+			2877,
+			2880,
+			2887,
+			2893,
+			2899,
+			2902,
+			2962,
+			2975,
+			2980,
+			2994,
+			3001,
+			3014,
+			3019,
+			3056,
+			3060,
+			3074,
+			3083,
+			3097,
+			3107,
+			3147,
+			3150,
+			3185,
+			3235,
+			3238,
+			3269,
+			3283,
+			3333,
+			3339,
+			3347,
+			3390,
+			3394,
+			3429,
+			3438,
+			3448,
+			3458,
+			3476,
+			3480,
+			3518,
+			3545,
+			3560,
+			3581,
+			3658,
+			3675,
+			3684,
+			3737,
+			3740,
+			3747,
+			3750,
+			3759,
+			3769,
+			3783,
+			3789,
+			3792,
+			3806,
+			3820,
+			3826,
+			3832,
+			3881,
+			3920,
+			3929,
+			3939,
+			3950,
+			3953,
+			3956,
+			4056,
+			4064,
+			4071,
+			4076,
+			4080,
+			4101,
+			4111,
+			4163,
+			4178,
+			4188,
+			4192,
+			4220,
+			4240,
+			4253,
+			4256,
+			4259,
+			4280,
+			4284,
+			4292,
+			4300,
+			4350,
+			4381,
+			4399
+		]
+	},
+	"their": {
+		"html/numpy/user/quickstart.html": [
+			2200,
+			2206,
+			2272,
+			2398,
+			2437
+		]
+	},
+	"then": {
+		"html/numpy/user/quickstart.html": [
+			1016,
+			1757,
+			3145,
+			3908,
+			4115,
+			4355
+		]
+	},
+	"there": {
+		"html/numpy/user/quickstart.html": [
+			565,
+			2419
+		]
+	},
+	"therefore": {
+		"html/numpy/user/quickstart.html": [
+			385
+		]
+	},
+	"these": {
+		"html/numpy/user/quickstart.html": [
+			733,
+			1378,
+			1460,
+			1468,
+			1613
+		]
+	},
+	"they": {
+		"html/numpy/user/quickstart.html": [
+			2246,
+			2863
+		]
+	},
+	"thing": {
+		"html/numpy/user/quickstart.html": [
+			3719,
+			3731
+		]
+	},
+	"think": {
+		"html/numpy/user/quickstart.html": [
+			3464
+		]
+	},
+	"third": {
+		"html/numpy/user/quickstart.html": [
+			1663,
+			2364
+		]
+	},
+	"this": {
+		"html/numpy/user/quickstart.html": [
+			120,
+			152,
+			349,
+			403,
+			510,
+			876,
+			1092,
+			1724,
+			1965,
+			2159,
+			2410,
+			3023,
+			3168,
+			3178,
+			3356,
+			3401,
+			3522,
+			3923,
+			4151,
+			4175
+		]
+	},
+	"those": {
+		"html/numpy/user/quickstart.html": [
+			4223
+		]
+	},
+	"though": {
+		"html/numpy/user/quickstart.html": [
+			1385,
+			3386
+		]
+	},
+	"three": {
+		"html/numpy/user/quickstart.html": [
+			672,
+			2421
+		]
+	},
+	"threshold": {
+		"html/numpy/user/quickstart.html": [
+			1114
+		]
+	},
+	"time": {
+		"html/numpy/user/quickstart.html": [
+			695,
+			3242,
+			3245,
+			3248,
+			3256,
+			3259,
+			3276,
+			3278,
+			3296
+		]
+	},
+	"times": {
+		"html/numpy/user/quickstart.html": [
+			3280,
+			3344,
+			3955
+		]
+	},
+	"tips": {
+		"html/numpy/user/quickstart.html": [
+			99,
+			4086,
+			4096
+		]
+	},
+	"to": {
+		"html/numpy/user/quickstart.html": [
+			133,
+			147,
+			339,
+			406,
+			488,
+			508,
+			569,
+			726,
+			820,
+			830,
+			861,
+			869,
+			882,
+			911,
+			918,
+			965,
+			980,
+			984,
+			990,
+			999,
+			1054,
+			1066,
+			1090,
+			1097,
+			1219,
+			1253,
+			1270,
+			1292,
+			1381,
+			1578,
+			1582,
+			1589,
+			1651,
+			1690,
+			1713,
+			1722,
+			1738,
+			1761,
+			1764,
+			1768,
+			1802,
+			1816,
+			1947,
+			1973,
+			1997,
+			2013,
+			2132,
+			2161,
+			2267,
+			2289,
+			2327,
+			2383,
+			2388,
+			2787,
+			2827,
+			2885,
+			2932,
+			3013,
+			3052,
+			3158,
+			3282,
+			3320,
+			3322,
+			3366,
+			3407,
+			3410,
+			3433,
+			3470,
+			3548,
+			3551,
+			3555,
+			3668,
+			3732,
+			3756,
+			3781,
+			3798,
+			3804,
+			3817,
+			3928,
+			3944,
+			3974,
+			4061,
+			4079,
+			4099,
+			4195,
+			4245,
+			4269
+		]
+	},
+	"together": {
+		"html/numpy/user/quickstart.html": [
+			41,
+			2078,
+			2086
+		]
+	},
+	"too": {
+		"html/numpy/user/quickstart.html": [
+			1064,
+			3645
+		]
+	},
+	"top": {
+		"html/numpy/user/quickstart.html": [
+			989,
+			998
+		]
+	},
+	"topic": {
+		"html/numpy/user/quickstart.html": [
+			108,
+			112
+		]
+	},
+	"total": {
+		"html/numpy/user/quickstart.html": [
+			396
+		]
+	},
+	"trace": {
+		"html/numpy/user/quickstart.html": [
+			1541,
+			4028,
+			4030
+		]
+	},
+	"traceback": {
+		"html/numpy/user/quickstart.html": [
+			1256,
+			3201
+		]
+	},
+	"transforms": {
+		"html/numpy/user/quickstart.html": [
+			658
+		]
+	},
+	"transpose": {
+		"html/numpy/user/quickstart.html": [
+			1542,
+			2733,
+			3999
+		]
+	},
+	"treated": {
+		"html/numpy/user/quickstart.html": [
+			1701,
+			1955
+		]
+	},
+	"tricks": {
+		"html/numpy/user/quickstart.html": [
+			76,
+			97,
+			2920,
+			4084
+		]
+	},
+	"tridimensionals": {
+		"html/numpy/user/quickstart.html": [
+			1024
+		]
+	},
+	"triplets": {
+		"html/numpy/user/quickstart.html": [
+			3827
+		]
+	},
+	"true": {
+		"html/numpy/user/quickstart.html": [
+			1155,
+			1156,
+			2463,
+			2550,
+			3309,
+			3504,
+			3505,
+			3506,
+			3507,
+			3508,
+			3509,
+			3510,
+			3696,
+			3697,
+			3704,
+			3706,
+			4365
+		]
+	},
+	"tuple": {
+		"html/numpy/user/quickstart.html": [
+			200,
+			352,
+			383,
+			585,
+			1619,
+			1743,
+			3219
+		]
+	},
+	"tutorial": {
+		"html/numpy/user/quickstart.html": [
+			14,
+			116,
+			121,
+			143,
+			153,
+			4383,
+			4387
+		]
+	},
+	"twice": {
+		"html/numpy/user/quickstart.html": [
+			3388
+		]
+	},
+	"two": {
+		"html/numpy/user/quickstart.html": [
+			663,
+			1776,
+			2195,
+			2456,
+			4160,
+			4228
+		]
+	},
+	"type": {
+		"html/numpy/user/quickstart.html": [
+			196,
+			420,
+			474,
+			481,
+			548,
+			550,
+			558,
+			560,
+			591,
+			600,
+			684,
+			1255,
+			1286
+		]
+	},
+	"typeerror": {
+		"html/numpy/user/quickstart.html": [
+			1261
+		]
+	},
+	"types": {
+		"html/numpy/user/quickstart.html": [
+			437,
+			441,
+			1284
+		]
+	},
+	"u": {
+		"html/numpy/user/quickstart.html": [
+			4006,
+			4015,
+			4029
+		]
+	},
+	"ufct": {
+		"html/numpy/user/quickstart.html": [
+			3888,
+			3895,
+			3902
+		]
+	},
+	"ufunc": {
+		"html/numpy/user/quickstart.html": [
+			1264,
+			1465,
+			3886,
+			3912,
+			3931
+		]
+	},
+	"unary": {
+		"html/numpy/user/quickstart.html": [
+			1342
+		]
+	},
+	"uninitialized": {
+		"html/numpy/user/quickstart.html": [
+			809
+		]
+	},
+	"unique": {
+		"html/numpy/user/quickstart.html": [
+			2496
+		]
+	},
+	"unit": {
+		"html/numpy/user/quickstart.html": [
+			4009,
+			4066
+		]
+	},
+	"universal": {
+		"html/numpy/user/quickstart.html": [
+			26,
+			1445,
+			1463,
+			2785
+		]
+	},
+	"unknown": {
+		"html/numpy/user/quickstart.html": [
+			715
+		]
+	},
+	"unlike": {
+		"html/numpy/user/quickstart.html": [
+			1161
+		]
+	},
+	"until": {
+		"html/numpy/user/quickstart.html": [
+			2834
+		]
+	},
+	"unusual": {
+		"html/numpy/user/quickstart.html": [
+			1992
+		]
+	},
+	"upcasting": {
+		"html/numpy/user/quickstart.html": [
+			1303
+		]
+	},
+	"updated": {
+		"html/numpy/user/quickstart.html": [
+			4403
+		]
+	},
+	"uplet": {
+		"html/numpy/user/quickstart.html": [
+			3811
+		]
+	},
+	"use": {
+		"html/numpy/user/quickstart.html": [
+			509,
+			883,
+			1828,
+			2014,
+			2249,
+			3229,
+			3313,
+			3367,
+			3471,
+			3552,
+			3909,
+			3937
+		]
+	},
+	"used": {
+		"html/numpy/user/quickstart.html": [
+			851,
+			2257,
+			3797
+		]
+	},
+	"useful": {
+		"html/numpy/user/quickstart.html": [
+			917,
+			2236,
+			2664,
+			3527,
+			4095
+		]
+	},
+	"user": {
+		"html/numpy/user/quickstart.html": [
+			5
+		]
+	},
+	"users": {
+		"html/numpy/user/quickstart.html": [
+			4238
+		]
+	},
+	"using": {
+		"html/numpy/user/quickstart.html": [
+			434,
+			521,
+			586,
+			1108,
+			1180,
+			1725,
+			2009,
+			2307,
+			3035,
+			4407
+		]
+	},
+	"usually": {
+		"html/numpy/user/quickstart.html": [
+			190,
+			880,
+			1970
+		]
+	},
+	"v": {
+		"html/numpy/user/quickstart.html": [
+			2,
+			3898,
+			3904,
+			4073,
+			4323,
+			4337,
+			4362
+		]
+	},
+	"value": {
+		"html/numpy/user/quickstart.html": [
+			2878,
+			3050,
+			3240,
+			3349
+		]
+	},
+	"var": {
+		"html/numpy/user/quickstart.html": [
+			1543,
+			2769
+		]
+	},
+	"variance": {
+		"html/numpy/user/quickstart.html": [
+			4318
+		]
+	},
+	"various": {
+		"html/numpy/user/quickstart.html": [
+			1899
+		]
+	},
+	"vary": {
+		"html/numpy/user/quickstart.html": [
+			812
+		]
+	},
+	"vdot": {
+		"html/numpy/user/quickstart.html": [
+			1544,
+			2778
+		]
+	},
+	"vector": {
+		"html/numpy/user/quickstart.html": [
+			102,
+			2166,
+			4132,
+			4260,
+			4313
+		]
+	},
+	"vectorize": {
+		"html/numpy/user/quickstart.html": [
+			1545
+		]
+	},
+	"vectors": {
+		"html/numpy/user/quickstart.html": [
+			3801,
+			3833,
+			3889,
+			3893,
+			3959,
+			4148,
+			4161,
+			4252
+		]
+	},
+	"version": {
+		"html/numpy/user/quickstart.html": [
+			3924,
+			4341,
+			4367
+		]
+	},
+	"vertical": {
+		"html/numpy/user/quickstart.html": [
+			2376
+		]
+	},
+	"very": {
+		"html/numpy/user/quickstart.html": [
+			3526
+		]
+	},
+	"via": {
+		"html/numpy/user/quickstart.html": [
+			4177
+		]
+	},
+	"view": {
+		"html/numpy/user/quickstart.html": [
+			58,
+			2503,
+			2516,
+			2531,
+			2543,
+			2577,
+			2596
+		]
+	},
+	"views": {
+		"html/numpy/user/quickstart.html": [
+			53,
+			2392
+		]
+	},
+	"vs": {
+		"html/numpy/user/quickstart.html": [
+			3890,
+			3900
+		]
+	},
+	"vsplit": {
+		"html/numpy/user/quickstart.html": [
+			2372,
+			2734
+		]
+	},
+	"vstack": {
+		"html/numpy/user/quickstart.html": [
+			2107,
+			2133,
+			2177,
+			2185,
+			2203,
+			2268,
+			2294,
+			2735,
+			4185,
+			4210
+		]
+	},
+	"w": {
+		"html/numpy/user/quickstart.html": [
+			3575,
+			3587,
+			3594,
+			4082
+		]
+	},
+	"want": {
+		"html/numpy/user/quickstart.html": [
+			898,
+			3200,
+			3365,
+			3451,
+			3687,
+			3755,
+			3816
+		]
+	},
+	"wants": {
+		"html/numpy/user/quickstart.html": [
+			1815
+		]
+	},
+	"was": {
+		"html/numpy/user/quickstart.html": [
+			1981
+		]
+	},
+	"watch": {
+		"html/numpy/user/quickstart.html": [
+			3361
+		]
+	},
+	"way": {
+		"html/numpy/user/quickstart.html": [
+			964,
+			2792,
+			3461,
+			3660
+		]
+	},
+	"ways": {
+		"html/numpy/user/quickstart.html": [
+			568
+		]
+	},
+	"we": {
+		"html/numpy/user/quickstart.html": [
+			504,
+			513,
+			897,
+			2939,
+			3064,
+			3132,
+			3164,
+			3199,
+			3418,
+			3426,
+			3442,
+			3450,
+			3455,
+			3677,
+			3686,
+			4088,
+			4136
+		]
+	},
+	"weird": {
+		"html/numpy/user/quickstart.html": [
+			3730
+		]
+	},
+	"were": {
+		"html/numpy/user/quickstart.html": [
+			1387
+		]
+	},
+	"what": {
+		"html/numpy/user/quickstart.html": [
+			3198,
+			3376
+		]
+	},
+	"whatever": {
+		"html/numpy/user/quickstart.html": [
+			4125
+		]
+	},
+	"when": {
+		"html/numpy/user/quickstart.html": [
+			848,
+			953,
+			1278,
+			1668,
+			2256,
+			2393,
+			3000,
+			3332,
+			3417,
+			3640
+		]
+	},
+	"where": {
+		"html/numpy/user/quickstart.html": [
+			1546,
+			2740
+		]
+	},
+	"whereas": {
+		"html/numpy/user/quickstart.html": [
+			2036
+		]
+	},
+	"which": {
+		"html/numpy/user/quickstart.html": [
+			300,
+			1832,
+			2019,
+			2223,
+			2288,
+			2335,
+			2386,
+			3445,
+			3453,
+			4113,
+			4191
+		]
+	},
+	"while": {
+		"html/numpy/user/quickstart.html": [
+			478,
+			4295
+		]
+	},
+	"white": {
+		"html/numpy/user/quickstart.html": [
+			3045
+		]
+	},
+	"who": {
+		"html/numpy/user/quickstart.html": [
+			3623,
+			3631
+		]
+	},
+	"whose": {
+		"html/numpy/user/quickstart.html": [
+			768
+		]
+	},
+	"will": {
+		"html/numpy/user/quickstart.html": [
+			374,
+			514,
+			1969,
+			2823,
+			3180,
+			4114
+		]
+	},
+	"wish": {
+		"html/numpy/user/quickstart.html": [
+			146
+		]
+	},
+	"with": {
+		"html/numpy/user/quickstart.html": [
+			78,
+			83,
+			90,
+			367,
+			634,
+			729,
+			852,
+			969,
+			1001,
+			1131,
+			1273,
+			1280,
+			1800,
+			1898,
+			1991,
+			2032,
+			2147,
+			2192,
+			2258,
+			2630,
+			2648,
+			2793,
+			2852,
+			2870,
+			2955,
+			3149,
+			3232,
+			3315,
+			3414,
+			3421,
+			3435,
+			3494,
+			3517,
+			3663,
+			3746,
+			3767,
+			3961,
+			4317,
+			4333,
+			4352
+		]
+	},
+	"within": {
+		"html/numpy/user/quickstart.html": [
+			1466,
+			1695
+		]
+	},
+	"won": {
+		"html/numpy/user/quickstart.html": [
+			505
+		]
+	},
+	"work": {
+		"html/numpy/user/quickstart.html": [
+			148,
+			3968
+		]
+	},
+	"works": {
+		"html/numpy/user/quickstart.html": [
+			4176
+		]
+	},
+	"world": {
+		"html/numpy/user/quickstart.html": [
+			332
+		]
+	},
+	"would": {
+		"html/numpy/user/quickstart.html": [
+			131
+		]
+	},
+	"write": {
+		"html/numpy/user/quickstart.html": [
+			1723
+		]
+	},
+	"written": {
+		"html/numpy/user/quickstart.html": [
+			2589
+		]
+	},
+	"wrong": {
+		"html/numpy/user/quickstart.html": [
+			652
+		]
+	},
+	"x": {
+		"html/numpy/user/quickstart.html": [
+			913,
+			928,
+			1625,
+			1628,
+			1747,
+			1758,
+			1762,
+			1763,
+			1765,
+			1767,
+			1769,
+			2487,
+			2490,
+			3589,
+			3597,
+			4010,
+			4156,
+			4171,
+			4200,
+			4203,
+			4211,
+			4217
+		]
+	},
+	"xrange": {
+		"html/numpy/user/quickstart.html": [
+			3289
+		]
+	},
+	"xy": {
+		"html/numpy/user/quickstart.html": [
+			4214,
+			4219
+		]
+	},
+	"y": {
+		"html/numpy/user/quickstart.html": [
+			1626,
+			1629,
+			3588,
+			3598,
+			4031,
+			4038,
+			4158,
+			4172,
+			4204,
+			4207,
+			4212,
+			4218
+		]
+	},
+	"you": {
+		"html/numpy/user/quickstart.html": [
+			122,
+			130,
+			145,
+			154,
+			574,
+			954,
+			1102,
+			1402,
+			1721,
+			2309,
+			3310,
+			3364,
+			3377,
+			3541,
+			3754,
+			3815,
+			3877,
+			4106,
+			4166
+		]
+	},
+	"your": {
+		"html/numpy/user/quickstart.html": [
+			135,
+			162
+		]
+	},
+	"z": {
+		"html/numpy/user/quickstart.html": [
+			3600,
+			3606,
+			3615,
+			3616,
+			3619,
+			3622,
+			3641
+		]
+	},
+	"zeros": {
+		"html/numpy/user/quickstart.html": [
+			745,
+			751,
+			792,
+			932,
+			933,
+			2699,
+			2700,
+			3605
+		]
+	}
+}

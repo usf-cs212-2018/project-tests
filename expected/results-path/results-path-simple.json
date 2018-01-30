@@ -1,0 +1,82 @@
+[
+	{
+		"queries": "aar alpaca elephant",
+		"results": [
+			{
+				"where": "html/simple/mixed_case.htm",
+				"count": 4,
+				"index": 1
+			},
+			{
+				"where": "html/simple/index.html",
+				"count": 3,
+				"index": 1
+			},
+			{
+				"where": "html/simple/a/b/c/subdir.html",
+				"count": 1,
+				"index": 1
+			},
+			{
+				"where": "html/simple/capital_extension.HTML",
+				"count": 1,
+				"index": 1
+			}
+		]
+	},
+	{
+		"queries": "ant eight nine seven",
+		"results": [
+			{
+				"where": "html/simple/symbols.html",
+				"count": 6,
+				"index": 1
+			},
+			{
+				"where": "html/simple/position.html",
+				"count": 6,
+				"index": 7
+			},
+			{
+				"where": "html/simple/index.html",
+				"count": 1,
+				"index": 7
+			}
+		]
+	},
+	{
+		"queries": "cardinal",
+		"results": [
+		]
+	},
+	{
+		"queries": "four",
+		"results": [
+			{
+				"where": "html/simple/position.html",
+				"count": 2,
+				"index": 4
+			},
+			{
+				"where": "html/simple/index.html",
+				"count": 1,
+				"index": 6
+			}
+		]
+	},
+	{
+		"queries": "hello world",
+		"results": [
+			{
+				"where": "html/simple/hello.html",
+				"count": 8,
+				"index": 1
+			},
+			{
+				"where": "html/simple/index.html",
+				"count": 1,
+				"index": 4
+			}
+		]
+	}
+]

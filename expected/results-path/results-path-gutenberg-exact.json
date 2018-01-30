@@ -1,0 +1,87 @@
+[
+	{
+		"queries": "abandon",
+		"results": [
+			{
+				"where": "html/gutenberg/32522-h/32522-h.htm",
+				"count": 1,
+				"index": 5244
+			}
+		]
+	},
+	{
+		"queries": "gutenberg",
+		"results": [
+			{
+				"where": "html/gutenberg/31516-h/31516-h.htm",
+				"count": 93,
+				"index": 3
+			},
+			{
+				"where": "html/gutenberg/32032-h/32032-h.htm",
+				"count": 93,
+				"index": 3
+			},
+			{
+				"where": "html/gutenberg/32154-h/32154-h.htm",
+				"count": 93,
+				"index": 3
+			},
+			{
+				"where": "html/gutenberg/32522-h/32522-h.htm",
+				"count": 93,
+				"index": 3
+			}
+		]
+	},
+	{
+		"queries": "nowhere",
+		"results": [
+		]
+	},
+	{
+		"queries": "provide",
+		"results": [
+			{
+				"where": "html/gutenberg/32154-h/32154-h.htm",
+				"count": 8,
+				"index": 3468
+			},
+			{
+				"where": "html/gutenberg/31516-h/31516-h.htm",
+				"count": 7,
+				"index": 2498
+			},
+			{
+				"where": "html/gutenberg/32522-h/32522-h.htm",
+				"count": 7,
+				"index": 12247
+			},
+			{
+				"where": "html/gutenberg/32032-h/32032-h.htm",
+				"count": 7,
+				"index": 16966
+			}
+		]
+	},
+	{
+		"queries": "x y z",
+		"results": [
+			{
+				"where": "html/gutenberg/32154-h/32154-h.htm",
+				"count": 3,
+				"index": 9797
+			}
+		]
+	},
+	{
+		"queries": "zone",
+		"results": [
+			{
+				"where": "html/gutenberg/32522-h/32522-h.htm",
+				"count": 4,
+				"index": 5130
+			}
+		]
+	}
+]

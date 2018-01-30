@@ -1,0 +1,9080 @@
+{
+	"a": {
+		"html/wdgcss/all-properties.html": [
+			40,
+			57,
+			60,
+			70,
+			72,
+			77,
+			79,
+			118,
+			125,
+			212,
+			217,
+			223,
+			234,
+			246,
+			257,
+			269,
+			316,
+			402,
+			501,
+			751,
+			875,
+			956,
+			982,
+			991,
+			996,
+			1215,
+			1220,
+			1281,
+			1372,
+			1394,
+			1461,
+			1478,
+			1506,
+			1581,
+			1604,
+			1789,
+			1837,
+			1994,
+			2067,
+			2069,
+			2071,
+			2148,
+			2157,
+			2191,
+			2398,
+			2413,
+			2546,
+			2549,
+			2559,
+			2569,
+			2602,
+			2616,
+			2660,
+			2715,
+			2801,
+			2804,
+			2830,
+			2882,
+			2885,
+			2945,
+			2948,
+			3015,
+			3018,
+			3084,
+			3086,
+			3274,
+			3277,
+			3335,
+			3338,
+			3396,
+			3399,
+			3457,
+			3460,
+			3496,
+			3540,
+			3543,
+			3688,
+			3772,
+			3856,
+			3940,
+			4015,
+			4018,
+			4070,
+			4324,
+			4386,
+			4448,
+			4510,
+			4568,
+			4591,
+			4596,
+			4601,
+			4703,
+			4707,
+			4709,
+			4714,
+			4834,
+			4838,
+			4843,
+			4969,
+			5077,
+			5196,
+			5219,
+			5233,
+			5350,
+			5436,
+			5668,
+			5727,
+			5738,
+			5742,
+			5755,
+			5763,
+			5771,
+			5795,
+			5888,
+			5899,
+			5908,
+			5938,
+			5942,
+			5945,
+			6014,
+			6036,
+			6045,
+			6096
+		]
+	},
+	"abbreviation": {
+		"html/wdgcss/all-properties.html": [
+			5745
+		]
+	},
+	"ability": {
+		"html/wdgcss/all-properties.html": [
+			5257
+		]
+	},
+	"above": {
+		"html/wdgcss/all-properties.html": [
+			1320,
+			1853,
+			2177,
+			6024
+		]
+	},
+	"absolute": {
+		"html/wdgcss/all-properties.html": [
+			563,
+			660,
+			668,
+			715,
+			739,
+			5785,
+			5844,
+			5864
+		]
+	},
+	"accept": {
+		"html/wdgcss/all-properties.html": [
+			2601
+		]
+	},
+	"achieve": {
+		"html/wdgcss/all-properties.html": [
+			3695,
+			3779,
+			3863,
+			3947
+		]
+	},
+	"across": {
+		"html/wdgcss/all-properties.html": [
+			1589,
+			1599
+		]
+	},
+	"active": {
+		"html/wdgcss/all-properties.html": [
+			2072,
+			4602
+		]
+	},
+	"acts": {
+		"html/wdgcss/all-properties.html": [
+			5092
+		]
+	},
+	"adapting": {
+		"html/wdgcss/all-properties.html": [
+			732
+		]
+	},
+	"added": {
+		"html/wdgcss/all-properties.html": [
+			5224
+		]
+	},
+	"additional": {
+		"html/wdgcss/all-properties.html": [
+			485,
+			1922,
+			1976
+		]
+	},
+	"address": {
+		"html/wdgcss/all-properties.html": [
+			3034
+		]
+	},
+	"adjoining": {
+		"html/wdgcss/all-properties.html": [
+			2837,
+			2907,
+			2970,
+			3039,
+			3189
+		]
+	},
+	"adjust": {
+		"html/wdgcss/all-properties.html": [
+			5809
+		]
+	},
+	"advised": {
+		"html/wdgcss/all-properties.html": [
+			4927
+		]
+	},
+	"affect": {
+		"html/wdgcss/all-properties.html": [
+			2196
+		]
+	},
+	"affected": {
+		"html/wdgcss/all-properties.html": [
+			3683,
+			3767,
+			3851,
+			3935
+		]
+	},
+	"affecting": {
+		"html/wdgcss/all-properties.html": [
+			2259
+		]
+	},
+	"after": {
+		"html/wdgcss/all-properties.html": [
+			2143,
+			5201,
+			5210,
+			6076
+		]
+	},
+	"align": {
+		"html/wdgcss/all-properties.html": [
+			2080,
+			2106,
+			2205,
+			2212,
+			2239,
+			2249,
+			2270,
+			2281,
+			2293,
+			2307,
+			2311,
+			2314,
+			2423,
+			2445,
+			2475,
+			2487,
+			2492,
+			5020,
+			5023
+		]
+	},
+	"aligning": {
+		"html/wdgcss/all-properties.html": [
+			2299
+		]
+	},
+	"alignment": {
+		"html/wdgcss/all-properties.html": [
+			1888,
+			1892,
+			2077,
+			2420,
+			2460
+		]
+	},
+	"all": {
+		"html/wdgcss/all-properties.html": [
+			202,
+			378,
+			438,
+			463,
+			529,
+			569,
+			697,
+			945,
+			1028,
+			1097,
+			1180,
+			1271,
+			1362,
+			1781,
+			1912,
+			1966,
+			2029,
+			2333,
+			2360,
+			2370,
+			2592,
+			2784,
+			2865,
+			2928,
+			2998,
+			3060,
+			3126,
+			3152,
+			3215,
+			3246,
+			3307,
+			3368,
+			3429,
+			3488,
+			3582,
+			3651,
+			3735,
+			3819,
+			3903,
+			3986,
+			4049,
+			4115,
+			4163,
+			4211,
+			4269,
+			4315,
+			4377,
+			4439,
+			4501,
+			4560,
+			4613,
+			4997,
+			5032,
+			5060,
+			5136,
+			5144,
+			5177,
+			6025,
+			6192
+		]
+	},
+	"allow": {
+		"html/wdgcss/all-properties.html": [
+			5346
+		]
+	},
+	"allowed": {
+		"html/wdgcss/all-properties.html": [
+			1549,
+			1654,
+			3702,
+			3786,
+			3870,
+			3954,
+			4781,
+			4902
+		]
+	},
+	"allows": {
+		"html/wdgcss/all-properties.html": [
+			1035,
+			2037,
+			2341,
+			3211,
+			5004,
+			5031,
+			5044,
+			5071
+		]
+	},
+	"along": {
+		"html/wdgcss/all-properties.html": [
+			2658
+		]
+	},
+	"alpha": {
+		"html/wdgcss/all-properties.html": [
+			5372,
+			5374,
+			5435,
+			5709
+		]
+	},
+	"also": {
+		"html/wdgcss/all-properties.html": [
+			54,
+			355,
+			802,
+			1149,
+			1225,
+			1235,
+			1331,
+			1409,
+			1526,
+			1743,
+			2189,
+			2651,
+			3705,
+			3789,
+			3873,
+			3957,
+			4090,
+			4183,
+			4289,
+			4351,
+			4413,
+			4475,
+			4537,
+			6034
+		]
+	},
+	"alter": {
+		"html/wdgcss/all-properties.html": [
+			2112
+		]
+	},
+	"alternate": {
+		"html/wdgcss/all-properties.html": [
+			594
+		]
+	},
+	"alternatively": {
+		"html/wdgcss/all-properties.html": [
+			3217
+		]
+	},
+	"although": {
+		"html/wdgcss/all-properties.html": [
+			1546
+		]
+	},
+	"always": {
+		"html/wdgcss/all-properties.html": [
+			1078,
+			1875
+		]
+	},
+	"amount": {
+		"html/wdgcss/all-properties.html": [
+			1923,
+			1977,
+			2176,
+			2530,
+			3516
+		]
+	},
+	"an": {
+		"html/wdgcss/all-properties.html": [
+			498,
+			593,
+			1042,
+			1110,
+			1193,
+			1921,
+			1975,
+			2117,
+			2131,
+			2797,
+			2878,
+			2941,
+			3011,
+			3071,
+			3510,
+			3667,
+			3751,
+			3835,
+			3919,
+			4002,
+			4127,
+			4223,
+			4334,
+			4396,
+			4458,
+			4520,
+			4578,
+			4631,
+			4636,
+			4767,
+			4896,
+			4914,
+			4933,
+			4956,
+			5010,
+			5069,
+			5188,
+			5266,
+			5612,
+			5733,
+			5894,
+			5999
+		]
+	},
+	"and": {
+		"html/wdgcss/all-properties.html": [
+			11,
+			51,
+			127,
+			244,
+			299,
+			548,
+			606,
+			721,
+			786,
+			870,
+			910,
+			915,
+			984,
+			995,
+			1002,
+			1074,
+			1447,
+			1475,
+			1499,
+			1523,
+			1590,
+			1600,
+			1626,
+			1651,
+			1666,
+			1871,
+			2142,
+			2149,
+			2209,
+			2243,
+			2253,
+			2480,
+			2685,
+			2702,
+			3077,
+			3114,
+			3160,
+			3165,
+			3226,
+			3264,
+			3325,
+			3386,
+			3447,
+			3506,
+			3522,
+			3530,
+			3570,
+			3621,
+			4008,
+			4036,
+			4083,
+			4133,
+			4150,
+			4240,
+			4256,
+			4331,
+			4393,
+			4455,
+			4517,
+			4575,
+			4620,
+			4689,
+			4735,
+			4798,
+			4820,
+			4864,
+			4947,
+			4965,
+			5022,
+			5040,
+			5109,
+			5200,
+			5209,
+			5401,
+			5678,
+			5784,
+			5802,
+			5854,
+			5973,
+			6002,
+			6017,
+			6070,
+			6177,
+			6189
+		]
+	},
+	"another": {
+		"html/wdgcss/all-properties.html": [
+			330,
+			5799
+		]
+	},
+	"any": {
+		"html/wdgcss/all-properties.html": [
+			87,
+			162,
+			337,
+			618,
+			634,
+			5085,
+			5288
+		]
+	},
+	"appear": {
+		"html/wdgcss/all-properties.html": [
+			44,
+			55
+		]
+	},
+	"applied": {
+		"html/wdgcss/all-properties.html": [
+			1470,
+			2449,
+			2519,
+			5142
+		]
+	},
+	"applies": {
+		"html/wdgcss/all-properties.html": [
+			200,
+			376,
+			436,
+			527,
+			695,
+			804,
+			943,
+			1026,
+			1095,
+			1178,
+			1269,
+			1360,
+			1443,
+			1779,
+			1910,
+			1964,
+			2027,
+			2098,
+			2331,
+			2436,
+			2506,
+			2590,
+			2782,
+			2863,
+			2926,
+			2996,
+			3058,
+			3124,
+			3244,
+			3305,
+			3366,
+			3427,
+			3486,
+			3580,
+			3649,
+			3733,
+			3817,
+			3901,
+			3984,
+			4047,
+			4113,
+			4161,
+			4209,
+			4267,
+			4313,
+			4375,
+			4437,
+			4499,
+			4558,
+			4685,
+			4816,
+			4995,
+			5058,
+			5175,
+			5304,
+			5379,
+			5478,
+			5555,
+			5653
+		]
+	},
+	"apply": {
+		"html/wdgcss/all-properties.html": [
+			3109,
+			3565,
+			4031,
+			4145,
+			4251
+		]
+	},
+	"aqua": {
+		"html/wdgcss/all-properties.html": [
+			5958
+		]
+	},
+	"are": {
+		"html/wdgcss/all-properties.html": [
+			33,
+			91,
+			292,
+			306,
+			460,
+			469,
+			551,
+			562,
+			1489,
+			1538,
+			1548,
+			1551,
+			1653,
+			1656,
+			1675,
+			1938,
+			1992,
+			2184,
+			2268,
+			2635,
+			2645,
+			2713,
+			2817,
+			2840,
+			2898,
+			2910,
+			2961,
+			2973,
+			3031,
+			3042,
+			3101,
+			3106,
+			3133,
+			3138,
+			3192,
+			3204,
+			3290,
+			3351,
+			3412,
+			3473,
+			3533,
+			3556,
+			3562,
+			3589,
+			3594,
+			3681,
+			3700,
+			3765,
+			3784,
+			3849,
+			3868,
+			3933,
+			3952,
+			4022,
+			4028,
+			4056,
+			4061,
+			4137,
+			4142,
+			4170,
+			4175,
+			4243,
+			4248,
+			4276,
+			4281,
+			4725,
+			4779,
+			4854,
+			4900,
+			4926,
+			5102,
+			5322,
+			5751,
+			5788,
+			5803,
+			5817,
+			5847,
+			5856,
+			5866,
+			5904,
+			5913,
+			5951,
+			5977,
+			6100
+		]
+	},
+	"arial": {
+		"html/wdgcss/all-properties.html": [
+			179
+		]
+	},
+	"around": {
+		"html/wdgcss/all-properties.html": [
+			5009
+		]
+	},
+	"as": {
+		"html/wdgcss/all-properties.html": [
+			229,
+			233,
+			315,
+			488,
+			789,
+			955,
+			963,
+			965,
+			1584,
+			1607,
+			1655,
+			1677,
+			2692,
+			4706,
+			4712,
+			4796,
+			4837,
+			4841,
+			4903,
+			5216,
+			5500,
+			5918
+		]
+	},
+	"assign": {
+		"html/wdgcss/all-properties.html": [
+			1505,
+			1530
+		]
+	},
+	"assigned": {
+		"html/wdgcss/all-properties.html": [
+			210,
+			611,
+			627,
+			5286
+		]
+	},
+	"assignment": {
+		"html/wdgcss/all-properties.html": [
+			249,
+			504,
+			585
+		]
+	},
+	"assignments": {
+		"html/wdgcss/all-properties.html": [
+			240,
+			291,
+			645,
+			756
+		]
+	},
+	"at": {
+		"html/wdgcss/all-properties.html": [
+			123,
+			128,
+			1596
+		]
+	},
+	"attachment": {
+		"html/wdgcss/all-properties.html": [
+			1013,
+			1348,
+			1351,
+			1368,
+			1405,
+			1423,
+			1772
+		]
+	},
+	"attribute": {
+		"html/wdgcss/all-properties.html": [
+			2476
+		]
+	},
+	"author": {
+		"html/wdgcss/all-properties.html": [
+			4637
+		]
+	},
+	"authors": {
+		"html/wdgcss/all-properties.html": [
+			774,
+			899,
+			1036,
+			1147,
+			1233,
+			1329,
+			1407,
+			1741,
+			2704,
+			4925,
+			5005,
+			6130
+		]
+	},
+	"auto": {
+		"html/wdgcss/all-properties.html": [
+			2779,
+			2860,
+			2923,
+			2993,
+			3053,
+			3089,
+			4681,
+			4684,
+			4713,
+			4745,
+			4812,
+			4815,
+			4842,
+			4874
+		]
+	},
+	"available": {
+		"html/wdgcss/all-properties.html": [
+			592,
+			5818,
+			5867
+		]
+	},
+	"avoid": {
+		"html/wdgcss/all-properties.html": [
+			913,
+			1067,
+			1123,
+			1864,
+			2706
+		]
+	},
+	"aware": {
+		"html/wdgcss/all-properties.html": [
+			777
+		]
+	},
+	"b": {
+		"html/wdgcss/all-properties.html": [
+			58,
+			64,
+			71,
+			74,
+			78,
+			81,
+			119,
+			130,
+			5437
+		]
+	},
+	"background": {
+		"html/wdgcss/all-properties.html": [
+			12,
+			1003,
+			1006,
+			1008,
+			1010,
+			1012,
+			1014,
+			1016,
+			1073,
+			1082,
+			1085,
+			1102,
+			1107,
+			1115,
+			1119,
+			1129,
+			1135,
+			1142,
+			1153,
+			1162,
+			1165,
+			1168,
+			1185,
+			1190,
+			1198,
+			1205,
+			1216,
+			1222,
+			1239,
+			1248,
+			1251,
+			1254,
+			1276,
+			1283,
+			1309,
+			1314,
+			1335,
+			1344,
+			1347,
+			1350,
+			1367,
+			1374,
+			1396,
+			1399,
+			1404,
+			1413,
+			1422,
+			1425,
+			1428,
+			1453,
+			1463,
+			1507,
+			1535,
+			1720,
+			1747,
+			1756,
+			1759,
+			1761,
+			1765,
+			1767,
+			1769,
+			1771,
+			1773,
+			1786,
+			1795,
+			1801,
+			1805,
+			1815,
+			1818,
+			1828,
+			1855,
+			1870,
+			6141,
+			6146,
+			6155,
+			6160,
+			6165
+		]
+	},
+	"backgrounds": {
+		"html/wdgcss/all-properties.html": [
+			1820
+		]
+	},
+	"backslash": {
+		"html/wdgcss/all-properties.html": [
+			6097
+		]
+	},
+	"backup": {
+		"html/wdgcss/all-properties.html": [
+			317
+		]
+	},
+	"based": {
+		"html/wdgcss/all-properties.html": [
+			5240
+		]
+	},
+	"baseline": {
+		"html/wdgcss/all-properties.html": [
+			2084,
+			2097,
+			2173,
+			2181,
+			2204,
+			2218
+		]
+	},
+	"baselines": {
+		"html/wdgcss/all-properties.html": [
+			2206,
+			2609
+		]
+	},
+	"basis": {
+		"html/wdgcss/all-properties.html": [
+			601
+		]
+	},
+	"be": {
+		"html/wdgcss/all-properties.html": [
+			167,
+			209,
+			228,
+			242,
+			254,
+			343,
+			356,
+			390,
+			506,
+			581,
+			596,
+			603,
+			610,
+			626,
+			647,
+			724,
+			744,
+			758,
+			776,
+			839,
+			866,
+			892,
+			953,
+			1079,
+			1132,
+			1226,
+			1326,
+			1382,
+			1469,
+			1527,
+			1594,
+			1619,
+			1647,
+			1669,
+			1859,
+			1876,
+			1931,
+			1985,
+			2040,
+			2064,
+			2109,
+			2156,
+			2190,
+			2344,
+			2394,
+			2403,
+			2448,
+			2518,
+			2545,
+			2566,
+			2652,
+			2668,
+			3230,
+			3675,
+			3692,
+			3759,
+			3776,
+			3843,
+			3860,
+			3927,
+			3944,
+			4230,
+			4236,
+			4347,
+			4409,
+			4471,
+			4533,
+			4624,
+			4701,
+			4785,
+			4832,
+			4910,
+			5141,
+			5252,
+			5265,
+			5498,
+			6061,
+			6093
+		]
+	},
+	"because": {
+		"html/wdgcss/all-properties.html": [
+			5254
+		]
+	},
+	"before": {
+		"html/wdgcss/all-properties.html": [
+			2141,
+			5199,
+			5208,
+			6074
+		]
+	},
+	"being": {
+		"html/wdgcss/all-properties.html": [
+			5578,
+			5610
+		]
+	},
+	"below": {
+		"html/wdgcss/all-properties.html": [
+			1628,
+			5084,
+			5115
+		]
+	},
+	"better": {
+		"html/wdgcss/all-properties.html": [
+			1158,
+			1244,
+			1340,
+			1418,
+			1752,
+			5808
+		]
+	},
+	"between": {
+		"html/wdgcss/all-properties.html": [
+			1926,
+			1980,
+			2608,
+			3075,
+			3260,
+			3321,
+			3382,
+			3443,
+			3519,
+			3528,
+			4006,
+			4131,
+			4238,
+			6001,
+			6016
+		]
+	},
+	"bg": {
+		"html/wdgcss/all-properties.html": [
+			1212
+		]
+	},
+	"black": {
+		"html/wdgcss/all-properties.html": [
+			5959
+		]
+	},
+	"blink": {
+		"html/wdgcss/all-properties.html": [
+			2023,
+			2051
+		]
+	},
+	"block": {
+		"html/wdgcss/all-properties.html": [
+			1445,
+			1472,
+			2438,
+			2451,
+			2508,
+			2521,
+			4687,
+			4695,
+			4818,
+			4826,
+			5167,
+			5174,
+			5195,
+			5217,
+			5306
+		]
+	},
+	"blockquote": {
+		"html/wdgcss/all-properties.html": [
+			1814,
+			3627
+		]
+	},
+	"blue": {
+		"html/wdgcss/all-properties.html": [
+			1059,
+			4595,
+			5960
+		]
+	},
+	"body": {
+		"html/wdgcss/all-properties.html": [
+			862,
+			1114,
+			1197,
+			1308,
+			1398,
+			1804,
+			2832,
+			3149,
+			6140,
+			6145,
+			6154,
+			6159,
+			6164
+		]
+	},
+	"bold": {
+		"html/wdgcss/all-properties.html": [
+			521,
+			974,
+			983
+		]
+	},
+	"bolder": {
+		"html/wdgcss/all-properties.html": [
+			522,
+			547
+		]
+	},
+	"border": {
+		"html/wdgcss/all-properties.html": [
+			2739,
+			2742,
+			2745,
+			2748,
+			2750,
+			2752,
+			2754,
+			2757,
+			2759,
+			2761,
+			2763,
+			2764,
+			3263,
+			3324,
+			3385,
+			3446,
+			3521,
+			3633,
+			3636,
+			3656,
+			3671,
+			3708,
+			3710,
+			3713,
+			3717,
+			3720,
+			3740,
+			3755,
+			3792,
+			3794,
+			3797,
+			3801,
+			3804,
+			3824,
+			3839,
+			3876,
+			3878,
+			3881,
+			3885,
+			3888,
+			3908,
+			3923,
+			3960,
+			3962,
+			3965,
+			3968,
+			3971,
+			3991,
+			3999,
+			4038,
+			4074,
+			4077,
+			4080,
+			4084,
+			4093,
+			4096,
+			4099,
+			4120,
+			4130,
+			4152,
+			4186,
+			4189,
+			4192,
+			4216,
+			4226,
+			4234,
+			4258,
+			4292,
+			4296,
+			4298,
+			4303,
+			4306,
+			4320,
+			4338,
+			4343,
+			4354,
+			4358,
+			4360,
+			4365,
+			4368,
+			4382,
+			4400,
+			4405,
+			4416,
+			4420,
+			4422,
+			4427,
+			4430,
+			4444,
+			4462,
+			4467,
+			4478,
+			4482,
+			4484,
+			4489,
+			4492,
+			4506,
+			4524,
+			4529,
+			4540,
+			4543,
+			4545,
+			4549,
+			4551,
+			4565,
+			4581,
+			4584,
+			4588,
+			4593,
+			4598,
+			4603,
+			4608,
+			4618,
+			4621,
+			4645,
+			4647,
+			4649,
+			4651,
+			4653,
+			4655,
+			4657,
+			4659,
+			4662,
+			4665,
+			4669
+		]
+	},
+	"borders": {
+		"html/wdgcss/all-properties.html": [
+			4615,
+			4635
+		]
+	},
+	"both": {
+		"html/wdgcss/all-properties.html": [
+			83,
+			303,
+			5054,
+			5110,
+			5119,
+			5782
+		]
+	},
+	"bottom": {
+		"html/wdgcss/all-properties.html": [
+			1437,
+			1521,
+			1705,
+			1708,
+			1709,
+			1710,
+			1713,
+			1714,
+			1717,
+			1835,
+			2091,
+			2093,
+			2248,
+			2280,
+			2282,
+			2724,
+			2733,
+			2744,
+			2760,
+			2913,
+			2917,
+			2934,
+			2938,
+			2966,
+			3113,
+			3161,
+			3181,
+			3223,
+			3354,
+			3358,
+			3374,
+			3384,
+			3505,
+			3569,
+			3617,
+			3800,
+			3805,
+			3825,
+			3838,
+			3877,
+			4035,
+			4081,
+			4149,
+			4255,
+			4419,
+			4423,
+			4428,
+			4445,
+			4461,
+			4650,
+			4666
+		]
+	},
+	"bottoms": {
+		"html/wdgcss/all-properties.html": [
+			2250
+		]
+	},
+	"box": {
+		"html/wdgcss/all-properties.html": [
+			16,
+			2718
+		]
+	},
+	"br": {
+		"html/wdgcss/all-properties.html": [
+			5132,
+			5351
+		]
+	},
+	"brackets": {
+		"html/wdgcss/all-properties.html": [
+			90
+		]
+	},
+	"break": {
+		"html/wdgcss/all-properties.html": [
+			2140,
+			5198,
+			5207
+		]
+	},
+	"browser": {
+		"html/wdgcss/all-properties.html": [
+			199,
+			801,
+			1025,
+			2435,
+			5239
+		]
+	},
+	"browsers": {
+		"html/wdgcss/all-properties.html": [
+			4938
+		]
+	},
+	"browsing": {
+		"html/wdgcss/all-properties.html": [
+			735
+		]
+	},
+	"bug": {
+		"html/wdgcss/all-properties.html": [
+			2696,
+			6129
+		]
+	},
+	"bugs": {
+		"html/wdgcss/all-properties.html": [
+			898
+		]
+	},
+	"but": {
+		"html/wdgcss/all-properties.html": [
+			328,
+			5029,
+			5138,
+			5767
+		]
+	},
+	"button": {
+		"html/wdgcss/all-properties.html": [
+			4802
+		]
+	},
+	"buttons": {
+		"html/wdgcss/all-properties.html": [
+			4800
+		]
+	},
+	"by": {
+		"html/wdgcss/all-properties.html": [
+			198,
+			211,
+			256,
+			888,
+			1024,
+			1577,
+			2346,
+			2434,
+			2623,
+			2630,
+			2799,
+			2880,
+			2943,
+			3013,
+			3073,
+			3684,
+			3768,
+			3852,
+			3936,
+			4004,
+			5237,
+			5732,
+			5737,
+			5741,
+			5893,
+			5898,
+			5902,
+			6050,
+			6174
+		]
+	},
+	"c": {
+		"html/wdgcss/all-properties.html": [
+			59,
+			66,
+			1064,
+			1829,
+			5438,
+			5991
+		]
+	},
+	"calculated": {
+		"html/wdgcss/all-properties.html": [
+			2622
+		]
+	},
+	"can": {
+		"html/wdgcss/all-properties.html": [
+			241,
+			741,
+			792,
+			2059,
+			2447,
+			2517,
+			2697,
+			3691,
+			3775,
+			3859,
+			3943,
+			4610,
+			4700,
+			4831,
+			4909,
+			5140,
+			5251
+		]
+	},
+	"candybar": {
+		"html/wdgcss/all-properties.html": [
+			1312,
+			1402
+		]
+	},
+	"cannot": {
+		"html/wdgcss/all-properties.html": [
+			1668
+		]
+	},
+	"canvas": {
+		"html/wdgcss/all-properties.html": [
+			1388,
+			1728,
+			1736,
+			5842
+		]
+	},
+	"capitalize": {
+		"html/wdgcss/all-properties.html": [
+			2325,
+			2351,
+			2387,
+			2412
+		]
+	},
+	"capitalizes": {
+		"html/wdgcss/all-properties.html": [
+			2352,
+			2359
+		]
+	},
+	"capitals": {
+		"html/wdgcss/all-properties.html": [
+			471
+		]
+	},
+	"caps": {
+		"html/wdgcss/all-properties.html": [
+			432,
+			457,
+			459,
+			492,
+			511
+		]
+	},
+	"care": {
+		"html/wdgcss/all-properties.html": [
+			902
+		]
+	},
+	"case": {
+		"html/wdgcss/all-properties.html": [
+			48,
+			262,
+			319,
+			861
+		]
+	},
+	"cases": {
+		"html/wdgcss/all-properties.html": [
+			1141,
+			4924
+		]
+	},
+	"causes": {
+		"html/wdgcss/all-properties.html": [
+			4951
+		]
+	},
+	"cc": {
+		"html/wdgcss/all-properties.html": [
+			5987
+		]
+	},
+	"center": {
+		"html/wdgcss/all-properties.html": [
+			1436,
+			1439,
+			1515,
+			1520,
+			1685,
+			1686,
+			1694,
+			1695,
+			1697,
+			1698,
+			1699,
+			1702,
+			1703,
+			1711,
+			1712,
+			2429,
+			2488
+		]
+	},
+	"centimeters": {
+		"html/wdgcss/all-properties.html": [
+			5873
+		]
+	},
+	"century": {
+		"html/wdgcss/all-properties.html": [
+			282,
+			297
+		]
+	},
+	"chancery": {
+		"html/wdgcss/all-properties.html": [
+			186
+		]
+	},
+	"character": {
+		"html/wdgcss/all-properties.html": [
+			2354
+		]
+	},
+	"characters": {
+		"html/wdgcss/all-properties.html": [
+			474,
+			1981,
+			2361,
+			2371
+		]
+	},
+	"chart": {
+		"html/wdgcss/all-properties.html": [
+			6042
+		]
+	},
+	"check": {
+		"html/wdgcss/all-properties.html": [
+			5522,
+			5696
+		]
+	},
+	"checkmark": {
+		"html/wdgcss/all-properties.html": [
+			5529,
+			5702
+		]
+	},
+	"children": {
+		"html/wdgcss/all-properties.html": [
+			5289
+		]
+	},
+	"choice": {
+		"html/wdgcss/all-properties.html": [
+			265,
+			2717
+		]
+	},
+	"chosen": {
+		"html/wdgcss/all-properties.html": [
+			597
+		]
+	},
+	"circle": {
+		"html/wdgcss/all-properties.html": [
+			5364,
+			5704
+		]
+	},
+	"classification": {
+		"html/wdgcss/all-properties.html": [
+			18,
+			5146
+		]
+	},
+	"clear": {
+		"html/wdgcss/all-properties.html": [
+			2768,
+			5045,
+			5047,
+			5065,
+			5133
+		]
+	},
+	"cm": {
+		"html/wdgcss/all-properties.html": [
+			1661,
+			5871,
+			5872,
+			5874
+		]
+	},
+	"collapse": {
+		"html/wdgcss/all-properties.html": [
+			5340
+		]
+	},
+	"collapsed": {
+		"html/wdgcss/all-properties.html": [
+			2841,
+			2912,
+			2974,
+			3044,
+			3193,
+			3206
+		]
+	},
+	"collapses": {
+		"html/wdgcss/all-properties.html": [
+			5332
+		]
+	},
+	"color": {
+		"html/wdgcss/all-properties.html": [
+			10,
+			1001,
+			1005,
+			1007,
+			1017,
+			1019,
+			1020,
+			1033,
+			1040,
+			1049,
+			1054,
+			1058,
+			1061,
+			1063,
+			1075,
+			1083,
+			1086,
+			1090,
+			1103,
+			1108,
+			1116,
+			1120,
+			1136,
+			1163,
+			1223,
+			1766,
+			1872,
+			2753,
+			4097,
+			4100,
+			4104,
+			4111,
+			4121,
+			4125,
+			4135,
+			4153,
+			4308,
+			4332,
+			4370,
+			4394,
+			4432,
+			4456,
+			4494,
+			4518,
+			4553,
+			4576,
+			4654,
+			5722,
+			5936,
+			5939,
+			6029,
+			6041
+		]
+	},
+	"colors": {
+		"html/wdgcss/all-properties.html": [
+			5976
+		]
+	},
+	"com": {
+		"html/wdgcss/all-properties.html": [
+			1211,
+			1811,
+			6151
+		]
+	},
+	"combinations": {
+		"html/wdgcss/all-properties.html": [
+			1648
+		]
+	},
+	"combined": {
+		"html/wdgcss/all-properties.html": [
+			1670
+		]
+	},
+	"commas": {
+		"html/wdgcss/all-properties.html": [
+			50,
+			6082
+		]
+	},
+	"common": {
+		"html/wdgcss/all-properties.html": [
+			31,
+			2560,
+			4789
+		]
+	},
+	"condensed": {
+		"html/wdgcss/all-properties.html": [
+			489
+		]
+	},
+	"conflicts": {
+		"html/wdgcss/all-properties.html": [
+			1068,
+			1124,
+			1865
+		]
+	},
+	"considered": {
+		"html/wdgcss/all-properties.html": [
+			893
+		]
+	},
+	"contain": {
+		"html/wdgcss/all-properties.html": [
+			6072
+		]
+	},
+	"containing": {
+		"html/wdgcss/all-properties.html": [
+			340
+		]
+	},
+	"content": {
+		"html/wdgcss/all-properties.html": [
+			1380,
+			3266,
+			3327,
+			3388,
+			3449,
+			3524
+		]
+	},
+	"control": {
+		"html/wdgcss/all-properties.html": [
+			2605
+		]
+	},
+	"copyright": {
+		"html/wdgcss/all-properties.html": [
+			6186
+		]
+	},
+	"corner": {
+		"html/wdgcss/all-properties.html": [
+			1615,
+			1632
+		]
+	},
+	"could": {
+		"html/wdgcss/all-properties.html": [
+			2667,
+			4784
+		]
+	},
+	"countries": {
+		"html/wdgcss/all-properties.html": [
+			2416
+		]
+	},
+	"courier": {
+		"html/wdgcss/all-properties.html": [
+			194
+		]
+	},
+	"css": {
+		"html/wdgcss/all-properties.html": [
+			1,
+			482,
+			5030,
+			5791,
+			6180,
+			6182,
+			6184
+		]
+	},
+	"currently": {
+		"html/wdgcss/all-properties.html": [
+			1157,
+			1243,
+			1339,
+			1417,
+			1751
+		]
+	},
+	"cursive": {
+		"html/wdgcss/all-properties.html": [
+			182
+		]
+	},
+	"custom": {
+		"html/wdgcss/all-properties.html": [
+			496
+		]
+	},
+	"d": {
+		"html/wdgcss/all-properties.html": [
+			5439
+		]
+	},
+	"dangerous": {
+		"html/wdgcss/all-properties.html": [
+			833,
+			5253
+		]
+	},
+	"darker": {
+		"html/wdgcss/all-properties.html": [
+			622,
+			631
+		]
+	},
+	"dashed": {
+		"html/wdgcss/all-properties.html": [
+			4199
+		]
+	},
+	"dealing": {
+		"html/wdgcss/all-properties.html": [
+			1560
+		]
+	},
+	"decimal": {
+		"html/wdgcss/all-properties.html": [
+			5366,
+			5447
+		]
+	},
+	"declaration": {
+		"html/wdgcss/all-properties.html": [
+			273
+		]
+	},
+	"declarations": {
+		"html/wdgcss/all-properties.html": [
+			409,
+			1802,
+			3147,
+			4585
+		]
+	},
+	"decorated": {
+		"html/wdgcss/all-properties.html": [
+			2041
+		]
+	},
+	"decoration": {
+		"html/wdgcss/all-properties.html": [
+			1886,
+			2011,
+			2014,
+			2035,
+			2074
+		]
+	},
+	"default": {
+		"html/wdgcss/all-properties.html": [
+			810,
+			843,
+			881,
+			2054,
+			5234,
+			5580
+		]
+	},
+	"define": {
+		"html/wdgcss/all-properties.html": [
+			874,
+			2528,
+			5187
+		]
+	},
+	"defined": {
+		"html/wdgcss/all-properties.html": [
+			942,
+			1219,
+			1227,
+			1778,
+			3057,
+			3983,
+			4312,
+			4374,
+			4436,
+			4498,
+			4557,
+			4974,
+			5652,
+			5919
+		]
+	},
+	"defines": {
+		"html/wdgcss/all-properties.html": [
+			386,
+			1920,
+			1974
+		]
+	},
+	"defining": {
+		"html/wdgcss/all-properties.html": [
+			222
+		]
+	},
+	"definitions": {
+		"html/wdgcss/all-properties.html": [
+			7,
+			25
+		]
+	},
+	"dependent": {
+		"html/wdgcss/all-properties.html": [
+			5849
+		]
+	},
+	"describes": {
+		"html/wdgcss/all-properties.html": [
+			3254,
+			3315,
+			3376,
+			3437
+		]
+	},
+	"descriptions": {
+		"html/wdgcss/all-properties.html": [
+			1051
+		]
+	},
+	"desire": {
+		"html/wdgcss/all-properties.html": [
+			2400
+		]
+	},
+	"determine": {
+		"html/wdgcss/all-properties.html": [
+			5316
+		]
+	},
+	"determined": {
+		"html/wdgcss/all-properties.html": [
+			197,
+			1023,
+			2433
+		]
+	},
+	"determines": {
+		"html/wdgcss/all-properties.html": [
+			446,
+			1279,
+			1370,
+			5583
+		]
+	},
+	"developed": {
+		"html/wdgcss/all-properties.html": [
+			6035
+		]
+	},
+	"different": {
+		"html/wdgcss/all-properties.html": [
+			734,
+			4628,
+			5811
+		]
+	},
+	"differing": {
+		"html/wdgcss/all-properties.html": [
+			1562
+		]
+	},
+	"dimensions": {
+		"html/wdgcss/all-properties.html": [
+			1488,
+			4724,
+			4853
+		]
+	},
+	"disc": {
+		"html/wdgcss/all-properties.html": [
+			5363,
+			5378
+		]
+	},
+	"discussed": {
+		"html/wdgcss/all-properties.html": [
+			34
+		]
+	},
+	"display": {
+		"html/wdgcss/all-properties.html": [
+			452,
+			574,
+			1563,
+			5148,
+			5161,
+			5163,
+			5182,
+			5227,
+			5235,
+			5249,
+			5259,
+			5278,
+			5383,
+			5482,
+			5559,
+			5657
+		]
+	},
+	"displayed": {
+		"html/wdgcss/all-properties.html": [
+			391,
+			461,
+			713
+		]
+	},
+	"div": {
+		"html/wdgcss/all-properties.html": [
+			3169
+		]
+	},
+	"divisions": {
+		"html/wdgcss/all-properties.html": [
+			2481
+		]
+	},
+	"document": {
+		"html/wdgcss/all-properties.html": [
+			2831
+		]
+	},
+	"does": {
+		"html/wdgcss/all-properties.html": [
+			322,
+			5338,
+			5344,
+			5774
+		]
+	},
+	"dotted": {
+		"html/wdgcss/all-properties.html": [
+			4198,
+			4600
+		]
+	},
+	"double": {
+		"html/wdgcss/all-properties.html": [
+			349,
+			2671,
+			4201,
+			4605,
+			6068,
+			6087
+		]
+	},
+	"douglas": {
+		"html/wdgcss/all-properties.html": [
+			6030
+		]
+	},
+	"down": {
+		"html/wdgcss/all-properties.html": [
+			1591,
+			1601,
+			4950
+		]
+	},
+	"download": {
+		"html/wdgcss/all-properties.html": [
+			4955
+		]
+	},
+	"dt": {
+		"html/wdgcss/all-properties.html": [
+			2964
+		]
+	},
+	"due": {
+		"html/wdgcss/all-properties.html": [
+			727,
+			1554
+		]
+	},
+	"e": {
+		"html/wdgcss/all-properties.html": [
+			172,
+			177,
+			183,
+			188,
+			192,
+			4755,
+			4884,
+			5440,
+			5758,
+			5985,
+			5989,
+			6004,
+			6019
+		]
+	},
+	"each": {
+		"html/wdgcss/all-properties.html": [
+			2356,
+			2363,
+			2373,
+			3081,
+			3536,
+			4012,
+			4694,
+			4825,
+			5228,
+			5921
+		]
+	},
+	"easiest": {
+		"html/wdgcss/all-properties.html": [
+			1502
+		]
+	},
+	"easily": {
+		"html/wdgcss/all-properties.html": [
+			743,
+			793,
+			2698
+		]
+	},
+	"editing": {
+		"html/wdgcss/all-properties.html": [
+			4935
+		]
+	},
+	"either": {
+		"html/wdgcss/all-properties.html": [
+			325,
+			346,
+			3273,
+			3334,
+			3395,
+			3456,
+			3539,
+			6065
+		]
+	},
+	"element": {
+		"html/wdgcss/all-properties.html": [
+			691,
+			822,
+			855,
+			869,
+			1043,
+			1111,
+			1194,
+			1480,
+			1545,
+			1603,
+			1635,
+			1740,
+			2119,
+			2124,
+			2128,
+			2133,
+			2162,
+			2171,
+			2203,
+			2208,
+			2216,
+			2242,
+			2252,
+			2265,
+			2273,
+			2276,
+			2284,
+			2287,
+			2463,
+			2539,
+			2556,
+			2626,
+			2639,
+			2798,
+			2812,
+			2879,
+			2893,
+			2942,
+			2956,
+			3012,
+			3026,
+			3072,
+			3096,
+			3285,
+			3346,
+			3407,
+			3468,
+			3511,
+			3527,
+			3551,
+			3668,
+			3752,
+			3836,
+			3920,
+			4003,
+			4128,
+			4224,
+			4335,
+			4397,
+			4459,
+			4521,
+			4579,
+			4632,
+			4699,
+			4716,
+			4750,
+			4760,
+			4774,
+			4830,
+			4845,
+			4879,
+			4889,
+			5011,
+			5028,
+			5070,
+			5083,
+			5087,
+			5114,
+			5189,
+			5203,
+			5212,
+			5229,
+			5281,
+			5321,
+			5825,
+			5932
+		]
+	},
+	"elements": {
+		"html/wdgcss/all-properties.html": [
+			203,
+			379,
+			439,
+			530,
+			698,
+			946,
+			1029,
+			1098,
+			1181,
+			1272,
+			1363,
+			1449,
+			1474,
+			1477,
+			1493,
+			1782,
+			1913,
+			1967,
+			2030,
+			2101,
+			2334,
+			2440,
+			2453,
+			2510,
+			2523,
+			2593,
+			2785,
+			2866,
+			2929,
+			2999,
+			3061,
+			3247,
+			3308,
+			3369,
+			3430,
+			3489,
+			3652,
+			3736,
+			3820,
+			3904,
+			3987,
+			4116,
+			4212,
+			4316,
+			4378,
+			4440,
+			4502,
+			4561,
+			4691,
+			4729,
+			4794,
+			4822,
+			4858,
+			4998,
+			5033,
+			5061,
+			5073,
+			5096,
+			5117,
+			5145,
+			5178,
+			5260,
+			5290,
+			5308,
+			5381,
+			5480,
+			5557,
+			5655
+		]
+	},
+	"eliminate": {
+		"html/wdgcss/all-properties.html": [
+			2825
+		]
+	},
+	"em": {
+		"html/wdgcss/all-properties.html": [
+			785,
+			914,
+			1942,
+			1945,
+			1950,
+			2004,
+			2009,
+			2147,
+			2574,
+			2688,
+			2967,
+			3151,
+			3154,
+			3157,
+			3158,
+			3163,
+			3168,
+			3171,
+			3172,
+			3173,
+			3174,
+			3177,
+			3180,
+			3183,
+			3186,
+			3610,
+			3615,
+			3620,
+			3626,
+			3629,
+			3630,
+			3631,
+			4590,
+			4804,
+			5760,
+			5768,
+			5819
+		]
+	},
+	"ems": {
+		"html/wdgcss/all-properties.html": [
+			5820
+		]
+	},
+	"environments": {
+		"html/wdgcss/all-properties.html": [
+			736
+		]
+	},
+	"escaped": {
+		"html/wdgcss/all-properties.html": [
+			6094,
+			6172
+		]
+	},
+	"etc": {
+		"html/wdgcss/all-properties.html": [
+			2456,
+			2526,
+			5441,
+			5448,
+			5462
+		]
+	},
+	"ex": {
+		"html/wdgcss/all-properties.html": [
+			787,
+			916,
+			2690,
+			5828
+		]
+	},
+	"example": {
+		"html/wdgcss/all-properties.html": [
+			499,
+			642,
+			754,
+			970,
+			1053,
+			1113,
+			1196,
+			1307,
+			1321,
+			1390,
+			1660,
+			1847,
+			2057,
+			2146,
+			2406,
+			2820,
+			2900,
+			2963,
+			3033,
+			3601,
+			4763,
+			4892,
+			5613
+		]
+	},
+	"examples": {
+		"html/wdgcss/all-properties.html": [
+			1799,
+			1940,
+			2000,
+			2302,
+			2379,
+			2483,
+			3144,
+			4582,
+			5417,
+			5520,
+			5683,
+			6023,
+			6139
+		]
+	},
+	"except": {
+		"html/wdgcss/all-properties.html": [
+			5218
+		]
+	},
+	"expanded": {
+		"html/wdgcss/all-properties.html": [
+			490
+		]
+	},
+	"explorer": {
+		"html/wdgcss/all-properties.html": [
+			781,
+			2679
+		]
+	},
+	"exponent": {
+		"html/wdgcss/all-properties.html": [
+			2312
+		]
+	},
+	"express": {
+		"html/wdgcss/all-properties.html": [
+			2397
+		]
+	},
+	"f": {
+		"html/wdgcss/all-properties.html": [
+			1823,
+			1824
+		]
+	},
+	"faces": {
+		"html/wdgcss/all-properties.html": [
+			295
+		]
+	},
+	"families": {
+		"html/wdgcss/all-properties.html": [
+			207
+		]
+	},
+	"family": {
+		"html/wdgcss/all-properties.html": [
+			135,
+			146,
+			149,
+			150,
+			153,
+			154,
+			157,
+			160,
+			164,
+			170,
+			220,
+			237,
+			239,
+			259,
+			272,
+			280,
+			312,
+			353,
+			938
+		]
+	},
+	"fantasy": {
+		"html/wdgcss/all-properties.html": [
+			187
+		]
+	},
+	"ff": {
+		"html/wdgcss/all-properties.html": [
+			1825
+		]
+	},
+	"fffd": {
+		"html/wdgcss/all-properties.html": [
+			1816
+		]
+	},
+	"file": {
+		"html/wdgcss/all-properties.html": [
+			4959
+		]
+	},
+	"first": {
+		"html/wdgcss/all-properties.html": [
+			264,
+			289,
+			1575,
+			1850,
+			2353,
+			2535
+		]
+	},
+	"five": {
+		"html/wdgcss/all-properties.html": [
+			2045
+		]
+	},
+	"fixed": {
+		"html/wdgcss/all-properties.html": [
+			1356,
+			1383,
+			1395,
+			1406,
+			1723,
+			1826
+		]
+	},
+	"float": {
+		"html/wdgcss/all-properties.html": [
+			2767,
+			4983,
+			4985,
+			5002,
+			5035
+		]
+	},
+	"floating": {
+		"html/wdgcss/all-properties.html": [
+			5072,
+			5086,
+			5095,
+			5116
+		]
+	},
+	"follow": {
+		"html/wdgcss/all-properties.html": [
+			1803,
+			2303,
+			2484
+		]
+	},
+	"followed": {
+		"html/wdgcss/all-properties.html": [
+			255,
+			1576,
+			5736,
+			5740,
+			5897,
+			5901
+		]
+	},
+	"following": {
+		"html/wdgcss/all-properties.html": [
+			600,
+			1392,
+			2194,
+			2822,
+			3603,
+			5814,
+			5863
+		]
+	},
+	"follows": {
+		"html/wdgcss/all-properties.html": [
+			1678
+		]
+	},
+	"font": {
+		"html/wdgcss/all-properties.html": [
+			8,
+			132,
+			134,
+			136,
+			138,
+			140,
+			142,
+			144,
+			145,
+			148,
+			163,
+			206,
+			214,
+			219,
+			225,
+			236,
+			248,
+			271,
+			279,
+			311,
+			332,
+			338,
+			352,
+			360,
+			362,
+			365,
+			383,
+			389,
+			407,
+			415,
+			419,
+			422,
+			425,
+			443,
+			449,
+			502,
+			508,
+			512,
+			515,
+			534,
+			545,
+			556,
+			564,
+			643,
+			649,
+			652,
+			655,
+			658,
+			702,
+			714,
+			760,
+			764,
+			768,
+			771,
+			811,
+			824,
+			831,
+			844,
+			857,
+			877,
+			885,
+			908,
+			921,
+			923,
+			927,
+			929,
+			931,
+			933,
+			937,
+			950,
+			961,
+			972,
+			989,
+			2246,
+			2256,
+			2628,
+			2641,
+			2656,
+			2661,
+			3685,
+			3769,
+			3853,
+			3937,
+			5827,
+			5934
+		]
+	},
+	"fonts": {
+		"html/wdgcss/all-properties.html": [
+			308,
+			570,
+			737
+		]
+	},
+	"foo": {
+		"html/wdgcss/all-properties.html": [
+			26,
+			30,
+			39,
+			89,
+			97,
+			98,
+			105,
+			106,
+			113,
+			114,
+			117,
+			120,
+			1202,
+			1812,
+			4917,
+			6052,
+			6054
+		]
+	},
+	"for": {
+		"html/wdgcss/all-properties.html": [
+			750,
+			813,
+			846,
+			907,
+			918,
+			958,
+			969,
+			1048,
+			1112,
+			1195,
+			1228,
+			1306,
+			1389,
+			1483,
+			1659,
+			1791,
+			1846,
+			2056,
+			2145,
+			2298,
+			2369,
+			2405,
+			2819,
+			3498,
+			3600,
+			4072,
+			4232,
+			4326,
+			4388,
+			4450,
+			4512,
+			4570,
+			4719,
+			4740,
+			4762,
+			4848,
+			4869,
+			4891,
+			4972,
+			5025,
+			5094,
+			5670,
+			5920
+		]
+	},
+	"format": {
+		"html/wdgcss/all-properties.html": [
+			1935,
+			1989,
+			5268
+		]
+	},
+	"formed": {
+		"html/wdgcss/all-properties.html": [
+			5731,
+			5892
+		]
+	},
+	"four": {
+		"html/wdgcss/all-properties.html": [
+			2349,
+			3078,
+			3104,
+			3531,
+			3560,
+			4009,
+			4026,
+			4134,
+			4140,
+			4241,
+			4246,
+			4614,
+			4634,
+			5193,
+			5982
+		]
+	},
+	"from": {
+		"html/wdgcss/all-properties.html": [
+			3140,
+			3596,
+			4063,
+			4177,
+			4283,
+			5953
+		]
+	},
+	"fuchsia": {
+		"html/wdgcss/all-properties.html": [
+			5961
+		]
+	},
+	"full": {
+		"html/wdgcss/all-properties.html": [
+			6135
+		]
+	},
+	"function": {
+		"html/wdgcss/all-properties.html": [
+			2471,
+			5128
+		]
+	},
+	"g": {
+		"html/wdgcss/all-properties.html": [
+			173,
+			178,
+			184,
+			189,
+			193,
+			5759,
+			5986,
+			5990,
+			6005,
+			6020
+		]
+	},
+	"generic": {
+		"html/wdgcss/all-properties.html": [
+			152,
+			156,
+			169,
+			218,
+			235,
+			258,
+			310
+		]
+	},
+	"gif": {
+		"html/wdgcss/all-properties.html": [
+			1203,
+			1313,
+			1403,
+			1813,
+			5530,
+			5703,
+			6144,
+			6153,
+			6158,
+			6163
+		]
+	},
+	"give": {
+		"html/wdgcss/all-properties.html": [
+			2458,
+			4627,
+			4788,
+			5794
+		]
+	},
+	"given": {
+		"html/wdgcss/all-properties.html": [
+			357,
+			896,
+			1642,
+			2653,
+			3107,
+			3122,
+			3134,
+			3534,
+			3563,
+			3578,
+			3590,
+			4029,
+			4045,
+			4057,
+			4143,
+			4159,
+			4171,
+			4249,
+			4265,
+			4277,
+			4348,
+			4410,
+			4472,
+			4534,
+			4625,
+			4702,
+			4833,
+			5232,
+			5978,
+			6049,
+			6127
+		]
+	},
+	"gives": {
+		"html/wdgcss/all-properties.html": [
+			1456
+		]
+	},
+	"good": {
+		"html/wdgcss/all-properties.html": [
+			2716
+		]
+	},
+	"gray": {
+		"html/wdgcss/all-properties.html": [
+			5962
+		]
+	},
+	"green": {
+		"html/wdgcss/all-properties.html": [
+			5963
+		]
+	},
+	"groove": {
+		"html/wdgcss/all-properties.html": [
+			4202,
+			4589
+		]
+	},
+	"group": {
+		"html/wdgcss/all-properties.html": [
+			94
+		]
+	},
+	"grouped": {
+		"html/wdgcss/all-properties.html": [
+			582
+		]
+	},
+	"h": {
+		"html/wdgcss/all-properties.html": [
+			414,
+			648,
+			759,
+			830,
+			1057,
+			1060,
+			1062,
+			1118,
+			2001,
+			2380,
+			2384,
+			2455,
+			2485,
+			2525,
+			4587
+		]
+	},
+	"half": {
+		"html/wdgcss/all-properties.html": [
+			2220
+		]
+	},
+	"handy": {
+		"html/wdgcss/all-properties.html": [
+			6037
+		]
+	},
+	"has": {
+		"html/wdgcss/all-properties.html": [
+			329,
+			2137,
+			6033
+		]
+	},
+	"have": {
+		"html/wdgcss/all-properties.html": [
+			324,
+			571
+		]
+	},
+	"heading": {
+		"html/wdgcss/all-properties.html": [
+			884
+		]
+	},
+	"headings": {
+		"html/wdgcss/all-properties.html": [
+			849,
+			2479
+		]
+	},
+	"height": {
+		"html/wdgcss/all-properties.html": [
+			936,
+			968,
+			998,
+			1896,
+			2165,
+			2223,
+			2225,
+			2576,
+			2579,
+			2598,
+			2620,
+			2649,
+			2665,
+			2676,
+			2766,
+			4805,
+			4807,
+			4835,
+			4871,
+			4882,
+			4886,
+			4894,
+			4908,
+			4920,
+			4966,
+			5822,
+			5830,
+			5832
+		]
+	},
+	"help": {
+		"html/wdgcss/all-properties.html": [
+			1066,
+			1122,
+			1863
+		]
+	},
+	"helvetica": {
+		"html/wdgcss/all-properties.html": [
+			181
+		]
+	},
+	"high": {
+		"html/wdgcss/all-properties.html": [
+			4945
+		]
+	},
+	"highly": {
+		"html/wdgcss/all-properties.html": [
+			5848
+		]
+	},
+	"horizontal": {
+		"html/wdgcss/all-properties.html": [
+			1512,
+			1571,
+			1639,
+			2908,
+			3040,
+			3202
+		]
+	},
+	"horizontally": {
+		"html/wdgcss/all-properties.html": [
+			1295,
+			1328
+		]
+	},
+	"how": {
+		"html/wdgcss/all-properties.html": [
+			1280,
+			3255,
+			3316,
+			3377,
+			3438,
+			5317
+		]
+	},
+	"however": {
+		"html/wdgcss/all-properties.html": [
+			301,
+			1664,
+			4960
+		]
+	},
+	"html": {
+		"html/wdgcss/all-properties.html": [
+			1491,
+			2152,
+			2473,
+			4727,
+			4856,
+			5018,
+			5043,
+			5130,
+			5246,
+			6111,
+			6125
+		]
+	},
+	"htmlhelp": {
+		"html/wdgcss/all-properties.html": [
+			1210,
+			1810,
+			6150
+		]
+	},
+	"http": {
+		"html/wdgcss/all-properties.html": [
+			1208,
+			1808,
+			6148
+		]
+	},
+	"i": {
+		"html/wdgcss/all-properties.html": [
+			4754,
+			4883,
+			5457
+		]
+	},
+	"identical": {
+		"html/wdgcss/all-properties.html": [
+			5014
+		]
+	},
+	"identifier": {
+		"html/wdgcss/all-properties.html": [
+			5781
+		]
+	},
+	"ie": {
+		"html/wdgcss/all-properties.html": [
+			841,
+			889
+		]
+	},
+	"if": {
+		"html/wdgcss/all-properties.html": [
+			245,
+			447,
+			586,
+			617,
+			633,
+			1371,
+			1636,
+			1718,
+			3103,
+			3118,
+			3128,
+			3559,
+			3574,
+			3584,
+			4025,
+			4041,
+			4051,
+			4139,
+			4155,
+			4165,
+			4245,
+			4261,
+			4271,
+			5068,
+			5404,
+			5411,
+			5595
+		]
+	},
+	"ii": {
+		"html/wdgcss/all-properties.html": [
+			5458
+		]
+	},
+	"iii": {
+		"html/wdgcss/all-properties.html": [
+			5459
+		]
+	},
+	"image": {
+		"html/wdgcss/all-properties.html": [
+			1009,
+			1130,
+			1143,
+			1166,
+			1169,
+			1186,
+			1191,
+			1199,
+			1206,
+			1217,
+			1249,
+			1284,
+			1294,
+			1304,
+			1323,
+			1375,
+			1397,
+			1464,
+			1536,
+			1593,
+			1618,
+			1721,
+			1730,
+			1768,
+			4768,
+			4897,
+			4915,
+			4931,
+			4934,
+			5155,
+			5407,
+			5412,
+			5465,
+			5469,
+			5491,
+			5495,
+			5505,
+			5525,
+			5536,
+			5681
+		]
+	},
+	"images": {
+		"html/wdgcss/all-properties.html": [
+			1201,
+			1232,
+			2300,
+			4943,
+			5039
+		]
+	},
+	"img": {
+		"html/wdgcss/all-properties.html": [
+			1495,
+			2150,
+			2304,
+			2309,
+			4731,
+			4860,
+			4916,
+			5027
+		]
+	},
+	"imposed": {
+		"html/wdgcss/all-properties.html": [
+			887
+		]
+	},
+	"improper": {
+		"html/wdgcss/all-properties.html": [
+			5267
+		]
+	},
+	"in": {
+		"html/wdgcss/all-properties.html": [
+			5,
+			23,
+			35,
+			67,
+			86,
+			261,
+			318,
+			392,
+			453,
+			470,
+			584,
+			687,
+			722,
+			731,
+			834,
+			859,
+			903,
+			1139,
+			1318,
+			1559,
+			1848,
+			1932,
+			1986,
+			2151,
+			2470,
+			2654,
+			4748,
+			4877,
+			4922,
+			4932,
+			4977,
+			5015,
+			5127,
+			5244,
+			5261,
+			5514,
+			5589,
+			5754,
+			5790,
+			5868,
+			5870,
+			5881,
+			5907,
+			5979,
+			6089,
+			6170
+		]
+	},
+	"inappropriate": {
+		"html/wdgcss/all-properties.html": [
+			2404
+		]
+	},
+	"inches": {
+		"html/wdgcss/all-properties.html": [
+			5869
+		]
+	},
+	"include": {
+		"html/wdgcss/all-properties.html": [
+			1056,
+			1494,
+			3148,
+			4586,
+			4730,
+			4859
+		]
+	},
+	"including": {
+		"html/wdgcss/all-properties.html": [
+			5287
+		]
+	},
+	"inclusive": {
+		"html/wdgcss/all-properties.html": [
+			6003,
+			6018
+		]
+	},
+	"incorrectly": {
+		"html/wdgcss/all-properties.html": [
+			783,
+			803,
+			2681,
+			6118
+		]
+	},
+	"indent": {
+		"html/wdgcss/all-properties.html": [
+			2498,
+			2515,
+			2564,
+			2568,
+			2573
+		]
+	},
+	"indentation": {
+		"html/wdgcss/all-properties.html": [
+			1894,
+			2495,
+			2532
+		]
+	},
+	"indented": {
+		"html/wdgcss/all-properties.html": [
+			5611
+		]
+	},
+	"index": {
+		"html/wdgcss/all-properties.html": [
+			6181
+		]
+	},
+	"indicates": {
+		"html/wdgcss/all-properties.html": [
+			5747
+		]
+	},
+	"inherent": {
+		"html/wdgcss/all-properties.html": [
+			1557
+		]
+	},
+	"inherited": {
+		"html/wdgcss/all-properties.html": [
+			204,
+			380,
+			440,
+			531,
+			555,
+			699,
+			947,
+			1030,
+			1099,
+			1182,
+			1273,
+			1364,
+			1450,
+			1783,
+			1914,
+			1968,
+			2031,
+			2102,
+			2335,
+			2441,
+			2511,
+			2594,
+			2786,
+			2867,
+			2930,
+			3000,
+			3062,
+			3248,
+			3309,
+			3370,
+			3431,
+			3490,
+			3653,
+			3737,
+			3821,
+			3905,
+			3988,
+			4117,
+			4213,
+			4317,
+			4379,
+			4441,
+			4503,
+			4562,
+			4692,
+			4823,
+			4999,
+			5062,
+			5179,
+			5309,
+			5387,
+			5486,
+			5563,
+			5661
+		]
+	},
+	"initial": {
+		"html/wdgcss/all-properties.html": [
+			195,
+			373,
+			433,
+			524,
+			692,
+			939,
+			1021,
+			1092,
+			1175,
+			1266,
+			1357,
+			1441,
+			1458,
+			1775,
+			1844,
+			1907,
+			1961,
+			2024,
+			2095,
+			2328,
+			2377,
+			2431,
+			2504,
+			2587,
+			2780,
+			2861,
+			2924,
+			2994,
+			3054,
+			3242,
+			3303,
+			3364,
+			3425,
+			3484,
+			3646,
+			3730,
+			3814,
+			3898,
+			3980,
+			4105,
+			4206,
+			4309,
+			4371,
+			4433,
+			4495,
+			4554,
+			4682,
+			4738,
+			4813,
+			4867,
+			4992,
+			5055,
+			5107,
+			5172,
+			5301,
+			5376,
+			5475,
+			5552,
+			5649
+		]
+	},
+	"inline": {
+		"html/wdgcss/all-properties.html": [
+			2100,
+			2118,
+			2132,
+			5168,
+			5204
+		]
+	},
+	"input": {
+		"html/wdgcss/all-properties.html": [
+			1496,
+			4732,
+			4793,
+			4801,
+			4861
+		]
+	},
+	"inset": {
+		"html/wdgcss/all-properties.html": [
+			4204
+		]
+	},
+	"inside": {
+		"html/wdgcss/all-properties.html": [
+			5550,
+			5573,
+			5598,
+			5625,
+			5689,
+			5716
+		]
+	},
+	"instead": {
+		"html/wdgcss/all-properties.html": [
+			1737,
+			5608
+		]
+	},
+	"integer": {
+		"html/wdgcss/all-properties.html": [
+			6000
+		]
+	},
+	"internet": {
+		"html/wdgcss/all-properties.html": [
+			780,
+			2678
+		]
+	},
+	"interpreted": {
+		"html/wdgcss/all-properties.html": [
+			1676,
+			6101
+		]
+	},
+	"interprets": {
+		"html/wdgcss/all-properties.html": [
+			6119
+		]
+	},
+	"into": {
+		"html/wdgcss/all-properties.html": [
+			5335
+		]
+	},
+	"intrinsic": {
+		"html/wdgcss/all-properties.html": [
+			1487,
+			4723,
+			4752,
+			4852,
+			4881
+		]
+	},
+	"is": {
+		"html/wdgcss/all-properties.html": [
+			99,
+			107,
+			115,
+			250,
+			266,
+			313,
+			450,
+			537,
+			590,
+			705,
+			1137,
+			1145,
+			1156,
+			1218,
+			1242,
+			1285,
+			1338,
+			1416,
+			1481,
+			1509,
+			1573,
+			1641,
+			1662,
+			1722,
+			1731,
+			1750,
+			1788,
+			2134,
+			2295,
+			2468,
+			2615,
+			2621,
+			3083,
+			3121,
+			3272,
+			3333,
+			3394,
+			3455,
+			3495,
+			3514,
+			3538,
+			3577,
+			3660,
+			3744,
+			3828,
+			3912,
+			3994,
+			4014,
+			4044,
+			4069,
+			4158,
+			4264,
+			4323,
+			4385,
+			4447,
+			4509,
+			4567,
+			4717,
+			4744,
+			4846,
+			4873,
+			4968,
+			5013,
+			5105,
+			5125,
+			5184,
+			5223,
+			5231,
+			5285,
+			5402,
+			5408,
+			5414,
+			5507,
+			5587,
+			5599,
+			5615,
+			5667,
+			5730,
+			5761,
+			5769,
+			5891,
+			5928,
+			5941,
+			5998,
+			6013,
+			6048,
+			6055
+		]
+	},
+	"it": {
+		"html/wdgcss/all-properties.html": [
+			252,
+			871,
+			2144,
+			2401,
+			2708,
+			3123,
+			3579,
+			4046,
+			4160,
+			4266,
+			5139,
+			5284
+		]
+	},
+	"italic": {
+		"html/wdgcss/all-properties.html": [
+			371,
+			398,
+			973,
+			985
+		]
+	},
+	"item": {
+		"html/wdgcss/all-properties.html": [
+			5170,
+			5214,
+			5221,
+			5386,
+			5399,
+			5485,
+			5502,
+			5562,
+			5594,
+			5619,
+			5624,
+			5628,
+			5633,
+			5660
+		]
+	},
+	"items": {
+		"html/wdgcss/all-properties.html": [
+			95
+		]
+	},
+	"its": {
+		"html/wdgcss/all-properties.html": [
+			809,
+			1843,
+			2122,
+			5075,
+			5089,
+			5121,
+			5256
+		]
+	},
+	"itself": {
+		"html/wdgcss/all-properties.html": [
+			4761,
+			4890
+		]
+	},
+	"iv": {
+		"html/wdgcss/all-properties.html": [
+			5460
+		]
+	},
+	"jacobson": {
+		"html/wdgcss/all-properties.html": [
+			6032
+		]
+	},
+	"john": {
+		"html/wdgcss/all-properties.html": [
+			6175,
+			6187
+		]
+	},
+	"jpg": {
+		"html/wdgcss/all-properties.html": [
+			1832
+		]
+	},
+	"just": {
+		"html/wdgcss/all-properties.html": [
+			5037
+		]
+	},
+	"justification": {
+		"html/wdgcss/all-properties.html": [
+			1999
+		]
+	},
+	"justify": {
+		"html/wdgcss/all-properties.html": [
+			2430,
+			2493
+		]
+	},
+	"kb": {
+		"html/wdgcss/all-properties.html": [
+			6043
+		]
+	},
+	"keyword": {
+		"html/wdgcss/all-properties.html": [
+			41,
+			2192,
+			4016,
+			5943
+		]
+	},
+	"keywords": {
+		"html/wdgcss/all-properties.html": [
+			1511,
+			1513,
+			1518,
+			1672,
+			1674,
+			2195,
+			2258,
+			3679,
+			3763,
+			3847,
+			3931,
+			4242,
+			5950
+		]
+	},
+	"known": {
+		"html/wdgcss/all-properties.html": [
+			1490,
+			4726,
+			4855
+		]
+	},
+	"large": {
+		"html/wdgcss/all-properties.html": [
+			676,
+			678,
+			680,
+			749,
+			762,
+			895,
+			4958
+		]
+	},
+	"larger": {
+		"html/wdgcss/all-properties.html": [
+			476,
+			683,
+			773
+		]
+	},
+	"later": {
+		"html/wdgcss/all-properties.html": [
+			479
+		]
+	},
+	"least": {
+		"html/wdgcss/all-properties.html": [
+			124
+		]
+	},
+	"leaves": {
+		"html/wdgcss/all-properties.html": [
+			1831
+		]
+	},
+	"left": {
+		"html/wdgcss/all-properties.html": [
+			1438,
+			1514,
+			1614,
+			1631,
+			1680,
+			1681,
+			1692,
+			1693,
+			1696,
+			1706,
+			1707,
+			2427,
+			2726,
+			2735,
+			2747,
+			2762,
+			2983,
+			2987,
+			3004,
+			3008,
+			3036,
+			3115,
+			3164,
+			3184,
+			3225,
+			3415,
+			3419,
+			3435,
+			3445,
+			3508,
+			3571,
+			3623,
+			3884,
+			3889,
+			3909,
+			3922,
+			3961,
+			4037,
+			4085,
+			4151,
+			4257,
+			4481,
+			4485,
+			4490,
+			4507,
+			4523,
+			4652,
+			4670,
+			4989,
+			5021,
+			5052,
+			5080,
+			5090,
+			5134
+		]
+	},
+	"length": {
+		"html/wdgcss/all-properties.html": [
+			664,
+			685,
+			1434,
+			1906,
+			1934,
+			1960,
+			1988,
+			2502,
+			2547,
+			2585,
+			2777,
+			2802,
+			2858,
+			2883,
+			2921,
+			2946,
+			2991,
+			3016,
+			3051,
+			3085,
+			3240,
+			3275,
+			3301,
+			3336,
+			3362,
+			3397,
+			3423,
+			3458,
+			3482,
+			3541,
+			3645,
+			3689,
+			3729,
+			3773,
+			3813,
+			3857,
+			3897,
+			3941,
+			3979,
+			4019,
+			4679,
+			4708,
+			4811,
+			4839,
+			5718,
+			5725,
+			5728,
+			5756,
+			5765,
+			5772,
+			5786,
+			5796,
+			5800,
+			5845
+		]
+	},
+	"lengths": {
+		"html/wdgcss/all-properties.html": [
+			716,
+			740,
+			1524,
+			1547,
+			1569,
+			1650,
+			1667,
+			4021,
+			4899
+		]
+	},
+	"less": {
+		"html/wdgcss/all-properties.html": [
+			5857
+		]
+	},
+	"letter": {
+		"html/wdgcss/all-properties.html": [
+			1883,
+			1951,
+			1954,
+			1971,
+			2002,
+			2007,
+			2228,
+			5744,
+			5779,
+			5835
+		]
+	},
+	"letters": {
+		"html/wdgcss/all-properties.html": [
+			465,
+			2368
+		]
+	},
+	"level": {
+		"html/wdgcss/all-properties.html": [
+			847,
+			882,
+			1446,
+			1473,
+			2439,
+			2452,
+			2509,
+			2522,
+			4688,
+			4696,
+			4819,
+			4827,
+			5307
+		]
+	},
+	"li": {
+		"html/wdgcss/all-properties.html": [
+			767,
+			5418,
+			5527,
+			5532,
+			5684,
+			5700
+		]
+	},
+	"liam": {
+		"html/wdgcss/all-properties.html": [
+			6178,
+			6190
+		]
+	},
+	"lighter": {
+		"html/wdgcss/all-properties.html": [
+			523,
+			549,
+			615,
+			638
+		]
+	},
+	"like": {
+		"html/wdgcss/all-properties.html": [
+			276,
+			412,
+			719,
+			829
+		]
+	},
+	"likely": {
+		"html/wdgcss/all-properties.html": [
+			230,
+			865,
+			873,
+			4941
+		]
+	},
+	"lime": {
+		"html/wdgcss/all-properties.html": [
+			5964
+		]
+	},
+	"line": {
+		"html/wdgcss/all-properties.html": [
+			935,
+			967,
+			997,
+			1895,
+			2021,
+			2049,
+			2130,
+			2139,
+			2164,
+			2267,
+			2279,
+			2290,
+			2536,
+			2575,
+			2578,
+			2597,
+			2619,
+			2648,
+			2664,
+			2675,
+			5197,
+			5206,
+			5347,
+			5621,
+			5630
+		]
+	},
+	"lines": {
+		"html/wdgcss/all-properties.html": [
+			5602
+		]
+	},
+	"link": {
+		"html/wdgcss/all-properties.html": [
+			2068,
+			4592
+		]
+	},
+	"links": {
+		"html/wdgcss/all-properties.html": [
+			2062
+		]
+	},
+	"list": {
+		"html/wdgcss/all-properties.html": [
+			2414,
+			5150,
+			5153,
+			5156,
+			5159,
+			5169,
+			5213,
+			5220,
+			5353,
+			5357,
+			5385,
+			5390,
+			5398,
+			5405,
+			5420,
+			5426,
+			5431,
+			5444,
+			5452,
+			5463,
+			5467,
+			5484,
+			5489,
+			5501,
+			5516,
+			5523,
+			5534,
+			5540,
+			5544,
+			5561,
+			5566,
+			5593,
+			5618,
+			5623,
+			5627,
+			5632,
+			5634,
+			5637,
+			5642,
+			5645,
+			5659,
+			5664,
+			5672,
+			5675,
+			5679,
+			5686,
+			5692,
+			5697,
+			5706,
+			5712
+		]
+	},
+	"listed": {
+		"html/wdgcss/all-properties.html": [
+			314
+		]
+	},
+	"literally": {
+		"html/wdgcss/all-properties.html": [
+			45,
+			56
+		]
+	},
+	"loading": {
+		"html/wdgcss/all-properties.html": [
+			1231,
+			5413,
+			5506
+		]
+	},
+	"look": {
+		"html/wdgcss/all-properties.html": [
+			275,
+			411
+		]
+	},
+	"lower": {
+		"html/wdgcss/all-properties.html": [
+			5367,
+			5371,
+			5455,
+			5714
+		]
+	},
+	"lowercase": {
+		"html/wdgcss/all-properties.html": [
+			478,
+			2327,
+			2365
+		]
+	},
+	"lowest": {
+		"html/wdgcss/all-properties.html": [
+			2286
+		]
+	},
+	"made": {
+		"html/wdgcss/all-properties.html": [
+			243,
+			251
+		]
+	},
+	"maintained": {
+		"html/wdgcss/all-properties.html": [
+			6173
+		]
+	},
+	"make": {
+		"html/wdgcss/all-properties.html": [
+			794,
+			2699
+		]
+	},
+	"makes": {
+		"html/wdgcss/all-properties.html": [
+			827
+		]
+	},
+	"margin": {
+		"html/wdgcss/all-properties.html": [
+			2721,
+			2723,
+			2725,
+			2727,
+			2728,
+			2770,
+			2772,
+			2789,
+			2795,
+			2828,
+			2833,
+			2848,
+			2851,
+			2853,
+			2870,
+			2876,
+			2903,
+			2914,
+			2916,
+			2933,
+			2939,
+			2965,
+			2981,
+			2984,
+			2986,
+			3003,
+			3009,
+			3035,
+			3045,
+			3047,
+			3065,
+			3116,
+			3146,
+			3150,
+			3156,
+			3170,
+			3176,
+			3179,
+			3182,
+			3185,
+			3200,
+			3209,
+			3220,
+			3222,
+			3224,
+			3227
+		]
+	},
+	"margins": {
+		"html/wdgcss/all-properties.html": [
+			2816,
+			2839,
+			2897,
+			2909,
+			2960,
+			2972,
+			3030,
+			3041,
+			3069,
+			3100,
+			3153,
+			3162,
+			3167,
+			3191,
+			3203,
+			3216
+		]
+	},
+	"marker": {
+		"html/wdgcss/all-properties.html": [
+			5222,
+			5400,
+			5503,
+			5512,
+			5586,
+			5607
+		]
+	},
+	"markers": {
+		"html/wdgcss/all-properties.html": [
+			5528,
+			5701
+		]
+	},
+	"maroon": {
+		"html/wdgcss/all-properties.html": [
+			5965
+		]
+	},
+	"match": {
+		"html/wdgcss/all-properties.html": [
+			232
+		]
+	},
+	"maximum": {
+		"html/wdgcss/all-properties.html": [
+			2845,
+			2978,
+			3197
+		]
+	},
+	"may": {
+		"html/wdgcss/all-properties.html": [
+			166,
+			208,
+			354,
+			483,
+			580,
+			602,
+			609,
+			625,
+			952,
+			1148,
+			1234,
+			1330,
+			1408,
+			1467,
+			1525,
+			1742,
+			2108,
+			2155,
+			2188,
+			2650,
+			3229,
+			3674,
+			3704,
+			3758,
+			3788,
+			3842,
+			3872,
+			3926,
+			3956,
+			4089,
+			4182,
+			4288,
+			4346,
+			4350,
+			4408,
+			4412,
+			4470,
+			4474,
+			4532,
+			4536,
+			4623,
+			6060,
+			6071,
+			6131
+		]
+	},
+	"media": {
+		"html/wdgcss/all-properties.html": [
+			5812
+		]
+	},
+	"medium": {
+		"html/wdgcss/all-properties.html": [
+			675,
+			694,
+			876,
+			3643,
+			3648,
+			3727,
+			3732,
+			3811,
+			3816,
+			3895,
+			3900,
+			3977,
+			5853
+		]
+	},
+	"meets": {
+		"html/wdgcss/all-properties.html": [
+			334
+		]
+	},
+	"microsoft": {
+		"html/wdgcss/all-properties.html": [
+			779,
+			2677
+		]
+	},
+	"middle": {
+		"html/wdgcss/all-properties.html": [
+			2090,
+			2211,
+			2305,
+			2308
+		]
+	},
+	"midpoint": {
+		"html/wdgcss/all-properties.html": [
+			2214
+		]
+	},
+	"might": {
+		"html/wdgcss/all-properties.html": [
+			274,
+			410
+		]
+	},
+	"millimeters": {
+		"html/wdgcss/all-properties.html": [
+			5877
+		]
+	},
+	"missing": {
+		"html/wdgcss/all-properties.html": [
+			3136,
+			3592,
+			4059,
+			4173,
+			4279
+		]
+	},
+	"mm": {
+		"html/wdgcss/all-properties.html": [
+			5875,
+			5876
+		]
+	},
+	"modify": {
+		"html/wdgcss/all-properties.html": [
+			708
+		]
+	},
+	"monospace": {
+		"html/wdgcss/all-properties.html": [
+			191
+		]
+	},
+	"more": {
+		"html/wdgcss/all-properties.html": [
+			103,
+			111,
+			1793,
+			4642
+		]
+	},
+	"most": {
+		"html/wdgcss/all-properties.html": [
+			129,
+			864,
+			1140,
+			4923,
+			5923
+		]
+	},
+	"moves": {
+		"html/wdgcss/all-properties.html": [
+			5081,
+			5112
+		]
+	},
+	"much": {
+		"html/wdgcss/all-properties.html": [
+			3256,
+			3317,
+			3378,
+			3439
+		]
+	},
+	"multiple": {
+		"html/wdgcss/all-properties.html": [
+			238,
+			5333,
+			5341
+		]
+	},
+	"multiplying": {
+		"html/wdgcss/all-properties.html": [
+			2624
+		]
+	},
+	"must": {
+		"html/wdgcss/all-properties.html": [
+			43,
+			53,
+			61,
+			75,
+			84,
+			121,
+			342,
+			1930,
+			1984,
+			2544,
+			4229,
+			4638,
+			6092
+		]
+	},
+	"name": {
+		"html/wdgcss/all-properties.html": [
+			151,
+			155,
+			161,
+			165,
+			215,
+			260,
+			339
+		]
+	},
+	"names": {
+		"html/wdgcss/all-properties.html": [
+			2418
+		]
+	},
+	"narrow": {
+		"html/wdgcss/all-properties.html": [
+			2902
+		]
+	},
+	"navigator": {
+		"html/wdgcss/all-properties.html": [
+			6116
+		]
+	},
+	"navy": {
+		"html/wdgcss/all-properties.html": [
+			5966
+		]
+	},
+	"negative": {
+		"html/wdgcss/all-properties.html": [
+			1657,
+			1936,
+			1990,
+			2182,
+			2643,
+			2815,
+			2896,
+			2959,
+			3029,
+			3099,
+			3288,
+			3349,
+			3410,
+			3471,
+			3554,
+			3698,
+			3782,
+			3866,
+			3950,
+			4020,
+			4777,
+			4898
+		]
+	},
+	"netscape": {
+		"html/wdgcss/all-properties.html": [
+			6115
+		]
+	},
+	"new": {
+		"html/wdgcss/all-properties.html": [
+			281,
+			296
+		]
+	},
+	"newspaper": {
+		"html/wdgcss/all-properties.html": [
+			2490
+		]
+	},
+	"next": {
+		"html/wdgcss/all-properties.html": [
+			614,
+			621,
+			630,
+			637
+		]
+	},
+	"nine": {
+		"html/wdgcss/all-properties.html": [
+			572
+		]
+	},
+	"no": {
+		"html/wdgcss/all-properties.html": [
+			1100,
+			1183,
+			1264,
+			1274,
+			1365,
+			1451,
+			1784,
+			1833,
+			2032,
+			2103,
+			2138,
+			2787,
+			2868,
+			2931,
+			3001,
+			3063,
+			3249,
+			3310,
+			3371,
+			3432,
+			3491,
+			3654,
+			3738,
+			3822,
+			3906,
+			3989,
+			4118,
+			4214,
+			4318,
+			4380,
+			4442,
+			4504,
+			4563,
+			4693,
+			4824,
+			5000,
+			5063,
+			5180,
+			5205,
+			5226,
+			5752,
+			5905
+		]
+	},
+	"none": {
+		"html/wdgcss/all-properties.html": [
+			1144,
+			1174,
+			1177,
+			2018,
+			2026,
+			2055,
+			2075,
+			2324,
+			2330,
+			2375,
+			4197,
+			4208,
+			4991,
+			4994,
+			5051,
+			5057,
+			5103,
+			5137,
+			5171,
+			5225,
+			5274,
+			5375,
+			5409,
+			5429,
+			5474,
+			5477,
+			5694
+		]
+	},
+	"normal": {
+		"html/wdgcss/all-properties.html": [
+			370,
+			375,
+			397,
+			421,
+			430,
+			435,
+			454,
+			520,
+			526,
+			654,
+			1905,
+			1909,
+			1959,
+			1963,
+			2583,
+			2589,
+			5298,
+			5303,
+			5331
+		]
+	},
+	"not": {
+		"html/wdgcss/all-properties.html": [
+			227,
+			267,
+			323,
+			568,
+			591,
+			941,
+			1230,
+			1552,
+			1777,
+			1839,
+			2063,
+			2646,
+			2911,
+			3043,
+			3056,
+			3205,
+			3291,
+			3352,
+			3413,
+			3474,
+			3557,
+			3682,
+			3701,
+			3766,
+			3785,
+			3850,
+			3869,
+			3934,
+			3953,
+			3982,
+			4023,
+			4311,
+			4373,
+			4435,
+			4497,
+			4556,
+			4780,
+			4901,
+			4940,
+			5036,
+			5339,
+			5345,
+			5651,
+			5762,
+			5775,
+			6108
+		]
+	},
+	"note": {
+		"html/wdgcss/all-properties.html": [
+			566,
+			1947,
+			2006,
+			2835,
+			2905,
+			2968,
+			3037,
+			3187,
+			4339,
+			4401,
+			4463,
+			4525,
+			6113
+		]
+	},
+	"notice": {
+		"html/wdgcss/all-properties.html": [
+			286
+		]
+	},
+	"nowrap": {
+		"html/wdgcss/all-properties.html": [
+			5300,
+			5343
+		]
+	},
+	"number": {
+		"html/wdgcss/all-properties.html": [
+			2584,
+			2617,
+			2632,
+			2683,
+			5739,
+			5900,
+			6015
+		]
+	},
+	"numerals": {
+		"html/wdgcss/all-properties.html": [
+			493
+		]
+	},
+	"numerical": {
+		"html/wdgcss/all-properties.html": [
+			5946
+		]
+	},
+	"object": {
+		"html/wdgcss/all-properties.html": [
+			1500,
+			4736,
+			4865
+		]
+	},
+	"oblique": {
+		"html/wdgcss/all-properties.html": [
+			372,
+			400,
+			417
+		]
+	},
+	"obviously": {
+		"html/wdgcss/all-properties.html": [
+			221
+		]
+	},
+	"occur": {
+		"html/wdgcss/all-properties.html": [
+			62,
+			76,
+			85,
+			122
+		]
+	},
+	"of": {
+		"html/wdgcss/all-properties.html": [
+			28,
+			304,
+			326,
+			394,
+			466,
+			481,
+			500,
+			543,
+			577,
+			711,
+			993,
+			999,
+			1041,
+			1109,
+			1192,
+			1460,
+			1533,
+			1543,
+			1616,
+			1625,
+			1633,
+			1649,
+			1738,
+			1800,
+			1924,
+			1978,
+			1996,
+			2044,
+			2116,
+			2207,
+			2215,
+			2226,
+			2230,
+			2241,
+			2251,
+			2272,
+			2283,
+			2348,
+			2355,
+			2362,
+			2372,
+			2415,
+			2461,
+			2531,
+			2537,
+			2562,
+			2610,
+			2796,
+			2829,
+			2846,
+			2877,
+			2940,
+			2979,
+			3010,
+			3070,
+			3145,
+			3198,
+			3267,
+			3328,
+			3389,
+			3450,
+			3517,
+			3525,
+			3666,
+			3677,
+			3750,
+			3761,
+			3834,
+			3845,
+			3918,
+			3929,
+			4001,
+			4109,
+			4126,
+			4222,
+			4333,
+			4395,
+			4457,
+			4519,
+			4577,
+			4583,
+			4643,
+			4758,
+			4766,
+			4887,
+			4895,
+			5079,
+			5120,
+			5192,
+			5255,
+			5271,
+			5279,
+			5328,
+			5397,
+			5609,
+			5622,
+			5631,
+			5773,
+			5823,
+			5833,
+			5981
+		]
+	},
+	"off": {
+		"html/wdgcss/all-properties.html": [
+			5277,
+			5416
+		]
+	},
+	"often": {
+		"html/wdgcss/all-properties.html": [
+			2714,
+			5924
+		]
+	},
+	"ol": {
+		"html/wdgcss/all-properties.html": [
+			5430,
+			5442,
+			5443,
+			5449,
+			5450,
+			5451,
+			5705,
+			5710,
+			5711
+		]
+	},
+	"olive": {
+		"html/wdgcss/all-properties.html": [
+			5967
+		]
+	},
+	"on": {
+		"html/wdgcss/all-properties.html": [
+			598,
+			2277,
+			2288,
+			2477,
+			5088,
+			5097,
+			5118,
+			5241,
+			5509,
+			5850
+		]
+	},
+	"one": {
+		"html/wdgcss/all-properties.html": [
+			109,
+			393,
+			848,
+			883,
+			1482,
+			2043,
+			2058,
+			2135,
+			2347,
+			3076,
+			3119,
+			3212,
+			3529,
+			3575,
+			3676,
+			3703,
+			3760,
+			3787,
+			3844,
+			3871,
+			3928,
+			3955,
+			4007,
+			4042,
+			4088,
+			4132,
+			4156,
+			4181,
+			4239,
+			4262,
+			4287,
+			4342,
+			4349,
+			4404,
+			4411,
+			4466,
+			4473,
+			4528,
+			4535,
+			4617,
+			4640,
+			4718,
+			4847,
+			5191,
+			5327,
+			5336,
+			5980
+		]
+	},
+	"only": {
+		"html/wdgcss/all-properties.html": [
+			1325,
+			1468,
+			1485,
+			1637,
+			2393,
+			4341,
+			4403,
+			4465,
+			4527,
+			4611,
+			4616,
+			4721,
+			4850
+		]
+	},
+	"opposite": {
+		"html/wdgcss/all-properties.html": [
+			3142,
+			3598,
+			4065,
+			4179,
+			4285
+		]
+	},
+	"option": {
+		"html/wdgcss/all-properties.html": [
+			4971
+		]
+	},
+	"optional": {
+		"html/wdgcss/all-properties.html": [
+			116,
+			5734,
+			5895
+		]
+	},
+	"optionally": {
+		"html/wdgcss/all-properties.html": [
+			6062,
+			6078
+		]
+	},
+	"or": {
+		"html/wdgcss/all-properties.html": [
+			73,
+			80,
+			82,
+			102,
+			110,
+			180,
+			216,
+			348,
+			399,
+			455,
+			494,
+			619,
+			635,
+			747,
+			987,
+			1381,
+			1568,
+			2052,
+			2125,
+			2417,
+			2548,
+			2689,
+			2803,
+			2884,
+			2947,
+			3017,
+			3088,
+			3130,
+			3276,
+			3337,
+			3398,
+			3459,
+			3542,
+			3586,
+			3687,
+			3712,
+			3771,
+			3796,
+			3855,
+			3880,
+			3939,
+			3964,
+			4017,
+			4053,
+			4167,
+			4273,
+			4641,
+			4668,
+			4697,
+			4711,
+			4828,
+			4840,
+			5410,
+			5574,
+			5735,
+			5896,
+			5944,
+			6067,
+			6075,
+			6086
+		]
+	},
+	"order": {
+		"html/wdgcss/all-properties.html": [
+			69,
+			88,
+			4978
+		]
+	},
+	"other": {
+		"html/wdgcss/all-properties.html": [
+			495,
+			560,
+			5100,
+			5916
+		]
+	},
+	"otherwise": {
+		"html/wdgcss/all-properties.html": [
+			624,
+			640,
+			5264
+		]
+	},
+	"output": {
+		"html/wdgcss/all-properties.html": [
+			5852
+		]
+	},
+	"outset": {
+		"html/wdgcss/all-properties.html": [
+			4205
+		]
+	},
+	"outside": {
+		"html/wdgcss/all-properties.html": [
+			5551,
+			5554,
+			5575,
+			5577,
+			5616
+		]
+	},
+	"overcome": {
+		"html/wdgcss/all-properties.html": [
+			4980
+		]
+	},
+	"overline": {
+		"html/wdgcss/all-properties.html": [
+			2020,
+			2048
+		]
+	},
+	"p": {
+		"html/wdgcss/all-properties.html": [
+			278,
+			418,
+			651,
+			763,
+			971,
+			1204,
+			1817,
+			1941,
+			1946,
+			2005,
+			2454,
+			2489,
+			2524,
+			2571,
+			2674,
+			2901,
+			3155
+		]
+	},
+	"padding": {
+		"html/wdgcss/all-properties.html": [
+			2730,
+			2732,
+			2734,
+			2736,
+			2737,
+			3233,
+			3235,
+			3251,
+			3294,
+			3296,
+			3312,
+			3355,
+			3357,
+			3373,
+			3416,
+			3418,
+			3434,
+			3476,
+			3478,
+			3493,
+			3500,
+			3502,
+			3504,
+			3507,
+			3513,
+			3572,
+			3608,
+			3613,
+			3618,
+			3624,
+			3628
+		]
+	},
+	"pages": {
+		"html/wdgcss/all-properties.html": [
+			2700
+		]
+	},
+	"palette": {
+		"html/wdgcss/all-properties.html": [
+			5957
+		]
+	},
+	"paragraph": {
+		"html/wdgcss/all-properties.html": [
+			2570
+		]
+	},
+	"paragraphs": {
+		"html/wdgcss/all-properties.html": [
+			980,
+			2478
+		]
+	},
+	"parent": {
+		"html/wdgcss/all-properties.html": [
+			690,
+			821,
+			854,
+			868,
+			2123,
+			2179,
+			2202,
+			2210,
+			2232,
+			2244,
+			2254,
+			2555,
+			2811,
+			2892,
+			2955,
+			3025,
+			3095,
+			3284,
+			3345,
+			3406,
+			3467,
+			3550,
+			4773
+		]
+	},
+	"parentheses": {
+		"html/wdgcss/all-properties.html": [
+			6081
+		]
+	},
+	"partial": {
+		"html/wdgcss/all-properties.html": [
+			6098,
+			6120
+		]
+	},
+	"particularly": {
+		"html/wdgcss/all-properties.html": [
+			2296
+		]
+	},
+	"pawn": {
+		"html/wdgcss/all-properties.html": [
+			1821
+		]
+	},
+	"pc": {
+		"html/wdgcss/all-properties.html": [
+			5882,
+			5884
+		]
+	},
+	"percentage": {
+		"html/wdgcss/all-properties.html": [
+			665,
+			686,
+			805,
+			905,
+			1433,
+			2094,
+			2158,
+			2503,
+			2550,
+			2586,
+			2633,
+			2711,
+			2778,
+			2805,
+			2806,
+			2859,
+			2886,
+			2887,
+			2922,
+			2949,
+			2950,
+			2992,
+			3019,
+			3020,
+			3052,
+			3087,
+			3090,
+			3241,
+			3278,
+			3279,
+			3302,
+			3339,
+			3340,
+			3363,
+			3400,
+			3401,
+			3424,
+			3461,
+			3462,
+			3483,
+			3544,
+			3545,
+			4680,
+			4710,
+			5720,
+			5886,
+			5889,
+			5909,
+			5911,
+			5926
+		]
+	},
+	"percentages": {
+		"html/wdgcss/all-properties.html": [
+			1522,
+			1537,
+			1567,
+			1652,
+			1665,
+			2551,
+			4769
+		]
+	},
+	"permitted": {
+		"html/wdgcss/all-properties.html": [
+			1663,
+			1939,
+			1993,
+			2185,
+			2647,
+			2818,
+			2899,
+			2962,
+			3032,
+			3102,
+			3292,
+			3353,
+			3414,
+			3475,
+			3558,
+			4024
+		]
+	},
+	"picas": {
+		"html/wdgcss/all-properties.html": [
+			5883
+		]
+	},
+	"pixel": {
+		"html/wdgcss/all-properties.html": [
+			2693
+		]
+	},
+	"pixels": {
+		"html/wdgcss/all-properties.html": [
+			790,
+			1621,
+			1627,
+			5838
+		]
+	},
+	"placed": {
+		"html/wdgcss/all-properties.html": [
+			1595,
+			1620,
+			1732,
+			5588
+		]
+	},
+	"plain": {
+		"html/wdgcss/all-properties.html": [
+			5425,
+			5691
+		]
+	},
+	"plus": {
+		"html/wdgcss/all-properties.html": [
+			2219
+		]
+	},
+	"png": {
+		"html/wdgcss/all-properties.html": [
+			1213,
+			1822,
+			5539,
+			6168
+		]
+	},
+	"point": {
+		"html/wdgcss/all-properties.html": [
+			1588,
+			1598
+		]
+	},
+	"points": {
+		"html/wdgcss/all-properties.html": [
+			994,
+			1000,
+			5879
+		]
+	},
+	"position": {
+		"html/wdgcss/all-properties.html": [
+			1015,
+			1426,
+			1429,
+			1454,
+			1459,
+			1508,
+			1532,
+			1572,
+			1580,
+			1645,
+			1757,
+			1774,
+			1856,
+			5158,
+			5542,
+			5546,
+			5568,
+			5647,
+			5677
+		]
+	},
+	"positioning": {
+		"html/wdgcss/all-properties.html": [
+			2115,
+			2198,
+			2261
+		]
+	},
+	"positions": {
+		"html/wdgcss/all-properties.html": [
+			1658
+		]
+	},
+	"possible": {
+		"html/wdgcss/all-properties.html": [
+			158,
+			368,
+			428,
+			518,
+			573,
+			666,
+			925,
+			1088,
+			1171,
+			1257,
+			1353,
+			1431,
+			1763,
+			1903,
+			1957,
+			2016,
+			2082,
+			2322,
+			2425,
+			2500,
+			2581,
+			2710,
+			2775,
+			2856,
+			2919,
+			2989,
+			3049,
+			3238,
+			3299,
+			3360,
+			3421,
+			3480,
+			3640,
+			3724,
+			3808,
+			3892,
+			3974,
+			4102,
+			4195,
+			4301,
+			4363,
+			4425,
+			4487,
+			4547,
+			4677,
+			4809,
+			4987,
+			5049,
+			5165,
+			5296,
+			5361,
+			5471,
+			5548,
+			5640,
+			6138
+		]
+	},
+	"pozadzides": {
+		"html/wdgcss/all-properties.html": [
+			6176,
+			6188
+		]
+	},
+	"pre": {
+		"html/wdgcss/all-properties.html": [
+			5299,
+			5337
+		]
+	},
+	"preferred": {
+		"html/wdgcss/all-properties.html": [
+			5804
+		]
+	},
+	"present": {
+		"html/wdgcss/all-properties.html": [
+			268
+		]
+	},
+	"prevent": {
+		"html/wdgcss/all-properties.html": [
+			1998
+		]
+	},
+	"probably": {
+		"html/wdgcss/all-properties.html": [
+			891,
+			912
+		]
+	},
+	"problems": {
+		"html/wdgcss/all-properties.html": [
+			4982
+		]
+	},
+	"program": {
+		"html/wdgcss/all-properties.html": [
+			4936
+		]
+	},
+	"properties": {
+		"html/wdgcss/all-properties.html": [
+			2,
+			9,
+			13,
+			15,
+			17,
+			19,
+			133,
+			962,
+			1004,
+			1076,
+			1797,
+			1873,
+			1880,
+			2046,
+			2350,
+			2719,
+			3219,
+			3509,
+			3715,
+			3799,
+			3883,
+			3967,
+			4087,
+			4672,
+			4967,
+			5147,
+			5682,
+			6185
+		]
+	},
+	"property": {
+		"html/wdgcss/all-properties.html": [
+			6,
+			24,
+			361,
+			385,
+			445,
+			536,
+			704,
+			920,
+			951,
+			1034,
+			1104,
+			1154,
+			1164,
+			1187,
+			1240,
+			1250,
+			1278,
+			1336,
+			1346,
+			1369,
+			1414,
+			1424,
+			1455,
+			1466,
+			1748,
+			1758,
+			1787,
+			1857,
+			1919,
+			1973,
+			2036,
+			2107,
+			2166,
+			2294,
+			2340,
+			2391,
+			2446,
+			2467,
+			2516,
+			2599,
+			2657,
+			2666,
+			2791,
+			2872,
+			2935,
+			3005,
+			3066,
+			3210,
+			3253,
+			3314,
+			3375,
+			3436,
+			3494,
+			3659,
+			3743,
+			3827,
+			3911,
+			3993,
+			4068,
+			4095,
+			4112,
+			4122,
+			4188,
+			4218,
+			4228,
+			4294,
+			4322,
+			4356,
+			4384,
+			4418,
+			4446,
+			4480,
+			4508,
+			4542,
+			4566,
+			4609,
+			4743,
+			4783,
+			4872,
+			4907,
+			5003,
+			5066,
+			5124,
+			5183,
+			5250,
+			5314,
+			5325,
+			5393,
+			5492,
+			5519,
+			5569,
+			5582,
+			5666,
+			5801,
+			5922
+		]
+	},
+	"provoking": {
+		"html/wdgcss/all-properties.html": [
+			2707
+		]
+	},
+	"pt": {
+		"html/wdgcss/all-properties.html": [
+			720,
+			766,
+			975,
+			976,
+			5878,
+			5880,
+			5885
+		]
+	},
+	"purple": {
+		"html/wdgcss/all-properties.html": [
+			5968
+		]
+	},
+	"purpose": {
+		"html/wdgcss/all-properties.html": [
+			5016
+		]
+	},
+	"put": {
+		"html/wdgcss/all-properties.html": [
+			3259,
+			3320,
+			3381,
+			3442
+		]
+	},
+	"px": {
+		"html/wdgcss/all-properties.html": [
+			1608,
+			1609,
+			4919,
+			4921,
+			5837
+		]
+	},
+	"qualifications": {
+		"html/wdgcss/all-properties.html": [
+			336
+		]
+	},
+	"quality": {
+		"html/wdgcss/all-properties.html": [
+			4946
+		]
+	},
+	"quick": {
+		"html/wdgcss/all-properties.html": [
+			6038
+		]
+	},
+	"quinn": {
+		"html/wdgcss/all-properties.html": [
+			6179,
+			6191
+		]
+	},
+	"quoted": {
+		"html/wdgcss/all-properties.html": [
+			344,
+			6063,
+			6079
+		]
+	},
+	"quotes": {
+		"html/wdgcss/all-properties.html": [
+			350,
+			6069,
+			6085,
+			6088,
+			6169
+		]
+	},
+	"r": {
+		"html/wdgcss/all-properties.html": [
+			6031
+		]
+	},
+	"raise": {
+		"html/wdgcss/all-properties.html": [
+			2169
+		]
+	},
+	"rather": {
+		"html/wdgcss/all-properties.html": [
+			816,
+			850
+		]
+	},
+	"receive": {
+		"html/wdgcss/all-properties.html": [
+			1842,
+			2541
+		]
+	},
+	"recommended": {
+		"html/wdgcss/all-properties.html": [
+			1553
+		]
+	},
+	"red": {
+		"html/wdgcss/all-properties.html": [
+			4606,
+			5969
+		]
+	},
+	"refer": {
+		"html/wdgcss/all-properties.html": [
+			2552,
+			2808,
+			2889,
+			2952,
+			3022,
+			3092,
+			3281,
+			3342,
+			3403,
+			3464,
+			3547,
+			4770
+		]
+	},
+	"reference": {
+		"html/wdgcss/all-properties.html": [
+			6039
+		]
+	},
+	"regard": {
+		"html/wdgcss/all-properties.html": [
+			1385,
+			1725,
+			5590
+		]
+	},
+	"related": {
+		"html/wdgcss/all-properties.html": [
+			1796
+		]
+	},
+	"relation": {
+		"html/wdgcss/all-properties.html": [
+			688
+		]
+	},
+	"relative": {
+		"html/wdgcss/all-properties.html": [
+			552,
+			662,
+			681,
+			807,
+			818,
+			1539,
+			1733,
+			2120,
+			2159,
+			2199,
+			2262,
+			2636,
+			3696,
+			3780,
+			3864,
+			3948,
+			5783,
+			5792,
+			5797,
+			5815,
+			5839,
+			5860,
+			5914,
+			5929,
+			6102,
+			6122
+		]
+	},
+	"rendering": {
+		"html/wdgcss/all-properties.html": [
+			5243,
+			5614,
+			5617,
+			5626
+		]
+	},
+	"repeat": {
+		"html/wdgcss/all-properties.html": [
+			1011,
+			1252,
+			1255,
+			1259,
+			1260,
+			1262,
+			1265,
+			1268,
+			1277,
+			1288,
+			1292,
+			1298,
+			1302,
+			1315,
+			1316,
+			1345,
+			1770,
+			1834
+		]
+	},
+	"repeated": {
+		"html/wdgcss/all-properties.html": [
+			100,
+			108,
+			1286
+		]
+	},
+	"replaced": {
+		"html/wdgcss/all-properties.html": [
+			1448,
+			1476,
+			1479,
+			1492,
+			4690,
+			4698,
+			4715,
+			4728,
+			4821,
+			4829,
+			4844,
+			4857
+		]
+	},
+	"replacing": {
+		"html/wdgcss/all-properties.html": [
+			5510
+		]
+	},
+	"require": {
+		"html/wdgcss/all-properties.html": [
+			5776
+		]
+	},
+	"reserved": {
+		"html/wdgcss/all-properties.html": [
+			6194
+		]
+	},
+	"reset": {
+		"html/wdgcss/all-properties.html": [
+			4799
+		]
+	},
+	"resolution": {
+		"html/wdgcss/all-properties.html": [
+			5843
+		]
+	},
+	"resolutions": {
+		"html/wdgcss/all-properties.html": [
+			1564
+		]
+	},
+	"respectively": {
+		"html/wdgcss/all-properties.html": [
+			3117,
+			3573,
+			4040,
+			4154,
+			4260
+		]
+	},
+	"results": {
+		"html/wdgcss/all-properties.html": [
+			4747,
+			4876
+		]
+	},
+	"rgb": {
+		"html/wdgcss/all-properties.html": [
+			5947,
+			5975,
+			5988,
+			5992,
+			6006,
+			6007,
+			6021,
+			6040
+		]
+	},
+	"ridge": {
+		"html/wdgcss/all-properties.html": [
+			4203
+		]
+	},
+	"right": {
+		"html/wdgcss/all-properties.html": [
+			1440,
+			1516,
+			1624,
+			1688,
+			1691,
+			1700,
+			1701,
+			1704,
+			1715,
+			1716,
+			1836,
+			2428,
+			2722,
+			2731,
+			2741,
+			2758,
+			2850,
+			2854,
+			2871,
+			2875,
+			2904,
+			3112,
+			3166,
+			3178,
+			3228,
+			3293,
+			3297,
+			3313,
+			3323,
+			3503,
+			3568,
+			3612,
+			3716,
+			3721,
+			3741,
+			3754,
+			3793,
+			4034,
+			4078,
+			4148,
+			4254,
+			4357,
+			4361,
+			4366,
+			4383,
+			4399,
+			4648,
+			4663,
+			4990,
+			5024,
+			5053,
+			5091,
+			5099,
+			5135
+		]
+	},
+	"rights": {
+		"html/wdgcss/all-properties.html": [
+			6193
+		]
+	},
+	"roman": {
+		"html/wdgcss/all-properties.html": [
+			5368,
+			5370,
+			5456,
+			5715
+		]
+	},
+	"rrggbb": {
+		"html/wdgcss/all-properties.html": [
+			5984
+		]
+	},
+	"rule": {
+		"html/wdgcss/all-properties.html": [
+			2823,
+			3604
+		]
+	},
+	"rules": {
+		"html/wdgcss/all-properties.html": [
+			828,
+			1055,
+			1852
+		]
+	},
+	"s": {
+		"html/wdgcss/all-properties.html": [
+			823,
+			842,
+			856,
+			2129,
+			2163,
+			2172,
+			2180,
+			2245,
+			2255,
+			2266,
+			2464,
+			2474,
+			2557,
+			2627,
+			2640,
+			2813,
+			2894,
+			2957,
+			3027,
+			3097,
+			3286,
+			3347,
+			3408,
+			3469,
+			3512,
+			3552,
+			3669,
+			3753,
+			3837,
+			3921,
+			4129,
+			4225,
+			4336,
+			4398,
+			4460,
+			4522,
+			4580,
+			4633,
+			4751,
+			4775,
+			4880,
+			5019,
+			5131,
+			5826,
+			5933
+		]
+	},
+	"same": {
+		"html/wdgcss/all-properties.html": [
+			5215,
+			6028
+		]
+	},
+	"sample": {
+		"html/wdgcss/all-properties.html": [
+			270,
+			403
+		]
+	},
+	"sans": {
+		"html/wdgcss/all-properties.html": [
+			175
+		]
+	},
+	"scale": {
+		"html/wdgcss/all-properties.html": [
+			4913,
+			4929,
+			4942
+		]
+	},
+	"scaling": {
+		"html/wdgcss/all-properties.html": [
+			4949,
+			4961
+		]
+	},
+	"schoolbook": {
+		"html/wdgcss/all-properties.html": [
+			283,
+			298
+		]
+	},
+	"scroll": {
+		"html/wdgcss/all-properties.html": [
+			1355,
+			1359,
+			1377
+		]
+	},
+	"second": {
+		"html/wdgcss/all-properties.html": [
+			5620,
+			5629
+		]
+	},
+	"section": {
+		"html/wdgcss/all-properties.html": [
+			38,
+			1047
+		]
+	},
+	"see": {
+		"html/wdgcss/all-properties.html": [
+			1044
+		]
+	},
+	"select": {
+		"html/wdgcss/all-properties.html": [
+			1498,
+			4734,
+			4863
+		]
+	},
+	"selector": {
+		"html/wdgcss/all-properties.html": [
+			815,
+			3269,
+			3330,
+			3391,
+			3452
+		]
+	},
+	"sensitivity": {
+		"html/wdgcss/all-properties.html": [
+			49
+		]
+	},
+	"serif": {
+		"html/wdgcss/all-properties.html": [
+			171,
+			176,
+			285,
+			307,
+			331,
+			978,
+			988
+		]
+	},
+	"set": {
+		"html/wdgcss/all-properties.html": [
+			1860,
+			3214,
+			3997,
+			4612
+		]
+	},
+	"sets": {
+		"html/wdgcss/all-properties.html": [
+			1105,
+			1188,
+			2792,
+			2873,
+			2936,
+			3006,
+			3067,
+			3605,
+			4123,
+			4219
+		]
+	},
+	"setting": {
+		"html/wdgcss/all-properties.html": [
+			1995,
+			4327,
+			4389,
+			4451,
+			4513,
+			4571
+		]
+	},
+	"sheet": {
+		"html/wdgcss/all-properties.html": [
+			405,
+			6106
+		]
+	},
+	"sheets": {
+		"html/wdgcss/all-properties.html": [
+			1072,
+			1128,
+			1869,
+			4976
+		]
+	},
+	"shorthand": {
+		"html/wdgcss/all-properties.html": [
+			957,
+			1152,
+			1238,
+			1334,
+			1412,
+			1746,
+			1790,
+			3497,
+			3714,
+			3798,
+			3882,
+			3966,
+			4071,
+			4094,
+			4187,
+			4293,
+			4325,
+			4355,
+			4387,
+			4417,
+			4449,
+			4479,
+			4511,
+			4541,
+			4569,
+			5669
+		]
+	},
+	"should": {
+		"html/wdgcss/all-properties.html": [
+			253,
+			723,
+			775,
+			900,
+			911,
+			1077,
+			1131,
+			1224,
+			1874,
+			2392,
+			2540,
+			2705
+		]
+	},
+	"side": {
+		"html/wdgcss/all-properties.html": [
+			3143,
+			3599,
+			4066,
+			4180,
+			4286
+		]
+	},
+	"sides": {
+		"html/wdgcss/all-properties.html": [
+			3127,
+			3583,
+			4050,
+			4164,
+			4270,
+			5076,
+			5122
+		]
+	},
+	"silver": {
+		"html/wdgcss/all-properties.html": [
+			5970
+		]
+	},
+	"similar": {
+		"html/wdgcss/all-properties.html": [
+			1221,
+			2469,
+			5126
+		]
+	},
+	"similarly": {
+		"html/wdgcss/all-properties.html": [
+			5093
+		]
+	},
+	"since": {
+		"html/wdgcss/all-properties.html": [
+			302,
+			567,
+			4937,
+			4948,
+			5805
+		]
+	},
+	"single": {
+		"html/wdgcss/all-properties.html": [
+			347,
+			6066,
+			6084
+		]
+	},
+	"size": {
+		"html/wdgcss/all-properties.html": [
+			143,
+			656,
+			659,
+			661,
+			663,
+			669,
+			682,
+			703,
+			710,
+			755,
+			761,
+			765,
+			769,
+			772,
+			812,
+			825,
+			832,
+			837,
+			845,
+			858,
+			878,
+			886,
+			909,
+			934,
+			992,
+			1542,
+			2629,
+			2642,
+			2662,
+			3686,
+			3770,
+			3854,
+			3938,
+			5935
+		]
+	},
+	"slanted": {
+		"html/wdgcss/all-properties.html": [
+			401
+		]
+	},
+	"slashes": {
+		"html/wdgcss/all-properties.html": [
+			52
+		]
+	},
+	"slightly": {
+		"html/wdgcss/all-properties.html": [
+			475
+		]
+	},
+	"small": {
+		"html/wdgcss/all-properties.html": [
+			431,
+			456,
+			458,
+			491,
+			510,
+			671,
+			673,
+			674,
+			746,
+			2367
+		]
+	},
+	"smaller": {
+		"html/wdgcss/all-properties.html": [
+			684
+		]
+	},
+	"so": {
+		"html/wdgcss/all-properties.html": [
+			2703,
+			5855
+		]
+	},
+	"solid": {
+		"html/wdgcss/all-properties.html": [
+			4200,
+			4594
+		]
+	},
+	"some": {
+		"html/wdgcss/all-properties.html": [
+			576,
+			641,
+			753,
+			1052,
+			1798,
+			2301,
+			2482,
+			4792
+		]
+	},
+	"source": {
+		"html/wdgcss/all-properties.html": [
+			6107,
+			6112,
+			6126
+		]
+	},
+	"space": {
+		"html/wdgcss/all-properties.html": [
+			1925,
+			1979,
+			2672,
+			3257,
+			3318,
+			3379,
+			3440,
+			3518,
+			5294,
+			5313
+		]
+	},
+	"spaces": {
+		"html/wdgcss/all-properties.html": [
+			5318,
+			5334,
+			5342,
+			5753,
+			5906,
+			6083
+		]
+	},
+	"spacing": {
+		"html/wdgcss/all-properties.html": [
+			1882,
+			1884,
+			1898,
+			1901,
+			1918,
+			1944,
+			1949,
+			1952,
+			1955,
+			1972,
+			2003,
+			2008,
+			2607
+		]
+	},
+	"span": {
+		"html/wdgcss/all-properties.html": [
+			507
+		]
+	},
+	"sparingly": {
+		"html/wdgcss/all-properties.html": [
+			726
+		]
+	},
+	"specific": {
+		"html/wdgcss/all-properties.html": [
+			213,
+			224,
+			247,
+			293,
+			1794
+		]
+	},
+	"specification": {
+		"html/wdgcss/all-properties.html": [
+			5247,
+			5948
+		]
+	},
+	"specified": {
+		"html/wdgcss/all-properties.html": [
+			588,
+			1080,
+			1133,
+			1282,
+			1373,
+			1462,
+			1574,
+			1840,
+			1877,
+			2175,
+			4138,
+			4231,
+			4244,
+			4705,
+			4836,
+			5513
+		]
+	},
+	"specifies": {
+		"html/wdgcss/all-properties.html": [
+			979,
+			1393,
+			1585,
+			1610,
+			5067,
+			5394,
+			5493
+		]
+	},
+	"specify": {
+		"html/wdgcss/all-properties.html": [
+			540,
+			1038,
+			3663,
+			3747,
+			3831,
+			3915,
+			6026
+		]
+	},
+	"specifying": {
+		"html/wdgcss/all-properties.html": [
+			2800,
+			2881,
+			2944,
+			3014,
+			3074,
+			4005
+		]
+	},
+	"square": {
+		"html/wdgcss/all-properties.html": [
+			5365,
+			5419,
+			5423,
+			5685,
+			5688
+		]
+	},
+	"stripe": {
+		"html/wdgcss/all-properties.html": [
+			6143,
+			6152,
+			6157,
+			6162
+		]
+	},
+	"strong": {
+		"html/wdgcss/all-properties.html": [
+			770
+		]
+	},
+	"structure": {
+		"html/wdgcss/all-properties.html": [
+			6183
+		]
+	},
+	"style": {
+		"html/wdgcss/all-properties.html": [
+			137,
+			363,
+			366,
+			384,
+			404,
+			408,
+			416,
+			420,
+			928,
+			1071,
+			1127,
+			1868,
+			2755,
+			4190,
+			4193,
+			4217,
+			4221,
+			4259,
+			4307,
+			4330,
+			4344,
+			4369,
+			4392,
+			4406,
+			4431,
+			4454,
+			4468,
+			4493,
+			4516,
+			4530,
+			4552,
+			4574,
+			4622,
+			4658,
+			4975,
+			5151,
+			5154,
+			5157,
+			5160,
+			5354,
+			5358,
+			5391,
+			5406,
+			5421,
+			5427,
+			5432,
+			5445,
+			5453,
+			5464,
+			5468,
+			5490,
+			5517,
+			5524,
+			5535,
+			5541,
+			5545,
+			5567,
+			5635,
+			5638,
+			5643,
+			5646,
+			5665,
+			5673,
+			5676,
+			5680,
+			5687,
+			5693,
+			5698,
+			5707,
+			5713,
+			6105
+		]
+	},
+	"stylistic": {
+		"html/wdgcss/all-properties.html": [
+			2399
+		]
+	},
+	"sub": {
+		"html/wdgcss/all-properties.html": [
+			2085,
+			2233
+		]
+	},
+	"submit": {
+		"html/wdgcss/all-properties.html": [
+			4797
+		]
+	},
+	"subscript": {
+		"html/wdgcss/all-properties.html": [
+			2234
+		]
+	},
+	"such": {
+		"html/wdgcss/all-properties.html": [
+			487,
+			1583,
+			1606,
+			4795
+		]
+	},
+	"suggest": {
+		"html/wdgcss/all-properties.html": [
+			2060
+		]
+	},
+	"suggested": {
+		"html/wdgcss/all-properties.html": [
+			5242
+		]
+	},
+	"suitable": {
+		"html/wdgcss/all-properties.html": [
+			1146
+		]
+	},
+	"super": {
+		"html/wdgcss/all-properties.html": [
+			2086,
+			2235,
+			2315
+		]
+	},
+	"superscript": {
+		"html/wdgcss/all-properties.html": [
+			2236
+		]
+	},
+	"support": {
+		"html/wdgcss/all-properties.html": [
+			484
+		]
+	},
+	"supported": {
+		"html/wdgcss/all-properties.html": [
+			1159,
+			1245,
+			1341,
+			1419,
+			1753,
+			5789
+		]
+	},
+	"switched": {
+		"html/wdgcss/all-properties.html": [
+			604
+		]
+	},
+	"syntax": {
+		"html/wdgcss/all-properties.html": [
+			3,
+			21,
+			147,
+			364,
+			424,
+			514,
+			657,
+			922,
+			1018,
+			1084,
+			1167,
+			1253,
+			1349,
+			1427,
+			1760,
+			1899,
+			1953,
+			2012,
+			2078,
+			2318,
+			2421,
+			2496,
+			2577,
+			2771,
+			2852,
+			2915,
+			2985,
+			3046,
+			3234,
+			3295,
+			3356,
+			3417,
+			3477,
+			3635,
+			3719,
+			3803,
+			3887,
+			3970,
+			4098,
+			4191,
+			4297,
+			4359,
+			4421,
+			4483,
+			4544,
+			4674,
+			4806,
+			4984,
+			5046,
+			5162,
+			5292,
+			5356,
+			5466,
+			5543,
+			5636
+		]
+	},
+	"system": {
+		"html/wdgcss/all-properties.html": [
+			321
+		]
+	},
+	"table": {
+		"html/wdgcss/all-properties.html": [
+			1827
+		]
+	},
+	"tables": {
+		"html/wdgcss/all-properties.html": [
+			5041
+		]
+	},
+	"tag": {
+		"html/wdgcss/all-properties.html": [
+			5352
+		]
+	},
+	"take": {
+		"html/wdgcss/all-properties.html": [
+			901
+		]
+	},
+	"taken": {
+		"html/wdgcss/all-properties.html": [
+			3139,
+			3595,
+			4062,
+			4176,
+			4282,
+			5952
+		]
+	},
+	"takes": {
+		"html/wdgcss/all-properties.html": [
+			5326,
+			5570
+		]
+	},
+	"tallest": {
+		"html/wdgcss/all-properties.html": [
+			2275
+		]
+	},
+	"teal": {
+		"html/wdgcss/all-properties.html": [
+			5971
+		]
+	},
+	"text": {
+		"html/wdgcss/all-properties.html": [
+			14,
+			795,
+			1879,
+			1885,
+			1889,
+			1891,
+			1893,
+			2010,
+			2013,
+			2034,
+			2038,
+			2073,
+			2088,
+			2092,
+			2237,
+			2247,
+			2316,
+			2319,
+			2338,
+			2342,
+			2381,
+			2385,
+			2389,
+			2409,
+			2419,
+			2422,
+			2444,
+			2465,
+			2486,
+			2491,
+			2494,
+			2497,
+			2514,
+			2563,
+			2572,
+			2611,
+			2673,
+			5008
+		]
+	},
+	"textarea": {
+		"html/wdgcss/all-properties.html": [
+			1497,
+			4733,
+			4862
+		]
+	},
+	"than": {
+		"html/wdgcss/all-properties.html": [
+			477,
+			817,
+			851,
+			1160,
+			1246,
+			1342,
+			1420,
+			1754,
+			5859
+		]
+	},
+	"that": {
+		"html/wdgcss/all-properties.html": [
+			42,
+			68,
+			287,
+			387,
+			778,
+			835,
+			1586,
+			1611,
+			2061,
+			2533,
+			2836,
+			2906,
+			2969,
+			3038,
+			3188,
+			4340,
+			4402,
+			4464,
+			4526,
+			5042,
+			5496,
+			5746,
+			6114
+		]
+	},
+	"the": {
+		"html/wdgcss/all-properties.html": [
+			36,
+			263,
+			288,
+			309,
+			320,
+			335,
+			351,
+			359,
+			382,
+			388,
+			442,
+			448,
+			464,
+			467,
+			533,
+			541,
+			544,
+			546,
+			554,
+			559,
+			578,
+			587,
+			599,
+			613,
+			620,
+			629,
+			636,
+			701,
+			709,
+			712,
+			800,
+			814,
+			820,
+			836,
+			853,
+			867,
+			880,
+			949,
+			959,
+			966,
+			1032,
+			1039,
+			1045,
+			1101,
+			1106,
+			1151,
+			1161,
+			1184,
+			1189,
+			1237,
+			1247,
+			1275,
+			1287,
+			1293,
+			1297,
+			1303,
+			1319,
+			1322,
+			1333,
+			1343,
+			1366,
+			1379,
+			1387,
+			1391,
+			1411,
+			1421,
+			1452,
+			1457,
+			1486,
+			1501,
+			1531,
+			1534,
+			1541,
+			1544,
+			1570,
+			1578,
+			1587,
+			1592,
+			1597,
+			1602,
+			1612,
+			1617,
+			1623,
+			1629,
+			1634,
+			1638,
+			1643,
+			1673,
+			1719,
+			1727,
+			1729,
+			1735,
+			1739,
+			1745,
+			1755,
+			1785,
+			1792,
+			1849,
+			1854,
+			1916,
+			1928,
+			1933,
+			1970,
+			1982,
+			1987,
+			2033,
+			2053,
+			2104,
+			2113,
+			2127,
+			2153,
+			2161,
+			2170,
+			2174,
+			2178,
+			2186,
+			2193,
+			2197,
+			2201,
+			2221,
+			2224,
+			2227,
+			2231,
+			2257,
+			2260,
+			2264,
+			2278,
+			2289,
+			2291,
+			2337,
+			2376,
+			2388,
+			2443,
+			2459,
+			2462,
+			2513,
+			2529,
+			2534,
+			2538,
+			2542,
+			2554,
+			2596,
+			2606,
+			2613,
+			2618,
+			2625,
+			2631,
+			2638,
+			2655,
+			2663,
+			2788,
+			2793,
+			2810,
+			2821,
+			2826,
+			2844,
+			2847,
+			2869,
+			2874,
+			2891,
+			2932,
+			2937,
+			2954,
+			2977,
+			2980,
+			3002,
+			3007,
+			3024,
+			3064,
+			3068,
+			3094,
+			3135,
+			3141,
+			3196,
+			3199,
+			3208,
+			3218,
+			3250,
+			3261,
+			3265,
+			3268,
+			3270,
+			3283,
+			3311,
+			3322,
+			3326,
+			3329,
+			3331,
+			3344,
+			3372,
+			3383,
+			3387,
+			3390,
+			3392,
+			3405,
+			3433,
+			3444,
+			3448,
+			3451,
+			3453,
+			3466,
+			3492,
+			3499,
+			3515,
+			3520,
+			3523,
+			3526,
+			3549,
+			3591,
+			3597,
+			3602,
+			3606,
+			3611,
+			3616,
+			3622,
+			3655,
+			3664,
+			3672,
+			3707,
+			3739,
+			3748,
+			3756,
+			3791,
+			3823,
+			3832,
+			3840,
+			3875,
+			3907,
+			3916,
+			3924,
+			3959,
+			3990,
+			3998,
+			4058,
+			4064,
+			4073,
+			4092,
+			4107,
+			4110,
+			4119,
+			4124,
+			4172,
+			4178,
+			4185,
+			4215,
+			4220,
+			4233,
+			4278,
+			4284,
+			4291,
+			4319,
+			4328,
+			4353,
+			4381,
+			4390,
+			4415,
+			4443,
+			4452,
+			4477,
+			4505,
+			4514,
+			4539,
+			4564,
+			4572,
+			4607,
+			4644,
+			4722,
+			4737,
+			4741,
+			4749,
+			4756,
+			4759,
+			4764,
+			4772,
+			4851,
+			4866,
+			4870,
+			4878,
+			4885,
+			4888,
+			4893,
+			4905,
+			4930,
+			4952,
+			4963,
+			5001,
+			5026,
+			5038,
+			5064,
+			5082,
+			5098,
+			5106,
+			5113,
+			5181,
+			5202,
+			5211,
+			5238,
+			5245,
+			5248,
+			5269,
+			5272,
+			5280,
+			5311,
+			5320,
+			5389,
+			5395,
+			5488,
+			5494,
+			5511,
+			5515,
+			5565,
+			5571,
+			5579,
+			5585,
+			5592,
+			5596,
+			5601,
+			5606,
+			5663,
+			5671,
+			5748,
+			5777,
+			5813,
+			5821,
+			5824,
+			5831,
+			5834,
+			5841,
+			5851,
+			5862,
+			5925,
+			5931,
+			5949,
+			5954,
+			6022,
+			6027,
+			6056,
+			6058,
+			6077,
+			6090,
+			6104,
+			6110,
+			6124
+		]
+	},
+	"their": {
+		"html/wdgcss/all-properties.html": [
+			729,
+			1556
+		]
+	},
+	"them": {
+		"html/wdgcss/all-properties.html": [
+			305
+		]
+	},
+	"then": {
+		"html/wdgcss/all-properties.html": [
+			63,
+			65
+		]
+	},
+	"there": {
+		"html/wdgcss/all-properties.html": [
+			5750,
+			5903
+		]
+	},
+	"these": {
+		"html/wdgcss/all-properties.html": [
+			327,
+			797,
+			897
+		]
+	},
+	"they": {
+		"html/wdgcss/all-properties.html": [
+			1550,
+			3108,
+			3564,
+			4030,
+			4144,
+			4250,
+			5806
+		]
+	},
+	"thick": {
+		"html/wdgcss/all-properties.html": [
+			3644,
+			3728,
+			3812,
+			3896,
+			3978,
+			4604
+		]
+	},
+	"thin": {
+		"html/wdgcss/all-properties.html": [
+			3642,
+			3726,
+			3810,
+			3894,
+			3976,
+			4599
+		]
+	},
+	"this": {
+		"html/wdgcss/all-properties.html": [
+			277,
+			413,
+			826,
+			860,
+			919,
+			1465,
+			2466,
+			2695,
+			4067,
+			4227,
+			4782,
+			5012,
+			5123,
+			5324,
+			5581,
+			6128
+		]
+	},
+	"those": {
+		"html/wdgcss/all-properties.html": [
+			1229
+		]
+	},
+	"though": {
+		"html/wdgcss/all-properties.html": [
+			46
+		]
+	},
+	"three": {
+		"html/wdgcss/all-properties.html": [
+			395,
+			1851,
+			3131,
+			3587,
+			3678,
+			3762,
+			3846,
+			3930,
+			4054,
+			4168,
+			4274,
+			5329
+		]
+	},
+	"through": {
+		"html/wdgcss/all-properties.html": [
+			2022,
+			2042,
+			2050,
+			4962
+		]
+	},
+	"tiled": {
+		"html/wdgcss/all-properties.html": [
+			1327
+		]
+	},
+	"times": {
+		"html/wdgcss/all-properties.html": [
+			104,
+			112,
+			126,
+			131,
+			174,
+			284,
+			300,
+			977,
+			986
+		]
+	},
+	"to": {
+		"html/wdgcss/all-properties.html": [
+			93,
+			201,
+			231,
+			377,
+			437,
+			451,
+			528,
+			539,
+			553,
+			612,
+			628,
+			689,
+			696,
+			707,
+			728,
+			733,
+			808,
+			819,
+			944,
+			1027,
+			1037,
+			1065,
+			1096,
+			1121,
+			1179,
+			1270,
+			1361,
+			1386,
+			1444,
+			1471,
+			1504,
+			1529,
+			1540,
+			1555,
+			1622,
+			1726,
+			1734,
+			1780,
+			1861,
+			1862,
+			1911,
+			1965,
+			2028,
+			2039,
+			2099,
+			2111,
+			2121,
+			2126,
+			2160,
+			2200,
+			2263,
+			2332,
+			2343,
+			2396,
+			2407,
+			2411,
+			2437,
+			2450,
+			2457,
+			2472,
+			2507,
+			2520,
+			2527,
+			2553,
+			2567,
+			2591,
+			2604,
+			2637,
+			2670,
+			2783,
+			2809,
+			2842,
+			2864,
+			2890,
+			2927,
+			2953,
+			2975,
+			2997,
+			3023,
+			3059,
+			3093,
+			3110,
+			3125,
+			3194,
+			3213,
+			3245,
+			3258,
+			3282,
+			3306,
+			3319,
+			3343,
+			3367,
+			3380,
+			3404,
+			3428,
+			3441,
+			3465,
+			3487,
+			3548,
+			3566,
+			3581,
+			3609,
+			3614,
+			3619,
+			3625,
+			3650,
+			3662,
+			3694,
+			3734,
+			3746,
+			3778,
+			3818,
+			3830,
+			3862,
+			3902,
+			3914,
+			3946,
+			3985,
+			3996,
+			4032,
+			4048,
+			4114,
+			4146,
+			4162,
+			4210,
+			4235,
+			4252,
+			4268,
+			4314,
+			4376,
+			4438,
+			4500,
+			4559,
+			4626,
+			4630,
+			4686,
+			4771,
+			4787,
+			4791,
+			4817,
+			4912,
+			4928,
+			4954,
+			4979,
+			4996,
+			5006,
+			5017,
+			5034,
+			5059,
+			5074,
+			5129,
+			5143,
+			5176,
+			5186,
+			5258,
+			5282,
+			5305,
+			5380,
+			5479,
+			5556,
+			5591,
+			5654,
+			5798,
+			5810,
+			5840,
+			5915,
+			5930,
+			6103,
+			6109,
+			6123,
+			6133
+		]
+	},
+	"together": {
+		"html/wdgcss/all-properties.html": [
+			96,
+			583,
+			1081,
+			1878
+		]
+	},
+	"too": {
+		"html/wdgcss/all-properties.html": [
+			745,
+			748
+		]
+	},
+	"top": {
+		"html/wdgcss/all-properties.html": [
+			1435,
+			1519,
+			1679,
+			1682,
+			1683,
+			1684,
+			1687,
+			1689,
+			1690,
+			2087,
+			2089,
+			2238,
+			2269,
+			2271,
+			2720,
+			2729,
+			2738,
+			2756,
+			2769,
+			2773,
+			2790,
+			2794,
+			2827,
+			2834,
+			3111,
+			3159,
+			3175,
+			3221,
+			3232,
+			3236,
+			3252,
+			3262,
+			3501,
+			3567,
+			3607,
+			3632,
+			3637,
+			3657,
+			3670,
+			3709,
+			4033,
+			4075,
+			4147,
+			4253,
+			4295,
+			4299,
+			4304,
+			4321,
+			4337,
+			4646,
+			4660
+		]
+	},
+	"tops": {
+		"html/wdgcss/all-properties.html": [
+			2240
+		]
+	},
+	"transform": {
+		"html/wdgcss/all-properties.html": [
+			2320,
+			2339,
+			2382,
+			2386,
+			2390,
+			2410
+		]
+	},
+	"transformation": {
+		"html/wdgcss/all-properties.html": [
+			1890,
+			2317
+		]
+	},
+	"transformed": {
+		"html/wdgcss/all-properties.html": [
+			2345
+		]
+	},
+	"transparent": {
+		"html/wdgcss/all-properties.html": [
+			1091,
+			1094
+		]
+	},
+	"treated": {
+		"html/wdgcss/all-properties.html": [
+			5323
+		]
+	},
+	"treats": {
+		"html/wdgcss/all-properties.html": [
+			784,
+			2682
+		]
+	},
+	"turn": {
+		"html/wdgcss/all-properties.html": [
+			5276
+		]
+	},
+	"turned": {
+		"html/wdgcss/all-properties.html": [
+			5415,
+			5508
+		]
+	},
+	"twice": {
+		"html/wdgcss/all-properties.html": [
+			840,
+			852
+		]
+	},
+	"two": {
+		"html/wdgcss/all-properties.html": [
+			290,
+			3129,
+			3585,
+			4052,
+			4166,
+			4272,
+			5743,
+			5778
+		]
+	},
+	"type": {
+		"html/wdgcss/all-properties.html": [
+			29,
+			294,
+			5152,
+			5355,
+			5359,
+			5392,
+			5396,
+			5422,
+			5428,
+			5433,
+			5446,
+			5454,
+			5518,
+			5644,
+			5674
+		]
+	},
+	"types": {
+		"html/wdgcss/all-properties.html": [
+			32
+		]
+	},
+	"typically": {
+		"html/wdgcss/all-properties.html": [
+			5230
+		]
+	},
+	"ul": {
+		"html/wdgcss/all-properties.html": [
+			5424,
+			5521,
+			5531,
+			5690,
+			5695
+		]
+	},
+	"ulalume": {
+		"html/wdgcss/all-properties.html": [
+			6167
+		]
+	},
+	"under": {
+		"html/wdgcss/all-properties.html": [
+			5605
+		]
+	},
+	"underline": {
+		"html/wdgcss/all-properties.html": [
+			2019,
+			2047
+		]
+	},
+	"underlined": {
+		"html/wdgcss/all-properties.html": [
+			2065
+		]
+	},
+	"unit": {
+		"html/wdgcss/all-properties.html": [
+			5749,
+			5780
+		]
+	},
+	"units": {
+		"html/wdgcss/all-properties.html": [
+			20,
+			37,
+			718,
+			788,
+			798,
+			917,
+			1046,
+			2691,
+			2712,
+			5717,
+			5719,
+			5721,
+			5723,
+			5726,
+			5787,
+			5793,
+			5816,
+			5846,
+			5861,
+			5865,
+			5887,
+			5937
+		]
+	},
+	"unnecessarily": {
+		"html/wdgcss/all-properties.html": [
+			4957
+		]
+	},
+	"unreadable": {
+		"html/wdgcss/all-properties.html": [
+			799,
+			2701
+		]
+	},
+	"upper": {
+		"html/wdgcss/all-properties.html": [
+			1613,
+			1630,
+			5369,
+			5373,
+			5434,
+			5708
+		]
+	},
+	"uppercase": {
+		"html/wdgcss/all-properties.html": [
+			473,
+			2326,
+			2358,
+			2383
+		]
+	},
+	"url": {
+		"html/wdgcss/all-properties.html": [
+			1173,
+			1200,
+			1207,
+			1311,
+			1401,
+			1807,
+			1819,
+			1830,
+			5473,
+			5526,
+			5537,
+			5648,
+			5699,
+			6046,
+			6051,
+			6057,
+			6059,
+			6080,
+			6091,
+			6142,
+			6147,
+			6156,
+			6161,
+			6166,
+			6171
+		]
+	},
+	"urls": {
+		"html/wdgcss/all-properties.html": [
+			5724,
+			6044,
+			6099,
+			6121,
+			6136
+		]
+	},
+	"use": {
+		"html/wdgcss/all-properties.html": [
+			1150,
+			1236,
+			1332,
+			1410,
+			1744,
+			2408,
+			2561,
+			2843,
+			2976,
+			3195,
+			3706,
+			3790,
+			3874,
+			3958,
+			4091,
+			4184,
+			4290,
+			4352,
+			4414,
+			4476,
+			4538,
+			4639,
+			5270,
+			6134
+		]
+	},
+	"used": {
+		"html/wdgcss/all-properties.html": [
+			4,
+			22,
+			92,
+			168,
+			538,
+			706,
+			725,
+			954,
+			1138,
+			1528,
+			2110,
+			2395,
+			2669,
+			3231,
+			3661,
+			3693,
+			3745,
+			3777,
+			3829,
+			3861,
+			3913,
+			3945,
+			3995,
+			4786,
+			4911,
+			5185,
+			5403,
+			5499,
+			5600
+		]
+	},
+	"useful": {
+		"html/wdgcss/all-properties.html": [
+			2297,
+			4970,
+			5858
+		]
+	},
+	"user": {
+		"html/wdgcss/all-properties.html": [
+			752,
+			1070,
+			1126,
+			1867,
+			4953,
+			4973
+		]
+	},
+	"uses": {
+		"html/wdgcss/all-properties.html": [
+			2366
+		]
+	},
+	"using": {
+		"html/wdgcss/all-properties.html": [
+			717,
+			796,
+			904,
+			1566,
+			3207
+		]
+	},
+	"v": {
+		"html/wdgcss/all-properties.html": [
+			5461
+		]
+	},
+	"valid": {
+		"html/wdgcss/all-properties.html": [
+			5764,
+			5770
+		]
+	},
+	"value": {
+		"html/wdgcss/all-properties.html": [
+			27,
+			196,
+			367,
+			374,
+			427,
+			434,
+			517,
+			525,
+			693,
+			924,
+			940,
+			1022,
+			1050,
+			1087,
+			1093,
+			1170,
+			1176,
+			1256,
+			1267,
+			1290,
+			1300,
+			1352,
+			1358,
+			1430,
+			1442,
+			1582,
+			1605,
+			1640,
+			1762,
+			1776,
+			1838,
+			1845,
+			1902,
+			1908,
+			1929,
+			1956,
+			1962,
+			1983,
+			2015,
+			2025,
+			2081,
+			2096,
+			2154,
+			2187,
+			2321,
+			2329,
+			2378,
+			2424,
+			2432,
+			2499,
+			2505,
+			2543,
+			2580,
+			2588,
+			2603,
+			2614,
+			2774,
+			2781,
+			2855,
+			2862,
+			2918,
+			2925,
+			2988,
+			2995,
+			3048,
+			3055,
+			3082,
+			3120,
+			3237,
+			3243,
+			3271,
+			3298,
+			3304,
+			3332,
+			3359,
+			3365,
+			3393,
+			3420,
+			3426,
+			3454,
+			3479,
+			3485,
+			3537,
+			3576,
+			3639,
+			3647,
+			3673,
+			3723,
+			3731,
+			3757,
+			3807,
+			3815,
+			3841,
+			3891,
+			3899,
+			3925,
+			3973,
+			3981,
+			4013,
+			4043,
+			4101,
+			4106,
+			4108,
+			4157,
+			4194,
+			4207,
+			4263,
+			4300,
+			4310,
+			4345,
+			4362,
+			4372,
+			4407,
+			4424,
+			4434,
+			4469,
+			4486,
+			4496,
+			4531,
+			4546,
+			4555,
+			4676,
+			4683,
+			4739,
+			4808,
+			4814,
+			4868,
+			4986,
+			4993,
+			5048,
+			5056,
+			5078,
+			5108,
+			5164,
+			5173,
+			5236,
+			5273,
+			5295,
+			5302,
+			5360,
+			5377,
+			5384,
+			5470,
+			5476,
+			5483,
+			5547,
+			5553,
+			5560,
+			5572,
+			5597,
+			5639,
+			5650,
+			5658,
+			5729,
+			5757,
+			5766,
+			5890,
+			5910,
+			5927,
+			5940,
+			6047
+		]
+	},
+	"values": {
+		"html/wdgcss/all-properties.html": [
+			159,
+			369,
+			429,
+			519,
+			550,
+			561,
+			667,
+			806,
+			906,
+			926,
+			1089,
+			1172,
+			1258,
+			1354,
+			1432,
+			1764,
+			1904,
+			1937,
+			1958,
+			1991,
+			2017,
+			2083,
+			2183,
+			2323,
+			2426,
+			2501,
+			2582,
+			2634,
+			2644,
+			2684,
+			2686,
+			2694,
+			2776,
+			2807,
+			2849,
+			2857,
+			2888,
+			2920,
+			2951,
+			2982,
+			2990,
+			3021,
+			3050,
+			3079,
+			3091,
+			3105,
+			3132,
+			3137,
+			3201,
+			3239,
+			3280,
+			3289,
+			3300,
+			3341,
+			3350,
+			3361,
+			3402,
+			3411,
+			3422,
+			3463,
+			3472,
+			3481,
+			3532,
+			3546,
+			3555,
+			3561,
+			3588,
+			3593,
+			3641,
+			3699,
+			3725,
+			3783,
+			3809,
+			3867,
+			3893,
+			3951,
+			3975,
+			4010,
+			4027,
+			4055,
+			4060,
+			4103,
+			4136,
+			4141,
+			4169,
+			4174,
+			4196,
+			4247,
+			4275,
+			4280,
+			4302,
+			4364,
+			4426,
+			4488,
+			4548,
+			4629,
+			4678,
+			4778,
+			4810,
+			4988,
+			5050,
+			5101,
+			5166,
+			5194,
+			5297,
+			5330,
+			5362,
+			5472,
+			5549,
+			5641,
+			5912,
+			5917
+		]
+	},
+	"variant": {
+		"html/wdgcss/all-properties.html": [
+			139,
+			423,
+			426,
+			444,
+			503,
+			509,
+			930
+		]
+	},
+	"variants": {
+		"html/wdgcss/all-properties.html": [
+			486,
+			497
+		]
+	},
+	"various": {
+		"html/wdgcss/all-properties.html": [
+			960
+		]
+	},
+	"versa": {
+		"html/wdgcss/all-properties.html": [
+			608
+		]
+	},
+	"versions": {
+		"html/wdgcss/all-properties.html": [
+			480
+		]
+	},
+	"vertical": {
+		"html/wdgcss/all-properties.html": [
+			1517,
+			1579,
+			1644,
+			1887,
+			2076,
+			2079,
+			2105,
+			2114,
+			2213,
+			2292,
+			2306,
+			2310,
+			2313,
+			2838,
+			2971,
+			3190
+		]
+	},
+	"vertically": {
+		"html/wdgcss/all-properties.html": [
+			1305
+		]
+	},
+	"very": {
+		"html/wdgcss/all-properties.html": [
+			742
+		]
+	},
+	"vga": {
+		"html/wdgcss/all-properties.html": [
+			5956
+		]
+	},
+	"vice": {
+		"html/wdgcss/all-properties.html": [
+			607
+		]
+	},
+	"visible": {
+		"html/wdgcss/all-properties.html": [
+			4237
+		]
+	},
+	"vision": {
+		"html/wdgcss/all-properties.html": [
+			4981
+		]
+	},
+	"visited": {
+		"html/wdgcss/all-properties.html": [
+			2070,
+			4597
+		]
+	},
+	"way": {
+		"html/wdgcss/all-properties.html": [
+			1503
+		]
+	},
+	"ways": {
+		"html/wdgcss/all-properties.html": [
+			396,
+			5983
+		]
+	},
+	"weakness": {
+		"html/wdgcss/all-properties.html": [
+			730,
+			1558
+		]
+	},
+	"weight": {
+		"html/wdgcss/all-properties.html": [
+			141,
+			513,
+			516,
+			535,
+			542,
+			557,
+			589,
+			616,
+			623,
+			632,
+			639,
+			644,
+			650,
+			653,
+			932
+		]
+	},
+	"weights": {
+		"html/wdgcss/all-properties.html": [
+			565,
+			575,
+			579
+		]
+	},
+	"well": {
+		"html/wdgcss/all-properties.html": [
+			964
+		]
+	},
+	"western": {
+		"html/wdgcss/all-properties.html": [
+			190
+		]
+	},
+	"what": {
+		"html/wdgcss/all-properties.html": [
+			5262
+		]
+	},
+	"when": {
+		"html/wdgcss/all-properties.html": [
+			462,
+			1214,
+			1565,
+			2612,
+			5504
+		]
+	},
+	"whenever": {
+		"html/wdgcss/all-properties.html": [
+			1134
+		]
+	},
+	"where": {
+		"html/wdgcss/all-properties.html": [
+			3080,
+			3535,
+			4011,
+			5584,
+			5996,
+			6011,
+			6053,
+			6137
+		]
+	},
+	"whereas": {
+		"html/wdgcss/all-properties.html": [
+			879
+		]
+	},
+	"wherever": {
+		"html/wdgcss/all-properties.html": [
+			2709
+		]
+	},
+	"which": {
+		"html/wdgcss/all-properties.html": [
+			333,
+			791,
+			1155,
+			1241,
+			1337,
+			1415,
+			1484,
+			1749,
+			2136,
+			2167,
+			3680,
+			3690,
+			3764,
+			3774,
+			3848,
+			3858,
+			3932,
+			3942,
+			4720,
+			4746,
+			4849,
+			4875,
+			5104,
+			5111,
+			5283
+		]
+	},
+	"while": {
+		"html/wdgcss/all-properties.html": [
+			558,
+			1296
+		]
+	},
+	"white": {
+		"html/wdgcss/all-properties.html": [
+			1117,
+			1310,
+			1400,
+			1806,
+			5293,
+			5312,
+			5972
+		]
+	},
+	"whitespace": {
+		"html/wdgcss/all-properties.html": [
+			341,
+			5149,
+			5291,
+			6073
+		]
+	},
+	"width": {
+		"html/wdgcss/all-properties.html": [
+			2558,
+			2740,
+			2743,
+			2746,
+			2749,
+			2751,
+			2765,
+			2814,
+			2895,
+			2958,
+			3028,
+			3098,
+			3287,
+			3348,
+			3409,
+			3470,
+			3553,
+			3634,
+			3638,
+			3658,
+			3665,
+			3711,
+			3718,
+			3722,
+			3742,
+			3749,
+			3795,
+			3802,
+			3806,
+			3826,
+			3833,
+			3879,
+			3886,
+			3890,
+			3910,
+			3917,
+			3963,
+			3969,
+			3972,
+			3992,
+			4000,
+			4039,
+			4076,
+			4079,
+			4082,
+			4086,
+			4305,
+			4329,
+			4367,
+			4391,
+			4429,
+			4453,
+			4491,
+			4515,
+			4550,
+			4573,
+			4619,
+			4656,
+			4661,
+			4664,
+			4667,
+			4671,
+			4673,
+			4675,
+			4704,
+			4742,
+			4753,
+			4757,
+			4765,
+			4776,
+			4803,
+			4906,
+			4918,
+			4964
+		]
+	},
+	"widths": {
+		"html/wdgcss/all-properties.html": [
+			3697,
+			3781,
+			3865,
+			3949,
+			4790
+		]
+	},
+	"will": {
+		"html/wdgcss/all-properties.html": [
+			226,
+			595,
+			838,
+			1291,
+			1301,
+			1324,
+			1376,
+			1646,
+			1841,
+			1858,
+			1997,
+			2600,
+			4939,
+			5275,
+			5315,
+			5497,
+			5603,
+			5807
+		]
+	},
+	"windows": {
+		"html/wdgcss/all-properties.html": [
+			5955
+		]
+	},
+	"wish": {
+		"html/wdgcss/all-properties.html": [
+			6132
+		]
+	},
+	"with": {
+		"html/wdgcss/all-properties.html": [
+			345,
+			358,
+			406,
+			472,
+			605,
+			738,
+			981,
+			990,
+			1069,
+			1125,
+			1378,
+			1384,
+			1510,
+			1561,
+			1671,
+			1724,
+			1866,
+			2066,
+			2217,
+			2274,
+			2285,
+			2659,
+			2687,
+			4904,
+			4944,
+			5190,
+			5382,
+			5481,
+			5558,
+			5576,
+			5656,
+			6064,
+			6095
+		]
+	},
+	"within": {
+		"html/wdgcss/all-properties.html": [
+			5319
+		]
+	},
+	"without": {
+		"html/wdgcss/all-properties.html": [
+			47,
+			5349
+		]
+	},
+	"word": {
+		"html/wdgcss/all-properties.html": [
+			468,
+			1881,
+			1897,
+			1900,
+			1917,
+			1943,
+			1948,
+			2357,
+			2364,
+			2374
+		]
+	},
+	"words": {
+		"html/wdgcss/all-properties.html": [
+			1927
+		]
+	},
+	"would": {
+		"html/wdgcss/all-properties.html": [
+			505,
+			646,
+			757,
+			863,
+			872,
+			890,
+			2168,
+			2402,
+			2565,
+			2824,
+			5263
+		]
+	},
+	"wrap": {
+		"html/wdgcss/all-properties.html": [
+			5007,
+			5604
+		]
+	},
+	"wrapping": {
+		"html/wdgcss/all-properties.html": [
+			5348
+		]
+	},
+	"www": {
+		"html/wdgcss/all-properties.html": [
+			1209,
+			1809,
+			6149
+		]
+	},
+	"x": {
+		"html/wdgcss/all-properties.html": [
+			672,
+			677,
+			782,
+			1261,
+			1289,
+			1317,
+			2222,
+			2229,
+			2680,
+			5533,
+			5538,
+			5829,
+			5836,
+			5993,
+			5994,
+			5995,
+			5997,
+			6117
+		]
+	},
+	"xx": {
+		"html/wdgcss/all-properties.html": [
+			670,
+			679,
+			894
+		]
+	},
+	"y": {
+		"html/wdgcss/all-properties.html": [
+			1263,
+			1299,
+			6008,
+			6009,
+			6010,
+			6012
+		]
+	},
+	"yellow": {
+		"html/wdgcss/all-properties.html": [
+			5974
+		]
+	},
+	"yes": {
+		"html/wdgcss/all-properties.html": [
+			205,
+			381,
+			441,
+			532,
+			700,
+			948,
+			1031,
+			1915,
+			1969,
+			2336,
+			2442,
+			2512,
+			2595,
+			5310,
+			5388,
+			5487,
+			5564,
+			5662
+		]
+	},
+	"zapf": {
+		"html/wdgcss/all-properties.html": [
+			185
+		]
+	},
+	"zero": {
+		"html/wdgcss/all-properties.html": [
+			101
+		]
+	}
+}

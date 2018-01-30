@@ -1,0 +1,1493 @@
+{
+	"a": {
+		"html/birds/albatross.html": [
+			3
+		],
+		"html/birds/birds.html": [
+			3
+		],
+		"html/birds/blackbird.html": [
+			3
+		],
+		"html/birds/bluebird.html": [
+			3
+		],
+		"html/birds/cardinal.html": [
+			3
+		],
+		"html/birds/chickadee.html": [
+			3
+		],
+		"html/birds/crane.html": [
+			3
+		],
+		"html/birds/crow.html": [
+			3
+		],
+		"html/birds/cuckoo.html": [
+			3
+		],
+		"html/birds/dove.html": [
+			3
+		],
+		"html/birds/duck.html": [
+			3
+		],
+		"html/birds/eagle.html": [
+			3
+		],
+		"html/birds/egret.html": [
+			3
+		],
+		"html/birds/falcon.html": [
+			3
+		],
+		"html/birds/finch.html": [
+			3
+		],
+		"html/birds/goose.html": [
+			3
+		],
+		"html/birds/gull.html": [
+			3
+		],
+		"html/birds/hawk.html": [
+			3
+		],
+		"html/birds/heron.html": [
+			3
+		],
+		"html/birds/hummingbird.html": [
+			3
+		],
+		"html/birds/ibis.html": [
+			3
+		],
+		"html/birds/kingfisher.html": [
+			3
+		],
+		"html/birds/loon.html": [
+			3
+		],
+		"html/birds/magpie.html": [
+			3
+		],
+		"html/birds/mallard.html": [
+			3
+		],
+		"html/birds/meadowlark.html": [
+			3
+		],
+		"html/birds/mockingbird.html": [
+			3
+		],
+		"html/birds/nighthawk.html": [
+			3
+		],
+		"html/birds/osprey.html": [
+			3
+		],
+		"html/birds/owl.html": [
+			3
+		],
+		"html/birds/pelican.html": [
+			3
+		],
+		"html/birds/pheasant.html": [
+			3
+		],
+		"html/birds/pigeon.html": [
+			3
+		],
+		"html/birds/puffin.html": [
+			3
+		],
+		"html/birds/quail.html": [
+			3
+		],
+		"html/birds/raven.html": [
+			3
+		],
+		"html/birds/roadrunner.html": [
+			3
+		],
+		"html/birds/robin.html": [
+			3
+		],
+		"html/birds/sandpiper.html": [
+			3
+		],
+		"html/birds/sparrow.html": [
+			3
+		],
+		"html/birds/starling.html": [
+			3
+		],
+		"html/birds/stork.html": [
+			3
+		],
+		"html/birds/swallow.html": [
+			3
+		],
+		"html/birds/swan.html": [
+			3
+		],
+		"html/birds/tern.html": [
+			3
+		],
+		"html/birds/turkey.html": [
+			3
+		],
+		"html/birds/vulture.html": [
+			3
+		],
+		"html/birds/warbler.html": [
+			3
+		],
+		"html/birds/woodpecker.html": [
+			3
+		],
+		"html/birds/wren.html": [
+			3
+		],
+		"html/birds/yellowthroat.html": [
+			3
+		]
+	},
+	"albatross": {
+		"html/birds/albatross.html": [
+			1
+		],
+		"html/birds/birds.html": [
+			7
+		]
+	},
+	"bird": {
+		"html/birds/albatross.html": [
+			7
+		],
+		"html/birds/blackbird.html": [
+			7
+		],
+		"html/birds/bluebird.html": [
+			7
+		],
+		"html/birds/cardinal.html": [
+			7
+		],
+		"html/birds/chickadee.html": [
+			7
+		],
+		"html/birds/crane.html": [
+			7
+		],
+		"html/birds/crow.html": [
+			7
+		],
+		"html/birds/cuckoo.html": [
+			7
+		],
+		"html/birds/dove.html": [
+			7
+		],
+		"html/birds/duck.html": [
+			7
+		],
+		"html/birds/eagle.html": [
+			7
+		],
+		"html/birds/egret.html": [
+			7
+		],
+		"html/birds/falcon.html": [
+			7
+		],
+		"html/birds/finch.html": [
+			7
+		],
+		"html/birds/goose.html": [
+			7
+		],
+		"html/birds/gull.html": [
+			7
+		],
+		"html/birds/hawk.html": [
+			7
+		],
+		"html/birds/heron.html": [
+			7
+		],
+		"html/birds/hummingbird.html": [
+			7
+		],
+		"html/birds/ibis.html": [
+			7
+		],
+		"html/birds/kingfisher.html": [
+			7
+		],
+		"html/birds/loon.html": [
+			7
+		],
+		"html/birds/magpie.html": [
+			7
+		],
+		"html/birds/mallard.html": [
+			7
+		],
+		"html/birds/meadowlark.html": [
+			7
+		],
+		"html/birds/mockingbird.html": [
+			7
+		],
+		"html/birds/nighthawk.html": [
+			7
+		],
+		"html/birds/osprey.html": [
+			7
+		],
+		"html/birds/owl.html": [
+			7
+		],
+		"html/birds/pelican.html": [
+			7
+		],
+		"html/birds/pheasant.html": [
+			7
+		],
+		"html/birds/pigeon.html": [
+			7
+		],
+		"html/birds/puffin.html": [
+			7
+		],
+		"html/birds/quail.html": [
+			7
+		],
+		"html/birds/raven.html": [
+			7
+		],
+		"html/birds/roadrunner.html": [
+			7
+		],
+		"html/birds/robin.html": [
+			7
+		],
+		"html/birds/sandpiper.html": [
+			7
+		],
+		"html/birds/sparrow.html": [
+			7
+		],
+		"html/birds/starling.html": [
+			7
+		],
+		"html/birds/stork.html": [
+			7
+		],
+		"html/birds/swallow.html": [
+			7
+		],
+		"html/birds/swan.html": [
+			7
+		],
+		"html/birds/tern.html": [
+			7
+		],
+		"html/birds/turkey.html": [
+			7
+		],
+		"html/birds/vulture.html": [
+			7
+		],
+		"html/birds/warbler.html": [
+			7
+		],
+		"html/birds/woodpecker.html": [
+			7
+		],
+		"html/birds/wren.html": [
+			7
+		],
+		"html/birds/yellowthroat.html": [
+			7
+		]
+	},
+	"birds": {
+		"html/birds/birds.html": [
+			6
+		]
+	},
+	"blackbird": {
+		"html/birds/birds.html": [
+			8
+		],
+		"html/birds/blackbird.html": [
+			1
+		]
+	},
+	"bluebird": {
+		"html/birds/birds.html": [
+			9
+		],
+		"html/birds/bluebird.html": [
+			1
+		]
+	},
+	"cardinal": {
+		"html/birds/birds.html": [
+			10
+		],
+		"html/birds/cardinal.html": [
+			1
+		]
+	},
+	"chickadee": {
+		"html/birds/birds.html": [
+			11
+		],
+		"html/birds/chickadee.html": [
+			1
+		]
+	},
+	"common": {
+		"html/birds/albatross.html": [
+			4
+		],
+		"html/birds/blackbird.html": [
+			4
+		],
+		"html/birds/bluebird.html": [
+			4
+		],
+		"html/birds/cardinal.html": [
+			4
+		],
+		"html/birds/chickadee.html": [
+			4
+		],
+		"html/birds/crane.html": [
+			4
+		],
+		"html/birds/crow.html": [
+			4
+		],
+		"html/birds/cuckoo.html": [
+			4
+		],
+		"html/birds/dove.html": [
+			4
+		],
+		"html/birds/duck.html": [
+			4
+		],
+		"html/birds/eagle.html": [
+			4
+		],
+		"html/birds/egret.html": [
+			4
+		],
+		"html/birds/falcon.html": [
+			4
+		],
+		"html/birds/finch.html": [
+			4
+		],
+		"html/birds/goose.html": [
+			4
+		],
+		"html/birds/gull.html": [
+			4
+		],
+		"html/birds/hawk.html": [
+			4
+		],
+		"html/birds/heron.html": [
+			4
+		],
+		"html/birds/hummingbird.html": [
+			4
+		],
+		"html/birds/ibis.html": [
+			4
+		],
+		"html/birds/kingfisher.html": [
+			4
+		],
+		"html/birds/loon.html": [
+			4
+		],
+		"html/birds/magpie.html": [
+			4
+		],
+		"html/birds/mallard.html": [
+			4
+		],
+		"html/birds/meadowlark.html": [
+			4
+		],
+		"html/birds/mockingbird.html": [
+			4
+		],
+		"html/birds/nighthawk.html": [
+			4
+		],
+		"html/birds/osprey.html": [
+			4
+		],
+		"html/birds/owl.html": [
+			4
+		],
+		"html/birds/pelican.html": [
+			4
+		],
+		"html/birds/pheasant.html": [
+			4
+		],
+		"html/birds/pigeon.html": [
+			4
+		],
+		"html/birds/puffin.html": [
+			4
+		],
+		"html/birds/quail.html": [
+			4
+		],
+		"html/birds/raven.html": [
+			4
+		],
+		"html/birds/roadrunner.html": [
+			4
+		],
+		"html/birds/robin.html": [
+			4
+		],
+		"html/birds/sandpiper.html": [
+			4
+		],
+		"html/birds/sparrow.html": [
+			4
+		],
+		"html/birds/starling.html": [
+			4
+		],
+		"html/birds/stork.html": [
+			4
+		],
+		"html/birds/swallow.html": [
+			4
+		],
+		"html/birds/swan.html": [
+			4
+		],
+		"html/birds/tern.html": [
+			4
+		],
+		"html/birds/turkey.html": [
+			4
+		],
+		"html/birds/vulture.html": [
+			4
+		],
+		"html/birds/warbler.html": [
+			4
+		],
+		"html/birds/woodpecker.html": [
+			4
+		],
+		"html/birds/wren.html": [
+			4
+		],
+		"html/birds/yellowthroat.html": [
+			4
+		]
+	},
+	"crane": {
+		"html/birds/birds.html": [
+			12
+		],
+		"html/birds/crane.html": [
+			1
+		]
+	},
+	"crow": {
+		"html/birds/birds.html": [
+			13
+		],
+		"html/birds/crow.html": [
+			1
+		]
+	},
+	"cuckoo": {
+		"html/birds/birds.html": [
+			14
+		],
+		"html/birds/cuckoo.html": [
+			1
+		]
+	},
+	"dove": {
+		"html/birds/birds.html": [
+			15
+		],
+		"html/birds/dove.html": [
+			1
+		]
+	},
+	"duck": {
+		"html/birds/birds.html": [
+			16
+		],
+		"html/birds/duck.html": [
+			1
+		]
+	},
+	"eagle": {
+		"html/birds/birds.html": [
+			17
+		],
+		"html/birds/eagle.html": [
+			1
+		]
+	},
+	"egret": {
+		"html/birds/birds.html": [
+			18
+		],
+		"html/birds/egret.html": [
+			1
+		]
+	},
+	"falcon": {
+		"html/birds/birds.html": [
+			19
+		],
+		"html/birds/falcon.html": [
+			1
+		]
+	},
+	"finch": {
+		"html/birds/birds.html": [
+			20
+		],
+		"html/birds/finch.html": [
+			1
+		]
+	},
+	"goose": {
+		"html/birds/birds.html": [
+			21
+		],
+		"html/birds/goose.html": [
+			1
+		]
+	},
+	"gull": {
+		"html/birds/birds.html": [
+			22
+		],
+		"html/birds/gull.html": [
+			1
+		]
+	},
+	"hawk": {
+		"html/birds/birds.html": [
+			23
+		],
+		"html/birds/hawk.html": [
+			1
+		]
+	},
+	"here": {
+		"html/birds/birds.html": [
+			1
+		]
+	},
+	"heron": {
+		"html/birds/birds.html": [
+			24
+		],
+		"html/birds/heron.html": [
+			1
+		]
+	},
+	"home": {
+		"html/birds/albatross.html": [
+			8
+		],
+		"html/birds/birds.html": [
+			57
+		],
+		"html/birds/blackbird.html": [
+			8
+		],
+		"html/birds/bluebird.html": [
+			8
+		],
+		"html/birds/cardinal.html": [
+			8
+		],
+		"html/birds/chickadee.html": [
+			8
+		],
+		"html/birds/crane.html": [
+			8
+		],
+		"html/birds/crow.html": [
+			8
+		],
+		"html/birds/cuckoo.html": [
+			8
+		],
+		"html/birds/dove.html": [
+			8
+		],
+		"html/birds/duck.html": [
+			8
+		],
+		"html/birds/eagle.html": [
+			8
+		],
+		"html/birds/egret.html": [
+			8
+		],
+		"html/birds/falcon.html": [
+			8
+		],
+		"html/birds/finch.html": [
+			8
+		],
+		"html/birds/goose.html": [
+			8
+		],
+		"html/birds/gull.html": [
+			8
+		],
+		"html/birds/hawk.html": [
+			8
+		],
+		"html/birds/heron.html": [
+			8
+		],
+		"html/birds/hummingbird.html": [
+			8
+		],
+		"html/birds/ibis.html": [
+			8
+		],
+		"html/birds/kingfisher.html": [
+			8
+		],
+		"html/birds/loon.html": [
+			8
+		],
+		"html/birds/magpie.html": [
+			8
+		],
+		"html/birds/mallard.html": [
+			8
+		],
+		"html/birds/meadowlark.html": [
+			8
+		],
+		"html/birds/mockingbird.html": [
+			8
+		],
+		"html/birds/nighthawk.html": [
+			8
+		],
+		"html/birds/osprey.html": [
+			8
+		],
+		"html/birds/owl.html": [
+			8
+		],
+		"html/birds/pelican.html": [
+			8
+		],
+		"html/birds/pheasant.html": [
+			8
+		],
+		"html/birds/pigeon.html": [
+			8
+		],
+		"html/birds/puffin.html": [
+			8
+		],
+		"html/birds/quail.html": [
+			8
+		],
+		"html/birds/raven.html": [
+			8
+		],
+		"html/birds/roadrunner.html": [
+			8
+		],
+		"html/birds/robin.html": [
+			8
+		],
+		"html/birds/sandpiper.html": [
+			8
+		],
+		"html/birds/sparrow.html": [
+			8
+		],
+		"html/birds/starling.html": [
+			8
+		],
+		"html/birds/stork.html": [
+			8
+		],
+		"html/birds/swallow.html": [
+			8
+		],
+		"html/birds/swan.html": [
+			8
+		],
+		"html/birds/tern.html": [
+			8
+		],
+		"html/birds/turkey.html": [
+			8
+		],
+		"html/birds/vulture.html": [
+			8
+		],
+		"html/birds/warbler.html": [
+			8
+		],
+		"html/birds/woodpecker.html": [
+			8
+		],
+		"html/birds/wren.html": [
+			8
+		],
+		"html/birds/yellowthroat.html": [
+			8
+		]
+	},
+	"hummingbird": {
+		"html/birds/birds.html": [
+			25
+		],
+		"html/birds/hummingbird.html": [
+			1
+		]
+	},
+	"ibis": {
+		"html/birds/birds.html": [
+			26
+		],
+		"html/birds/ibis.html": [
+			1
+		]
+	},
+	"is": {
+		"html/birds/albatross.html": [
+			2
+		],
+		"html/birds/birds.html": [
+			2
+		],
+		"html/birds/blackbird.html": [
+			2
+		],
+		"html/birds/bluebird.html": [
+			2
+		],
+		"html/birds/cardinal.html": [
+			2
+		],
+		"html/birds/chickadee.html": [
+			2
+		],
+		"html/birds/crane.html": [
+			2
+		],
+		"html/birds/crow.html": [
+			2
+		],
+		"html/birds/cuckoo.html": [
+			2
+		],
+		"html/birds/dove.html": [
+			2
+		],
+		"html/birds/duck.html": [
+			2
+		],
+		"html/birds/eagle.html": [
+			2
+		],
+		"html/birds/egret.html": [
+			2
+		],
+		"html/birds/falcon.html": [
+			2
+		],
+		"html/birds/finch.html": [
+			2
+		],
+		"html/birds/goose.html": [
+			2
+		],
+		"html/birds/gull.html": [
+			2
+		],
+		"html/birds/hawk.html": [
+			2
+		],
+		"html/birds/heron.html": [
+			2
+		],
+		"html/birds/hummingbird.html": [
+			2
+		],
+		"html/birds/ibis.html": [
+			2
+		],
+		"html/birds/kingfisher.html": [
+			2
+		],
+		"html/birds/loon.html": [
+			2
+		],
+		"html/birds/magpie.html": [
+			2
+		],
+		"html/birds/mallard.html": [
+			2
+		],
+		"html/birds/meadowlark.html": [
+			2
+		],
+		"html/birds/mockingbird.html": [
+			2
+		],
+		"html/birds/nighthawk.html": [
+			2
+		],
+		"html/birds/osprey.html": [
+			2
+		],
+		"html/birds/owl.html": [
+			2
+		],
+		"html/birds/pelican.html": [
+			2
+		],
+		"html/birds/pheasant.html": [
+			2
+		],
+		"html/birds/pigeon.html": [
+			2
+		],
+		"html/birds/puffin.html": [
+			2
+		],
+		"html/birds/quail.html": [
+			2
+		],
+		"html/birds/raven.html": [
+			2
+		],
+		"html/birds/roadrunner.html": [
+			2
+		],
+		"html/birds/robin.html": [
+			2
+		],
+		"html/birds/sandpiper.html": [
+			2
+		],
+		"html/birds/sparrow.html": [
+			2
+		],
+		"html/birds/starling.html": [
+			2
+		],
+		"html/birds/stork.html": [
+			2
+		],
+		"html/birds/swallow.html": [
+			2
+		],
+		"html/birds/swan.html": [
+			2
+		],
+		"html/birds/tern.html": [
+			2
+		],
+		"html/birds/turkey.html": [
+			2
+		],
+		"html/birds/vulture.html": [
+			2
+		],
+		"html/birds/warbler.html": [
+			2
+		],
+		"html/birds/woodpecker.html": [
+			2
+		],
+		"html/birds/wren.html": [
+			2
+		],
+		"html/birds/yellowthroat.html": [
+			2
+		]
+	},
+	"kingfisher": {
+		"html/birds/birds.html": [
+			27
+		],
+		"html/birds/kingfisher.html": [
+			1
+		]
+	},
+	"list": {
+		"html/birds/birds.html": [
+			4
+		]
+	},
+	"loon": {
+		"html/birds/birds.html": [
+			28
+		],
+		"html/birds/loon.html": [
+			1
+		]
+	},
+	"magpie": {
+		"html/birds/birds.html": [
+			29
+		],
+		"html/birds/magpie.html": [
+			1
+		]
+	},
+	"mallard": {
+		"html/birds/birds.html": [
+			30
+		],
+		"html/birds/mallard.html": [
+			1
+		]
+	},
+	"meadowlark": {
+		"html/birds/birds.html": [
+			31
+		],
+		"html/birds/meadowlark.html": [
+			1
+		]
+	},
+	"mockingbird": {
+		"html/birds/birds.html": [
+			32
+		],
+		"html/birds/mockingbird.html": [
+			1
+		]
+	},
+	"nighthawk": {
+		"html/birds/birds.html": [
+			33
+		],
+		"html/birds/nighthawk.html": [
+			1
+		]
+	},
+	"of": {
+		"html/birds/albatross.html": [
+			6
+		],
+		"html/birds/birds.html": [
+			5
+		],
+		"html/birds/blackbird.html": [
+			6
+		],
+		"html/birds/bluebird.html": [
+			6
+		],
+		"html/birds/cardinal.html": [
+			6
+		],
+		"html/birds/chickadee.html": [
+			6
+		],
+		"html/birds/crane.html": [
+			6
+		],
+		"html/birds/crow.html": [
+			6
+		],
+		"html/birds/cuckoo.html": [
+			6
+		],
+		"html/birds/dove.html": [
+			6
+		],
+		"html/birds/duck.html": [
+			6
+		],
+		"html/birds/eagle.html": [
+			6
+		],
+		"html/birds/egret.html": [
+			6
+		],
+		"html/birds/falcon.html": [
+			6
+		],
+		"html/birds/finch.html": [
+			6
+		],
+		"html/birds/goose.html": [
+			6
+		],
+		"html/birds/gull.html": [
+			6
+		],
+		"html/birds/hawk.html": [
+			6
+		],
+		"html/birds/heron.html": [
+			6
+		],
+		"html/birds/hummingbird.html": [
+			6
+		],
+		"html/birds/ibis.html": [
+			6
+		],
+		"html/birds/kingfisher.html": [
+			6
+		],
+		"html/birds/loon.html": [
+			6
+		],
+		"html/birds/magpie.html": [
+			6
+		],
+		"html/birds/mallard.html": [
+			6
+		],
+		"html/birds/meadowlark.html": [
+			6
+		],
+		"html/birds/mockingbird.html": [
+			6
+		],
+		"html/birds/nighthawk.html": [
+			6
+		],
+		"html/birds/osprey.html": [
+			6
+		],
+		"html/birds/owl.html": [
+			6
+		],
+		"html/birds/pelican.html": [
+			6
+		],
+		"html/birds/pheasant.html": [
+			6
+		],
+		"html/birds/pigeon.html": [
+			6
+		],
+		"html/birds/puffin.html": [
+			6
+		],
+		"html/birds/quail.html": [
+			6
+		],
+		"html/birds/raven.html": [
+			6
+		],
+		"html/birds/roadrunner.html": [
+			6
+		],
+		"html/birds/robin.html": [
+			6
+		],
+		"html/birds/sandpiper.html": [
+			6
+		],
+		"html/birds/sparrow.html": [
+			6
+		],
+		"html/birds/starling.html": [
+			6
+		],
+		"html/birds/stork.html": [
+			6
+		],
+		"html/birds/swallow.html": [
+			6
+		],
+		"html/birds/swan.html": [
+			6
+		],
+		"html/birds/tern.html": [
+			6
+		],
+		"html/birds/turkey.html": [
+			6
+		],
+		"html/birds/vulture.html": [
+			6
+		],
+		"html/birds/warbler.html": [
+			6
+		],
+		"html/birds/woodpecker.html": [
+			6
+		],
+		"html/birds/wren.html": [
+			6
+		],
+		"html/birds/yellowthroat.html": [
+			6
+		]
+	},
+	"osprey": {
+		"html/birds/birds.html": [
+			34
+		],
+		"html/birds/osprey.html": [
+			1
+		]
+	},
+	"owl": {
+		"html/birds/birds.html": [
+			35
+		],
+		"html/birds/owl.html": [
+			1
+		]
+	},
+	"pelican": {
+		"html/birds/birds.html": [
+			36
+		],
+		"html/birds/pelican.html": [
+			1
+		]
+	},
+	"pheasant": {
+		"html/birds/birds.html": [
+			37
+		],
+		"html/birds/pheasant.html": [
+			1
+		]
+	},
+	"pigeon": {
+		"html/birds/birds.html": [
+			38
+		],
+		"html/birds/pigeon.html": [
+			1
+		]
+	},
+	"puffin": {
+		"html/birds/birds.html": [
+			39
+		],
+		"html/birds/puffin.html": [
+			1
+		]
+	},
+	"quail": {
+		"html/birds/birds.html": [
+			40
+		],
+		"html/birds/quail.html": [
+			1
+		]
+	},
+	"raven": {
+		"html/birds/birds.html": [
+			41
+		],
+		"html/birds/raven.html": [
+			1
+		]
+	},
+	"roadrunner": {
+		"html/birds/birds.html": [
+			42
+		],
+		"html/birds/roadrunner.html": [
+			1
+		]
+	},
+	"robin": {
+		"html/birds/birds.html": [
+			43
+		],
+		"html/birds/robin.html": [
+			1
+		]
+	},
+	"sandpiper": {
+		"html/birds/birds.html": [
+			44
+		],
+		"html/birds/sandpiper.html": [
+			1
+		]
+	},
+	"sparrow": {
+		"html/birds/birds.html": [
+			45
+		],
+		"html/birds/sparrow.html": [
+			1
+		]
+	},
+	"starling": {
+		"html/birds/birds.html": [
+			46
+		],
+		"html/birds/starling.html": [
+			1
+		]
+	},
+	"stork": {
+		"html/birds/birds.html": [
+			47
+		],
+		"html/birds/stork.html": [
+			1
+		]
+	},
+	"swallow": {
+		"html/birds/birds.html": [
+			48
+		],
+		"html/birds/swallow.html": [
+			1
+		]
+	},
+	"swan": {
+		"html/birds/birds.html": [
+			49
+		],
+		"html/birds/swan.html": [
+			1
+		]
+	},
+	"tern": {
+		"html/birds/birds.html": [
+			50
+		],
+		"html/birds/tern.html": [
+			1
+		]
+	},
+	"turkey": {
+		"html/birds/birds.html": [
+			51
+		],
+		"html/birds/turkey.html": [
+			1
+		]
+	},
+	"type": {
+		"html/birds/albatross.html": [
+			5
+		],
+		"html/birds/blackbird.html": [
+			5
+		],
+		"html/birds/bluebird.html": [
+			5
+		],
+		"html/birds/cardinal.html": [
+			5
+		],
+		"html/birds/chickadee.html": [
+			5
+		],
+		"html/birds/crane.html": [
+			5
+		],
+		"html/birds/crow.html": [
+			5
+		],
+		"html/birds/cuckoo.html": [
+			5
+		],
+		"html/birds/dove.html": [
+			5
+		],
+		"html/birds/duck.html": [
+			5
+		],
+		"html/birds/eagle.html": [
+			5
+		],
+		"html/birds/egret.html": [
+			5
+		],
+		"html/birds/falcon.html": [
+			5
+		],
+		"html/birds/finch.html": [
+			5
+		],
+		"html/birds/goose.html": [
+			5
+		],
+		"html/birds/gull.html": [
+			5
+		],
+		"html/birds/hawk.html": [
+			5
+		],
+		"html/birds/heron.html": [
+			5
+		],
+		"html/birds/hummingbird.html": [
+			5
+		],
+		"html/birds/ibis.html": [
+			5
+		],
+		"html/birds/kingfisher.html": [
+			5
+		],
+		"html/birds/loon.html": [
+			5
+		],
+		"html/birds/magpie.html": [
+			5
+		],
+		"html/birds/mallard.html": [
+			5
+		],
+		"html/birds/meadowlark.html": [
+			5
+		],
+		"html/birds/mockingbird.html": [
+			5
+		],
+		"html/birds/nighthawk.html": [
+			5
+		],
+		"html/birds/osprey.html": [
+			5
+		],
+		"html/birds/owl.html": [
+			5
+		],
+		"html/birds/pelican.html": [
+			5
+		],
+		"html/birds/pheasant.html": [
+			5
+		],
+		"html/birds/pigeon.html": [
+			5
+		],
+		"html/birds/puffin.html": [
+			5
+		],
+		"html/birds/quail.html": [
+			5
+		],
+		"html/birds/raven.html": [
+			5
+		],
+		"html/birds/roadrunner.html": [
+			5
+		],
+		"html/birds/robin.html": [
+			5
+		],
+		"html/birds/sandpiper.html": [
+			5
+		],
+		"html/birds/sparrow.html": [
+			5
+		],
+		"html/birds/starling.html": [
+			5
+		],
+		"html/birds/stork.html": [
+			5
+		],
+		"html/birds/swallow.html": [
+			5
+		],
+		"html/birds/swan.html": [
+			5
+		],
+		"html/birds/tern.html": [
+			5
+		],
+		"html/birds/turkey.html": [
+			5
+		],
+		"html/birds/vulture.html": [
+			5
+		],
+		"html/birds/warbler.html": [
+			5
+		],
+		"html/birds/woodpecker.html": [
+			5
+		],
+		"html/birds/wren.html": [
+			5
+		],
+		"html/birds/yellowthroat.html": [
+			5
+		]
+	},
+	"vulture": {
+		"html/birds/birds.html": [
+			52
+		],
+		"html/birds/vulture.html": [
+			1
+		]
+	},
+	"warbler": {
+		"html/birds/birds.html": [
+			53
+		],
+		"html/birds/warbler.html": [
+			1
+		]
+	},
+	"woodpecker": {
+		"html/birds/birds.html": [
+			54
+		],
+		"html/birds/woodpecker.html": [
+			1
+		]
+	},
+	"wren": {
+		"html/birds/birds.html": [
+			55
+		],
+		"html/birds/wren.html": [
+			1
+		]
+	},
+	"yellowthroat": {
+		"html/birds/birds.html": [
+			56
+		],
+		"html/birds/yellowthroat.html": [
+			1
+		]
+	}
+}

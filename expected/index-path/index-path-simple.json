@@ -1,0 +1,173 @@
+{
+	"aardvark": {
+		"html/simple/capital_extension.HTML": [
+			1
+		],
+		"html/simple/index.html": [
+			2
+		]
+	},
+	"alpaca": {
+		"html/simple/a/b/c/subdir.html": [
+			1
+		],
+		"html/simple/index.html": [
+			1
+		]
+	},
+	"antelope": {
+		"html/simple/index.html": [
+			7
+		],
+		"html/simple/symbols.html": [
+			1,
+			2,
+			3,
+			4,
+			5
+		]
+	},
+	"antelöpé": {
+		"html/simple/symbols.html": [
+			6
+		]
+	},
+	"eight": {
+		"html/simple/position.html": [
+			8
+		]
+	},
+	"eighteen": {
+		"html/simple/position.html": [
+			18
+		]
+	},
+	"elephant": {
+		"html/simple/index.html": [
+			5
+		],
+		"html/simple/mixed_case.htm": [
+			1,
+			2,
+			3,
+			4
+		]
+	},
+	"eleven": {
+		"html/simple/position.html": [
+			11
+		]
+	},
+	"empty": {
+		"html/simple/index.html": [
+			3
+		]
+	},
+	"fifteen": {
+		"html/simple/position.html": [
+			15
+		]
+	},
+	"five": {
+		"html/simple/position.html": [
+			5
+		]
+	},
+	"four": {
+		"html/simple/index.html": [
+			6
+		],
+		"html/simple/position.html": [
+			4
+		]
+	},
+	"fourteen": {
+		"html/simple/position.html": [
+			14
+		]
+	},
+	"hello": {
+		"html/simple/hello.html": [
+			1,
+			3,
+			5,
+			7
+		],
+		"html/simple/index.html": [
+			4
+		]
+	},
+	"nine": {
+		"html/simple/position.html": [
+			9
+		]
+	},
+	"nineteen": {
+		"html/simple/position.html": [
+			19
+		]
+	},
+	"one": {
+		"html/simple/position.html": [
+			1
+		]
+	},
+	"seven": {
+		"html/simple/position.html": [
+			7
+		]
+	},
+	"seventeen": {
+		"html/simple/position.html": [
+			17
+		]
+	},
+	"six": {
+		"html/simple/position.html": [
+			6
+		]
+	},
+	"sixteen": {
+		"html/simple/position.html": [
+			16
+		]
+	},
+	"ten": {
+		"html/simple/position.html": [
+			10
+		]
+	},
+	"thirteen": {
+		"html/simple/position.html": [
+			13
+		]
+	},
+	"three": {
+		"html/simple/position.html": [
+			3
+		]
+	},
+	"twelve": {
+		"html/simple/position.html": [
+			12
+		]
+	},
+	"twenty": {
+		"html/simple/position.html": [
+			20
+		]
+	},
+	"two": {
+		"html/simple/position.html": [
+			2
+		]
+	},
+	"world": {
+		"html/simple/hello.html": [
+			2,
+			4,
+			6,
+			8
+		]
+	}
+}

@@ -1,0 +1,287 @@
+[
+	{
+		"queries": "albatross yellowthroat",
+		"results": [
+			{
+				"where": "html/birds/birds.html",
+				"count": 2,
+				"index": 7
+			},
+			{
+				"where": "html/birds/albatross.html",
+				"count": 1,
+				"index": 1
+			},
+			{
+				"where": "html/birds/yellowthroat.html",
+				"count": 1,
+				"index": 1
+			}
+		]
+	},
+	{
+		"queries": "bird",
+		"results": [
+			{
+				"where": "html/birds/albatross.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/blackbird.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/bluebird.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/cardinal.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/chickadee.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/crane.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/crow.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/cuckoo.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/dove.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/duck.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/eagle.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/egret.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/falcon.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/finch.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/goose.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/gull.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/hawk.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/heron.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/hummingbird.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/ibis.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/kingfisher.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/loon.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/magpie.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/mallard.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/meadowlark.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/mockingbird.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/nighthawk.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/osprey.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/owl.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/pelican.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/pheasant.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/pigeon.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/puffin.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/quail.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/raven.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/roadrunner.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/robin.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/sandpiper.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/sparrow.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/starling.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/stork.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/swallow.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/swan.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/tern.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/turkey.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/vulture.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/warbler.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/woodpecker.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/wren.html",
+				"count": 1,
+				"index": 7
+			},
+			{
+				"where": "html/birds/yellowthroat.html",
+				"count": 1,
+				"index": 7
+			}
+		]
+	},
+	{
+		"queries": "her",
+		"results": [
+		]
+	},
+	{
+		"queries": "st sw",
+		"results": [
+		]
+	}
+]
