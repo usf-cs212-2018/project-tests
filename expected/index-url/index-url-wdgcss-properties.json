@@ -1,49 +1,49 @@
 {
 	"a": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			9
 		]
 	},
 	"alignment": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			56,
 			60
 		]
 	},
 	"all": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			158
 		]
 	},
 	"also": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			6
 		]
 	},
 	"and": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			32,
 			143,
 			155
 		]
 	},
 	"as": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			8
 		]
 	},
 	"attachment": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			43
 		]
 	},
 	"available": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			7
 		]
 	},
 	"background": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			33,
 			36,
 			38,
@@ -54,7 +54,7 @@
 		]
 	},
 	"border": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			86,
 			89,
 			92,
@@ -70,7 +70,7 @@
 		]
 	},
 	"bottom": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			71,
 			80,
 			91,
@@ -78,27 +78,27 @@
 		]
 	},
 	"box": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			65
 		]
 	},
 	"by": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			140
 		]
 	},
 	"classification": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			116
 		]
 	},
 	"clear": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			115
 		]
 	},
 	"color": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			31,
 			35,
 			37,
@@ -107,12 +107,12 @@
 		]
 	},
 	"copyright": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			152
 		]
 	},
 	"css": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			1,
 			146,
 			148,
@@ -120,37 +120,37 @@
 		]
 	},
 	"decoration": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			54
 		]
 	},
 	"definitions": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			17
 		]
 	},
 	"display": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			118
 		]
 	},
 	"document": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			11
 		]
 	},
 	"family": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			21
 		]
 	},
 	"float": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			114
 		]
 	},
 	"font": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			18,
 			20,
 			22,
@@ -161,50 +161,50 @@
 		]
 	},
 	"height": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			64,
 			113
 		]
 	},
 	"image": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			39,
 			125
 		]
 	},
 	"in": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			15
 		]
 	},
 	"indentation": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			62
 		]
 	},
 	"index": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			147
 		]
 	},
 	"is": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			5
 		]
 	},
 	"john": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			141,
 			153
 		]
 	},
 	"kb": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			12
 		]
 	},
 	"left": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			73,
 			82,
 			94,
@@ -212,28 +212,28 @@
 		]
 	},
 	"length": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			132
 		]
 	},
 	"letter": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			51
 		]
 	},
 	"liam": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			144,
 			156
 		]
 	},
 	"line": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			63
 		]
 	},
 	"list": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			120,
 			123,
 			126,
@@ -241,12 +241,12 @@
 		]
 	},
 	"maintained": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			139
 		]
 	},
 	"margin": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			68,
 			70,
 			72,
@@ -255,7 +255,7 @@
 		]
 	},
 	"padding": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			77,
 			79,
 			81,
@@ -264,24 +264,24 @@
 		]
 	},
 	"percentage": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			134
 		]
 	},
 	"position": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			45,
 			128
 		]
 	},
 	"pozadzides": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			142,
 			154
 		]
 	},
 	"properties": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			2,
 			19,
 			34,
@@ -292,28 +292,28 @@
 		]
 	},
 	"property": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			16
 		]
 	},
 	"quinn": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			145,
 			157
 		]
 	},
 	"repeat": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			41
 		]
 	},
 	"reserved": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			160
 		]
 	},
 	"right": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			69,
 			78,
 			88,
@@ -321,38 +321,38 @@
 		]
 	},
 	"rights": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			159
 		]
 	},
 	"section": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			4
 		]
 	},
 	"single": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			10
 		]
 	},
 	"size": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			29
 		]
 	},
 	"spacing": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			50,
 			52
 		]
 	},
 	"structure": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			149
 		]
 	},
 	"style": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			23,
 			102,
 			121,
@@ -362,12 +362,12 @@
 		]
 	},
 	"syntax": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			13
 		]
 	},
 	"text": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			47,
 			53,
 			57,
@@ -376,12 +376,12 @@
 		]
 	},
 	"this": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			3
 		]
 	},
 	"top": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			67,
 			76,
 			85,
@@ -389,17 +389,17 @@
 		]
 	},
 	"transformation": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			58
 		]
 	},
 	"type": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			122
 		]
 	},
 	"units": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			131,
 			133,
 			135,
@@ -407,37 +407,37 @@
 		]
 	},
 	"urls": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			138
 		]
 	},
 	"used": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			14
 		]
 	},
 	"variant": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			25
 		]
 	},
 	"vertical": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			55
 		]
 	},
 	"weight": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			27
 		]
 	},
 	"whitespace": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			119
 		]
 	},
 	"width": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			87,
 			90,
 			93,
@@ -447,7 +447,7 @@
 		]
 	},
 	"word": {
-		"http://cs.usfca.edu/~cs212/wdgcss/properties.html": [
+		"http://vis.cs.ucdavis.edu/~cjbryan/cs212/wdgcss/properties.html": [
 			49
 		]
 	}

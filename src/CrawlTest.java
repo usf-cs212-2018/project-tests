@@ -12,9 +12,14 @@ import org.junit.runners.MethodSorters;
 @RunWith(Enclosed.class)
 public class CrawlTest extends ProjectTest {
 
+	// Old server - http://cs.usfca.edu/~cs212/
+	// New server - http://vis.cs.ucdavis.edu/~cjbryan/cs212/
+	private static final String serverPath = "http://vis.cs.ucdavis.edu/~cjbryan/cs212/";
+	
 	@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 	public static class IndexTest {
 
+		
 		/**
 		 * Test helper method. Sets up the input, actual, and expected paths,
 		 * and then sets up the arguments to send to the
@@ -39,52 +44,52 @@ public class CrawlTest extends ProjectTest {
 
 		@Test
 		public void test01Hello() throws MalformedURLException {
-			test("hello", "http://cs.usfca.edu/~cs212/simple/hello.html", 1);
+			test("hello", serverPath + "simple/hello.html", 1);
 		}
 
 		@Test
 		public void test02Simple() throws MalformedURLException {
-			test("simple", "http://cs.usfca.edu/~cs212/simple/index.html", 10);
+			test("simple", serverPath + "simple/index.html", 10);
 		}
 
 		@Test
 		public void test03Birds() throws MalformedURLException {
-			test("birds", "http://cs.usfca.edu/~cs212/birds/birds.html", 50);
+			test("birds", serverPath + "birds/birds.html", 50);
 		}
 
 		@Test
 		public void test04Recurse() throws MalformedURLException {
-			test("recurse", "http://cs.usfca.edu/~cs212/recurse/link01.html", 100);
+			test("recurse", serverPath + "recurse/link01.html", 100);
 		}
 
 		@Test
 		public void test05SecondVariety() throws MalformedURLException {
-			test("gutenberg-32032", "http://cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm", 1);
+			test("gutenberg-32032", serverPath + "gutenberg/32032-h/32032-h.htm", 1);
 		}
 
 		@Test
 		public void test06Gutenberg() throws MalformedURLException {
-			test("gutenberg", "http://cs.usfca.edu/~cs212/gutenberg/", 5);
+			test("gutenberg", serverPath + "gutenberg/", 5);
 		}
 
 		@Test
 		public void test07CSSProperties() throws MalformedURLException {
-			test("wdgcss-properties", "http://cs.usfca.edu/~cs212/wdgcss/properties.html", 1);
+			test("wdgcss-properties", serverPath + "wdgcss/properties.html", 1);
 		}
 
 		@Test
 		public void test08CSS() throws MalformedURLException {
-			test("wdgcss", "http://cs.usfca.edu/~cs212/wdgcss/properties.html", 60);
+			test("wdgcss", serverPath + "wdgcss/properties.html", 60);
 		}
 
 		@Test
 		public void test09NumpyQuick() throws MalformedURLException {
-			test("numpy-quick", "http://cs.usfca.edu/~cs212/numpy/user/quickstart.html", 1);
+			test("numpy-quick", serverPath + "numpy/user/quickstart.html", 1);
 		}
 
 		@Test
 		public void test10Numpy() throws MalformedURLException {
-			test("numpy", "http://cs.usfca.edu/~cs212/numpy/user/index.html", 10);
+			test("numpy", serverPath + "numpy/user/index.html", 10);
 		}
 	}
 
@@ -120,27 +125,27 @@ public class CrawlTest extends ProjectTest {
 
 		@Test
 		public void test01Simple() throws MalformedURLException {
-			test("simple", "http://cs.usfca.edu/~cs212/simple/index.html", "simple.txt", 10);
+			test("simple", serverPath + "simple/index.html", "simple.txt", 10);
 		}
 
 		@Test
 		public void test02Birds() throws MalformedURLException {
-			test("birds", "http://cs.usfca.edu/~cs212/birds/birds.html", "birds.txt", 50);
+			test("birds", serverPath + "birds/birds.html", "birds.txt", 50);
 		}
 
 		@Test
 		public void test03Gutenberg() throws MalformedURLException {
-			test("gutenberg", "http://cs.usfca.edu/~cs212/gutenberg/", "gutenberg.txt", 5);
+			test("gutenberg", serverPath + "gutenberg/", "gutenberg.txt", 5);
 		}
 
 		@Test
 		public void test04CSS() throws MalformedURLException {
-			test("wdgcss", "http://cs.usfca.edu/~cs212/wdgcss/properties.html", "letters.txt", 60);
+			test("wdgcss", serverPath + "wdgcss/properties.html", "letters.txt", 60);
 		}
 
 		@Test
 		public void test05Numpy() throws MalformedURLException {
-			test("numpy", "http://cs.usfca.edu/~cs212/numpy/user/index.html", "letters.txt", 10);
+			test("numpy", serverPath + "numpy/user/index.html", "letters.txt", 10);
 		}
 	}
 }

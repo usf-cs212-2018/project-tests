@@ -3,12 +3,12 @@
 		"queries": "albatross yellowthroat",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/birds.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/birds.html",
 				"count": 2,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/albatross.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/albatross.html",
 				"count": 1,
 				"index": 1
 			}
@@ -18,252 +18,252 @@
 		"queries": "bird",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/birds.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/birds.html",
 				"count": 1,
 				"index": 6
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/albatross.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/albatross.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/blackbird.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/blackbird.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/bluebird.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/bluebird.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/cardinal.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/cardinal.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/chickadee.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/chickadee.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/crane.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/crane.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/crow.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/crow.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/cuckoo.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/cuckoo.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/dove.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/dove.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/duck.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/duck.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/eagle.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/eagle.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/egret.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/egret.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/falcon.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/falcon.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/finch.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/finch.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/goose.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/goose.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/gull.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/gull.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/hawk.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/hawk.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/heron.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/heron.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/hummingbird.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/hummingbird.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/ibis.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/ibis.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/kingfisher.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/kingfisher.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/loon.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/loon.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/magpie.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/magpie.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/mallard.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/mallard.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/meadowlark.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/meadowlark.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/mockingbird.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/mockingbird.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/nighthawk.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/nighthawk.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/osprey.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/osprey.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/owl.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/owl.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/pelican.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/pelican.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/pheasant.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/pheasant.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/pigeon.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/pigeon.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/puffin.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/puffin.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/quail.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/quail.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/raven.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/raven.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/roadrunner.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/roadrunner.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/robin.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/robin.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/sandpiper.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/sandpiper.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/sparrow.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/sparrow.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/starling.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/starling.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/stork.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/stork.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/swallow.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/swallow.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/swan.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/swan.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/tern.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/tern.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/turkey.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/turkey.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/vulture.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/vulture.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/warbler.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/warbler.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/woodpecker.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/woodpecker.html",
 				"count": 1,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/wren.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/wren.html",
 				"count": 1,
 				"index": 7
 			}
@@ -273,12 +273,12 @@
 		"queries": "her",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/birds.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/birds.html",
 				"count": 2,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/heron.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/heron.html",
 				"count": 1,
 				"index": 1
 			}
@@ -288,27 +288,27 @@
 		"queries": "st sw",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/birds.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/birds.html",
 				"count": 4,
 				"index": 46
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/starling.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/starling.html",
 				"count": 1,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/stork.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/stork.html",
 				"count": 1,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/swallow.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/swallow.html",
 				"count": 1,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/birds/swan.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/birds/swan.html",
 				"count": 1,
 				"index": 1
 			}

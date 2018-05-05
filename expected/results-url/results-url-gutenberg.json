@@ -3,17 +3,17 @@
 		"queries": "abandon",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32154-h/32154-h.htm",
 				"count": 3,
 				"index": 1481
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32522-h/32522-h.htm",
 				"count": 1,
 				"index": 5244
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32032-h/32032-h.htm",
 				"count": 1,
 				"index": 6175
 			}
@@ -23,22 +23,22 @@
 		"queries": "gutenberg",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/31516-h/31516-h.htm",
 				"count": 93,
 				"index": 3
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32032-h/32032-h.htm",
 				"count": 93,
 				"index": 3
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32154-h/32154-h.htm",
 				"count": 93,
 				"index": 3
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32522-h/32522-h.htm",
 				"count": 93,
 				"index": 3
 			}
@@ -53,22 +53,22 @@
 		"queries": "provide",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32154-h/32154-h.htm",
 				"count": 12,
 				"index": 3468
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/31516-h/31516-h.htm",
 				"count": 11,
 				"index": 2498
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32522-h/32522-h.htm",
 				"count": 11,
 				"index": 12247
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32032-h/32032-h.htm",
 				"count": 11,
 				"index": 16966
 			}
@@ -78,22 +78,22 @@
 		"queries": "x y z",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32154-h/32154-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32154-h/32154-h.htm",
 				"count": 460,
 				"index": 31
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32032-h/32032-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32032-h/32032-h.htm",
 				"count": 409,
 				"index": 30
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32522-h/32522-h.htm",
 				"count": 297,
 				"index": 30
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/31516-h/31516-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/31516-h/31516-h.htm",
 				"count": 87,
 				"index": 32
 			}
@@ -103,7 +103,7 @@
 		"queries": "zone",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/gutenberg/32522-h/32522-h.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/gutenberg/32522-h/32522-h.htm",
 				"count": 4,
 				"index": 5130
 			}

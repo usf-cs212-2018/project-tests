@@ -3,22 +3,22 @@
 		"queries": "aar alpaca elephant",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/mixed_case.htm",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/mixed_case.htm",
 				"count": 4,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/index.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/index.html",
 				"count": 3,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/a/b/c/subdir.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/a/b/c/subdir.html",
 				"count": 1,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/capital_extension.HTML",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/capital_extension.HTML",
 				"count": 1,
 				"index": 1
 			}
@@ -28,17 +28,17 @@
 		"queries": "ant eight nine seven",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/symbols.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/symbols.html",
 				"count": 6,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/position.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/position.html",
 				"count": 6,
 				"index": 7
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/index.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/index.html",
 				"count": 1,
 				"index": 7
 			}
@@ -53,12 +53,12 @@
 		"queries": "four",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/position.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/position.html",
 				"count": 2,
 				"index": 4
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/index.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/index.html",
 				"count": 1,
 				"index": 6
 			}
@@ -68,12 +68,12 @@
 		"queries": "hello world",
 		"results": [
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/hello.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/hello.html",
 				"count": 8,
 				"index": 1
 			},
 			{
-				"where": "http://cs.usfca.edu/~cs212/simple/index.html",
+				"where": "http://vis.cs.ucdavis.edu/~cjbryan/cs212/simple/index.html",
 				"count": 1,
 				"index": 4
 			}
